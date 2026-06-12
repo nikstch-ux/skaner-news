@@ -1,8 +1,8 @@
-name: News Agent — 10:00 AM ET daily
+name: News Agent — every 30 min market hours
 
 on:
   schedule:
-    - cron: '00 14 * * 1-5'   # 10:00 AM EDT / 9:00 AM EST
+    - cron: '0,30 14,15,16,17,18,19 * * 1-5'   # every 30 min 10:00 AM–4:00 PM EDT
   workflow_dispatch:
 
 permissions:
