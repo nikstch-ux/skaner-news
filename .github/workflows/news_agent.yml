@@ -1,0 +1,47 @@
+name: News Agent — 10:00 AM ET daily
+
+on:
+  schedule:
+    - cron: '00 14 * * 1-5'   # 10:00 AM EDT / 9:00 AM EST
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  news:
+    name: Market News — latest_news.md
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Cache pip
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: pip-news-yfinance-feedparser
+
+      - name: Install dependencies
+        run: pip install yfinance alpaca-py pytz feedparser -q
+
+      - name: Run News Agent
+        env:
+          ALPACA_ACC1_KEY:    ${{ secrets.ALPACA_ACC1_KEY }}
+          ALPACA_ACC1_SECRET: ${{ secrets.ALPACA_ACC1_SECRET }}
+          ALPACA_ACC2_KEY:    ${{ secrets.ALPACA_ACC2_KEY }}
+          ALPACA_ACC2_SECRET: ${{ secrets.ALPACA_ACC2_SECRET }}
+          ALPACA_ACC3_KEY:    ${{ secrets.ALPACA_ACC3_KEY }}
+          ALPACA_ACC3_SECRET: ${{ secrets.ALPACA_ACC3_SECRET }}
+        run: python news_agent.py
+
+      - name: Commit latest_news.md
+        run: |
+          git config user.name "news-bot"
+          git config user.email "bot@github.com"
+          git add -f latest_news.md 2>/dev/null || true
+          git diff --staged --quiet || git commit -m "news: $(date +%Y-%m-%d\ %H:%M)"
+          git push || true
