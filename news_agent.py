@@ -46,9 +46,11 @@ CT = pytz.timezone("America/Chicago")
 # ── Data fetchers ──────────────────────────────────────────────────────────────
 
 def get_open_positions():
-    """Returns {symbol: (account_name, entry_price, unreal_pl_pct)}."""
+    """Returns {symbol: (account_name, entry_price, unreal_pl_pct)}. Skips if no keys set."""
     positions = {}
     for name, (k, s) in ACCOUNTS.items():
+        if not k or not s:
+            continue
         try:
             client = TradingClient(k, s, paper=True)
             for p in client.get_all_positions():
