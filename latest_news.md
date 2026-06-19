@@ -1,4 +1,4 @@
-# Market News — Friday June 19 2026 — 01:56 PM CT
+# Market News — Friday June 19 2026 — 03:27 PM CT
 
 **SPY** $746.74  +0.15%  |  **VIX** 16.78  |  **Regime** OK  |  **Portfolio P&L** +$0  |  **Positions** 0
 
@@ -9,8 +9,8 @@
 - [Japan core inflation holds steady in May, matching expectations despite energy price concerns](https://www.cnbc.com/2026/06/19/japan-core-inflation-holds-steady-in-may-matching-expectations-despite-energy-price-concerns.html) — *CNBC 7:28 PM CT*
 - [India's largest telecom and digital service Jio Platforms files for IPO](https://www.cnbc.com/2026/06/19/india-jio-platforms-ipo-mukesh-ambani.html) — *CNBC 5:50 AM CT*
 - [Russia threatens escalation after Ukraine hits Moscow with largest-ever drone attack](https://www.cnbc.com/2026/06/19/russia-ukraine-moscow-drone-attack-trump.html) — *CNBC 5:25 AM CT*
-- [Vance says U.S. isn’t giving Iran ‘a cent’ as he defends Trump peace deal](https://www.cnbc.com/2026/06/18/vance-iran-war-memo-oil-gas.html) — *CNBC 3:14 PM CT*
 - [Hormuz relief may not ease the economic toll that's already 'baked in,' analysts warn](https://www.cnbc.com/2026/06/19/hormuz-relief-may-not-ease-the-economic-toll-thats-already-baked-in-analysts-warn.html) — *CNBC 3:08 AM CT*
+- [DOJ rebuffs judge's request to put in writing it won't move forward with 'anti-weaponization' fund](https://www.cnbc.com/2026/06/19/doj-anti-weaponization-fund-trump.html) — *CNBC 2:50 PM CT*
 
 
 ---
@@ -45,9 +45,9 @@
 ## AI / Semiconductor Sector
 
 ### NVDA  $210.69  +2.13%
-- [Ethereum's New Tech Upgrade Is Coming Soon. Is It Time to Buy ETH?](https://www.fool.com/investing/2026/06/19/ethereums-new-tech-upgrade-is-coming-soon-is-it-ti/) — *Motley Fool 1:53 PM CT*
-- [Moody's Credit Ratings Are Coming for Tokenized Assets. What This Means For Solana Might Surprise You.](https://www.fool.com/investing/2026/06/19/moodys-credit-ratings-are-coming-for-tokenized-ass/) — *Motley Fool 1:51 PM CT*
-- [American Express Just Signed a Multiyear Payments Deal With the NFL. Here's the Bigger Play.](https://www.fool.com/investing/2026/06/19/american-express-multiyear-payments-nfl-big-play/) — *Motley Fool 1:36 PM CT*
+- [If You'd Invested $10,000 in Tesla 10 Years Ago, Here's How Much You'd Have Today](https://www.fool.com/investing/2026/06/19/you-invest-10000-tesla-10-years-ago-how-much/) — *Motley Fool 3:04 PM CT*
+- [Up 700% YTD, How High Can SanDisk Rally?](https://247wallst.com/investing/2026/06/19/up-700-ytd-how-high-can-sandisk-rally/) — *24/7 Wall St. 3:00 PM CT*
+- [With Inflation Surging, Is a Bond ETF the Best Investment Right Now? Here's What History Suggests.](https://www.fool.com/investing/2026/06/19/with-inflation-surging-is-a-bond-etf-the-best-inve/) — *Motley Fool 2:56 PM CT*
 
 ### AMD  $537.37  +2.95%
 - [Analyst Warns Intel Valuation ‘Doesn’t Make Sense.’ Suggests NVIDIA, AMD, Micron, and Broadcom as Alternatives.](https://247wallst.com/investing/2026/06/19/analyst-warns-intel-valuation-doesnt-make-sense-suggests-nvidia-amd-micron-and-broadcom-as-alternatives/) — *24/7 Wall St. 12:36 PM CT*
@@ -73,7 +73,6 @@
 ## Market Headlines  *(Reuters · MarketWatch · CNBC)*
 - [U.S. opens tariff probe targeting Germany’s drug pricing policies](https://www.cnbc.com/2026/06/19/us-tariff-probe-germany-drug-pricing-policies-mfn.html) — *CNBC 9:44 AM CT*
 - [‘We own our home outright’: I am 67 and earn $100,000. Do I take my $30,000-a-year Social Security now or wait?](https://www.marketwatch.com/story/we-own-our-home-outright-i-am-67-and-earn-100-000-do-i-take-my-30-000-social-security-now-or-wait-bbe1e123?mod=mw_rss_topstories) — *MarketWatch 9:10 AM CT*
-- [The loneliness crisis has gotten so bad that lawmakers are ready to spend millions of dollars to fight it](https://www.marketwatch.com/story/the-loneliness-crisis-has-gotten-so-bad-that-lawmakers-are-ready-to-spend-millions-of-dollars-to-fight-it-f7e7c7b7?mod=mw_rss_topstories) — *MarketWatch 9:00 AM CT*
 - [29-year-old making $250k in tech went 'undercover' at a coffee chain before opening her own matcha cafe](https://www.cnbc.com/2026/06/19/29-year-old-software-engineer-worked-undercover-at-a-coffee-chain.html) — *CNBC 9:00 AM CT*
 - [In photos: Star-studded crowd gathers to celebrate the Obama Presidential Center dedication](https://www.cnbc.com/2026/06/18/obama-presidential-center-opening-chicago-photos-trump.html) — *CNBC 8:51 AM CT*
 - [Homeowners tapped $47 billion in equity in the first quarter. What to consider before you borrow](https://www.cnbc.com/2026/06/19/home-equity-borrow.html) — *CNBC 8:30 AM CT*
@@ -83,6 +82,7 @@
 - [UK gilt yields jump as borrowing rises and PM Starmer faces leadership challenge](https://www.cnbc.com/2026/06/19/andy-burnham-makerfield-by-election.html) — *CNBC 5:51 AM CT*
 - [Musk's SpaceX stake is worth over $1 trillion. Here are the other billionaire shareholders](https://www.cnbc.com/2026/06/19/musk-spacex-billionaire-shareholders.html) — *CNBC 5:47 AM CT*
 - [SpaceX stock sinks for a second day as company slips below Amazon in market cap](https://www.cnbc.com/2026/06/18/spacex-stock-elon-musk-rally-cools.html) — *CNBC 3:36 PM CT*
+- [What this biotech's volatile stock price tells you about the weight loss market right now](https://www.cnbc.com/2026/06/19/zealand-pharma-stock-weight-loss-drugmaker-novo-lilly.html) — *CNBC 2:30 AM CT*
 
 ---
-*Generated 2026-06-19 13:56 CT | last 24h | sources: yfinance + Reuters/MarketWatch/CNBC*
+*Generated 2026-06-19 15:27 CT | last 24h | sources: yfinance + Reuters/MarketWatch/CNBC*
