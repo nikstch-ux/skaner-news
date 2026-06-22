@@ -1,16 +1,16 @@
-# Market News — Friday June 19 2026 — 03:27 PM CT
+# Market News — Monday June 22 2026 — 01:13 PM CT
 
-**SPY** $746.74  +0.15%  |  **VIX** 16.78  |  **Regime** OK  |  **Portfolio P&L** +$0  |  **Positions** 0
+**SPY** $744.86  -0.28%  |  **VIX** 17.18  |  **Regime** OK  |  **Portfolio P&L** +$0  |  **Positions** 0
 
-## MARKET ALERTS — 13 priority stories
-- [Why Japan's $70 billion-plus intervention and a rate hike didn't prop up the yen more](https://www.cnbc.com/2026/06/19/japan-yen-intervention-boj-rate-hike.html) — *CNBC 9:04 PM CT*
-- [Trump claims Iran deal is 'unconditional surrender,' says his power has 'no limits': Axios](https://www.cnbc.com/2026/06/19/trump-claims-iran-deal-is-unconditional-surrender-axios-.html) — *CNBC 9:00 PM CT*
-- [U.S.-Iran deal in photos: ships in the Strait of Hormuz, daily life in Tehran](https://www.cnbc.com/2026/06/19/us-iran-deal-in-photos-shipping-resumes-as-fragile-peace-takes-hold.html) — *CNBC 8:28 PM CT*
-- [Japan core inflation holds steady in May, matching expectations despite energy price concerns](https://www.cnbc.com/2026/06/19/japan-core-inflation-holds-steady-in-may-matching-expectations-despite-energy-price-concerns.html) — *CNBC 7:28 PM CT*
-- [India's largest telecom and digital service Jio Platforms files for IPO](https://www.cnbc.com/2026/06/19/india-jio-platforms-ipo-mukesh-ambani.html) — *CNBC 5:50 AM CT*
-- [Russia threatens escalation after Ukraine hits Moscow with largest-ever drone attack](https://www.cnbc.com/2026/06/19/russia-ukraine-moscow-drone-attack-trump.html) — *CNBC 5:25 AM CT*
-- [Hormuz relief may not ease the economic toll that's already 'baked in,' analysts warn](https://www.cnbc.com/2026/06/19/hormuz-relief-may-not-ease-the-economic-toll-thats-already-baked-in-analysts-warn.html) — *CNBC 3:08 AM CT*
-- [DOJ rebuffs judge's request to put in writing it won't move forward with 'anti-weaponization' fund](https://www.cnbc.com/2026/06/19/doj-anti-weaponization-fund-trump.html) — *CNBC 2:50 PM CT*
+## MARKET ALERTS — 12 priority stories
+- [Companies are demanding states cut red tape. Data center-wary voters may think differently](https://www.cnbc.com/2026/06/22/states-data-center-permitting-public-opposition.html) — *CNBC 8:36 AM CT*
+- [Shipping stalls in Strait of Hormuz after Iran declares key waterway closed again](https://www.cnbc.com/2026/06/22/strait-of-hormuz-iran-us-shipping-oil.html) — *CNBC 8:34 AM CT*
+- [Treasury Department authorizes Iranian oil sales through August](https://www.cnbc.com/2026/06/22/treasury-iran-oil-sales.html) — *CNBC 12:56 PM CT*
+- ['Reward for failure': Investor support for Target Chair Brian Cornell falls to lowest level ever](https://www.cnbc.com/2026/06/22/target-brian-cornell-shareholder-support.html) — *CNBC 12:55 PM CT*
+- [Oil prices fall after U.S. authorizes Iranian crude sales](https://www.cnbc.com/2026/06/22/oil-prices-wti-brent-crude-trump-iran-threat-strait-hormuz-closure.html) — *CNBC 12:50 PM CT*
+- [SpaceX makes bond sale days after record IPO, discloses over $100 billion cash pile](https://www.cnbc.com/2026/06/22/spacex-spcx-bond-sale-ipo.html) — *CNBC 12:42 PM CT*
+- [Alphabet sees $269 billion market-cap wipeout as investors fear it’s losing the war for AI talent](https://www.marketwatch.com/story/alphabet-sees-269-billion-market-cap-wipeout-as-investors-fear-its-losing-the-war-for-ai-talent-497aa378?mod=mw_rss_topstories) — *MarketWatch 12:12 PM CT*
+- [Chevron to fuel massive Microsoft data center in Texas using natural gas](https://www.cnbc.com/2026/06/22/chevron-cvx-microsoft-msft-natural-gas-data-center.html) — *CNBC 11:06 AM CT*
 
 
 ---
@@ -21,68 +21,65 @@
 ---
 ## Market Pulse
 
-### SPY  $746.74  +0.15%
-- [A Median Earner Needs $803 Monthly for 30 Years to Hit $1 Million. Most Don’t Make It.](https://247wallst.com/personal-finance/2026/06/19/a-median-earner-needs-803-monthly-for-30-years-to-hit-1-million-most-dont-make-it/) — *24/7 Wall St. 1:28 PM CT*
-- [Famous Wall Street Tech Analyst Names Meta and Amazon the Best Magnificent 7 Stock Buys Today](https://247wallst.com/investing/2026/06/19/famous-wall-street-tech-analyst-names-meta-and-amazon-the-best-magnificent-7-stock-buys-today/) — *24/7 Wall St. 11:52 AM CT*
-- [Why JEPI Investors Gave Up $3,379 in Five-Year Gains](https://247wallst.com/investing/2026/06/18/why-jepi-investors-gave-up-3379-in-five-year-gains/) — *24/7 Wall St. 7:31 PM CT*
+### SPY  $744.86  -0.28%
+- [Had You Invested $1,000 in Marvell or Micron a Decade Ago, Here’s What You’d Have Now](https://247wallst.com/investing/2026/06/22/had-you-invested-1000-in-marvell-or-micron-a-decade-ago-heres-what-youd-have-now/) — *24/7 Wall St. 11:55 AM CT*
+- [US Economy Looking Like Goldilocks: ETF Areas Likely to Gain](https://finance.yahoo.com/economy/articles/us-economy-looking-goldilocks-etf-160000675.html) — *Zacks 11:00 AM CT*
+- [ETF Ways to Navigate the 2026 Midterm Election Cycle](https://finance.yahoo.com/markets/stocks/articles/etf-ways-navigate-2026-midterm-160000370.html) — *Zacks 11:00 AM CT*
 
-### QQQ  $740.62  +1.46%
-- [If You'd Invested $10,000 in QQQ 10 Years Ago, Here's How Much You'd Have Today](https://www.fool.com/investing/2026/06/19/you-invested-10000-in-qqq-10-years-ago-how-much/) — *Motley Fool 11:20 PM CT*
-- [ARKK’s 0.75% Fee Quietly Costs You $55 a Year on Every $10,000 Invested](https://247wallst.com/investing/2026/06/18/arkks-0-75-fee-quietly-costs-you-55-a-year-on-every-10000-invested/) — *24/7 Wall St. 7:35 PM CT*
-- [Why TQQQ’s 112% Gain Masks a Structural Cost That Compounds Every Single Day](https://247wallst.com/investing/2026/06/18/why-tqqqs-112-gain-masks-a-structural-cost-that-compounds-every-single-day/) — *24/7 Wall St. 7:26 PM CT*
+### QQQ  $737.33  -0.33%
+- [Exchange-Traded Funds, US Equities Mixed After Midday](https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-us-equities-171807210.html) — *MT Newswires 12:18 PM CT*
 
-### VIX  $16.78  +2.32%
+### VIX  $17.18  +2.38%
 
-### SMH  $659.88  +3.75%
-- [ETF Fund Flows: SMH Adds $6.9B on Semiconductor Fervor](http://www.etf.com/sections/daily-etf-flows/etf-fund-flows-smh-adds-69b-semiconductor-fervor?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss) — *etf.com 4:00 PM CT*
+### SMH  $664.64  +0.56%
 
-### XLK  $191.44  +1.66%
-- [The stock market's next leg higher may not come from AI: Chart of the Day](https://finance.yahoo.com/markets/article/the-stock-markets-next-leg-higher-may-not-come-from-ai-chart-of-the-day-100000330.html) — *Yahoo Finance 5:00 AM CT*
-- [Is an AI or Broad Tech ETF the Better Bet? We Pit the Roundhill AI Fund Against the State Street S&P 500 Tech Fund](https://www.fool.com/coverage/etfs/2026/06/19/is-an-ai-or-broad-tech-etf-the-better-bet-we-pit-the-roundhill-ai-fund-against-the-state-street-s-and-p-500-tech-fund/) — *Motley Fool 11:47 AM CT*
-- [Gen Digital Stock: Is GEN Underperforming the Technology Sector?](https://www.barchart.com/story/news/2548287/gen-digital-stock-is-gen-underperforming-the-technology-sector) — *Barchart 7:41 PM CT*
+### XLK  $191.88  +0.30%
+- [Sector Update: Tech Stocks Advance Monday Afternoon](https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-advance-monday-174159633.html) — *MT Newswires 12:41 PM CT*
+- [Should You Buy AMD Stock Now or Wait for a Dip?](https://www.fool.com/investing/2026/06/22/should-you-buy-amd-stock-now-or-wait-for-a-dip/) — *Motley Fool 10:29 AM CT*
+- [Stock Market News for Jun 22, 2026](https://finance.yahoo.com/markets/stocks/articles/stock-market-news-jun-22-132600790.html) — *Zacks 8:26 AM CT*
 
 ---
 ## AI / Semiconductor Sector
 
-### NVDA  $210.69  +2.13%
-- [If You'd Invested $10,000 in Tesla 10 Years Ago, Here's How Much You'd Have Today](https://www.fool.com/investing/2026/06/19/you-invest-10000-tesla-10-years-ago-how-much/) — *Motley Fool 3:04 PM CT*
-- [Up 700% YTD, How High Can SanDisk Rally?](https://247wallst.com/investing/2026/06/19/up-700-ytd-how-high-can-sandisk-rally/) — *24/7 Wall St. 3:00 PM CT*
-- [With Inflation Surging, Is a Bond ETF the Best Investment Right Now? Here's What History Suggests.](https://www.fool.com/investing/2026/06/19/with-inflation-surging-is-a-bond-etf-the-best-inve/) — *Motley Fool 2:56 PM CT*
+### NVDA  $208.92  -0.67%
+- ['The most powerful market force I think I've ever seen in my career': Strategist discusses](https://finance.yahoo.com/video/the-most-powerful-market-force-i-think-ive-ever-seen-in-my-career-strategist-discusses-180108004.html) — *Yahoo Finance Video 1:01 PM CT*
+- [Nvidia Stock Is Falling on a Good Day for Intel and Other Chip Stocks](https://www.barrons.com/articles/nvidia-stock-price-amd-intel-aed87973?siteid=yhoof2&yptr=yahoo) — *Barrons.com 1:00 PM CT*
+- [Super Micro Stock Soars on Forecast of Explosive AI Server Growth](https://finance.yahoo.com/markets/stocks/articles/super-micro-stock-soars-forecast-175927941.html) — *GuruFocus.com 12:59 PM CT*
 
-### AMD  $537.37  +2.95%
-- [Analyst Warns Intel Valuation ‘Doesn’t Make Sense.’ Suggests NVIDIA, AMD, Micron, and Broadcom as Alternatives.](https://247wallst.com/investing/2026/06/19/analyst-warns-intel-valuation-doesnt-make-sense-suggests-nvidia-amd-micron-and-broadcom-as-alternatives/) — *24/7 Wall St. 12:36 PM CT*
-- [AI And Post‑Quantum Push Could Be A Game Changer For TD SYNNEX (SNX)](https://finance.yahoo.com/technology/ai/articles/ai-post-quantum-push-could-161411782.html) — *Simply Wall St. 11:14 AM CT*
-- [Donald Trump’s Under-The-Radar Tech Stock Pick Everyone’s Ignoring](https://finance.yahoo.com/markets/stocks/articles/donald-trump-under-radar-tech-153404937.html) — *Insider Monkey 10:34 AM CT*
+### AMD  $545.42  +1.64%
+- [Forget Nvidia: Four Billionaires Who Rarely Agree on Anything Hold the Same Overlooked Chip Stock](https://247wallst.com/investing/2026/06/22/forget-nvidia-four-billionaires-who-rarely-agree-on-anything-hold-the-same-overlooked-chip-stock/) — *24/7 Wall St. 12:35 PM CT*
+- [David Tepper Trimmed Nvidia and AMD, but Doubled Down on This AI Stock](https://247wallst.com/investing/2026/06/22/david-tepper-trimmed-nvidia-and-amd-but-doubled-down-on-this-ai-stock/) — *24/7 Wall St. 11:47 AM CT*
+- [Can Qualcomm's QCT Segment Sustain Growth Amid Handset Weakness?](https://finance.yahoo.com/markets/stocks/articles/qualcomms-qct-segment-sustain-growth-153900074.html) — *Zacks 10:39 AM CT*
 
-### TSM  $462.12  +5.68%
-- [ASML Draws Fresh China Scrutiny](https://finance.yahoo.com/technology/articles/asml-draws-fresh-china-scrutiny-170543582.html) — *GuruFocus.com 12:05 PM CT*
-- [Here Is the 1 Dirt-Cheap Semiconductor Titan I Keep Loading Up on Repeat](https://247wallst.com/investing/2026/06/19/here-is-the-1-dirt-cheap-semiconductor-titan-i-keep-loading-up-on-repeat/) — *24/7 Wall St. 9:56 AM CT*
-- [SpaceX Is the 5th Most Valuable Public Company in the World. Can It Overtake Nvidia, Alphabet, Apple, or Microsoft?](https://www.fool.com/investing/2026/06/19/spacex-is-the-5th-most-valuable-public-company-in/) — *Motley Fool 9:50 AM CT*
+### TSM  $466.77  +0.96%
+- [Cerebras Stock Gets Major Vote of Confidence as Key Earnings Test Nears](https://finance.yahoo.com/technology/ai/articles/cerebras-stock-gets-major-vote-170824831.html) — *GuruFocus.com 12:08 PM CT*
+- [Why I'm Not Selling ASML After a 230% Gain](https://www.fool.com/investing/2026/06/22/why-im-not-selling-asml-after-a-230-gain/) — *Motley Fool 12:04 PM CT*
+- [Cerebras Systems' Q1 Outlook Hinges on Supply, Market Share Gains, Wedbush Says](https://finance.yahoo.com/technology/ai/articles/cerebras-systems-apos-q1-outlook-145920793.html) — *MT Newswires 9:59 AM CT*
 
-### MRVL  $310.58  +4.33%
-- [3 Stocks to Buy Now Before Wall Street Catches On](https://247wallst.com/investing/2026/06/19/3-stocks-to-buy-now-before-wall-street-catches-on/) — *24/7 Wall St. 12:05 PM CT*
-- [ALAB Rides on Strong Aries and Taurus Demand: A Sign for More Upside?](https://finance.yahoo.com/technology/ai/articles/alab-rides-strong-aries-taurus-143900927.html) — *Zacks 9:39 AM CT*
-- [Marvell Technology, Inc. (MRVL) Names Adobe’s Dan Durn as Finance Chief](https://finance.yahoo.com/markets/stocks/articles/marvell-technology-inc-mrvl-names-071719592.html) — *Insider Monkey 2:17 AM CT*
+### MRVL  $306.06  -2.37%
+- [AI Boom and HBM Demand to Boost Micron's DRAM Revenues in Q3](https://finance.yahoo.com/technology/ai/articles/ai-boom-hbm-demand-boost-131300285.html) — *Zacks 8:13 AM CT*
+- [The Next Phase of AI Infrastructure Could Be Good News for Marvell (MRVL)](https://finance.yahoo.com/technology/ai/articles/next-phase-ai-infrastructure-could-131044926.html) — *Insider Monkey 8:10 AM CT*
+- [Here's How Much a $1000 Investment in Marvell Technology Made 10 Years Ago Would Be Worth Today](https://finance.yahoo.com/markets/stocks/articles/heres-much-1000-investment-marvell-123004960.html) — *Zacks 7:30 AM CT*
 
-### AVGO  $411.35  +3.27%
-- [Google, SpaceX, Microsoft, and Amazon Are About to Spend ‘Twice the Entire U.S. Defense Budget’ on AI](https://247wallst.com/investing/2026/06/19/google-spacex-microsoft-and-amazon-are-about-to-spend-twice-the-entire-u-s-defense-budget-on-ai/) — *24/7 Wall St. 12:19 PM CT*
-- [Cisco is Overvalued at 7.01X P/S: Should You Still Buy the Stock?](https://finance.yahoo.com/markets/stocks/articles/cisco-overvalued-7-01x-p-154600772.html) — *Zacks 10:46 AM CT*
-- [SpaceX Has a Rapidly Approaching $20 Billion Surprise for Its Shareholders -- and They're Not Going to Be Happy](https://www.fool.com/investing/2026/06/19/spacex-has-rapidly-approaching-20-billion-surprise/) — *Motley Fool 6:26 AM CT*
+### AVGO  $396.64  -3.57%
+- [Micron, Anthropic sign AI infrastructure supply agreement](https://finance.yahoo.com/technology/ai/articles/micron-anthropic-sign-ai-infrastructure-180259668.html) — *Reuters 1:02 PM CT*
+- [Anthropic Technical Expert: ‘Coding Is No Longer the Bottleneck’ as Engineers Ship 8x More Code Per Quarter](https://247wallst.com/investing/2026/06/22/anthropic-technical-expert-coding-is-no-longer-the-bottleneck-as-engineers-ship-8x-more-code-per-quarter/) — *24/7 Wall St. 10:20 AM CT*
+- [Got $1,000? Why Broadcom's Guidance Created the Ultimate Artificial Intelligence (AI) Buying Opportunity.](https://www.fool.com/investing/2026/06/22/got-1000-why-broadcoms-guidance-created-the-ultima/) — *Motley Fool 9:50 AM CT*
 
 ---
 ## Market Headlines  *(Reuters · MarketWatch · CNBC)*
-- [U.S. opens tariff probe targeting Germany’s drug pricing policies](https://www.cnbc.com/2026/06/19/us-tariff-probe-germany-drug-pricing-policies-mfn.html) — *CNBC 9:44 AM CT*
-- [‘We own our home outright’: I am 67 and earn $100,000. Do I take my $30,000-a-year Social Security now or wait?](https://www.marketwatch.com/story/we-own-our-home-outright-i-am-67-and-earn-100-000-do-i-take-my-30-000-social-security-now-or-wait-bbe1e123?mod=mw_rss_topstories) — *MarketWatch 9:10 AM CT*
-- [29-year-old making $250k in tech went 'undercover' at a coffee chain before opening her own matcha cafe](https://www.cnbc.com/2026/06/19/29-year-old-software-engineer-worked-undercover-at-a-coffee-chain.html) — *CNBC 9:00 AM CT*
-- [In photos: Star-studded crowd gathers to celebrate the Obama Presidential Center dedication](https://www.cnbc.com/2026/06/18/obama-presidential-center-opening-chicago-photos-trump.html) — *CNBC 8:51 AM CT*
-- [Homeowners tapped $47 billion in equity in the first quarter. What to consider before you borrow](https://www.cnbc.com/2026/06/19/home-equity-borrow.html) — *CNBC 8:30 AM CT*
-- [Jio Platforms eyes low-orbit satellite rollout as Starlink awaits India launch](https://www.cnbc.com/2026/06/19/jio-platforms-low-earth-orbit-satellites-starlink.html) — *CNBC 7:16 AM CT*
-- [Memory crisis hits such extremes that 'even Apple can't be safe'](https://www.cnbc.com/2026/06/19/memory-crisis-hits-such-extremes-that-even-apple-cant-be-safe-.html) — *CNBC 7:00 AM CT*
-- [Bob Iger reflects on 10 years of Shanghai Disneyland as it defies the Chinese pullback](https://www.cnbc.com/2026/06/19/bob-iger-shanghai-disneyland-chinese-pullback.html) — *CNBC 6:00 AM CT*
-- [UK gilt yields jump as borrowing rises and PM Starmer faces leadership challenge](https://www.cnbc.com/2026/06/19/andy-burnham-makerfield-by-election.html) — *CNBC 5:51 AM CT*
-- [Musk's SpaceX stake is worth over $1 trillion. Here are the other billionaire shareholders](https://www.cnbc.com/2026/06/19/musk-spacex-billionaire-shareholders.html) — *CNBC 5:47 AM CT*
-- [SpaceX stock sinks for a second day as company slips below Amazon in market cap](https://www.cnbc.com/2026/06/18/spacex-stock-elon-musk-rally-cools.html) — *CNBC 3:36 PM CT*
-- [What this biotech's volatile stock price tells you about the weight loss market right now](https://www.cnbc.com/2026/06/19/zealand-pharma-stock-weight-loss-drugmaker-novo-lilly.html) — *CNBC 2:30 AM CT*
+- [Alan Greenspan, former chairman of the Fed, dies at age 100](https://www.cnbc.com/2026/06/22/alan-greenspan-former-chairman-of-the-fed-dies-at-age-100.html) — *CNBC 9:39 AM CT*
+- [CNBC Elite Advisors: Top ultra-high net worth wealth management firms for 2026](https://www.cnbc.com/2026/06/22/uhnw-wealth-management-list-cnbc-elite-advisors.html) — *CNBC 9:03 AM CT*
+- [The new arms race in wealth management: Winning the ultra-wealthy](https://www.cnbc.com/2026/06/22/wealth-management-firms-compete-for-ultra-wealthy-clients.html) — *CNBC 8:10 AM CT*
+- [UPS to invest $48 million in temperature-controlled facilities amid healthcare boom](https://www.cnbc.com/2026/06/22/ups-healthcare-logistics-investment.html) — *CNBC 8:08 AM CT*
+- [UK PM Starmer resigns as Britain faces its seventh leader in 10 years](https://www.cnbc.com/2026/06/22/keir-starmer-resigns-uk-prime-minister.html) — *CNBC 7:48 AM CT*
+- [Why a 66-year-old water treaty is becoming the latest India-Pakistan flashpoint](https://www.cnbc.com/2026/06/22/india-pakistan-indus-waters-treaty-water-dispute-war-risk.html) — *CNBC 2:46 AM CT*
+- [Three key AI stocks to watch this week with traders expecting giant moves](https://www.cnbc.com/2026/06/22/three-key-ai-stocks-to-watch-this-week-with-traders-expecting-giant-moves.html) — *CNBC 12:54 PM CT*
+- [Senate poised to advance housing bill to limit private equity purchases of single-family homes](https://www.cnbc.com/2026/06/22/affordable-housing-bill-private-equity-single-family-homes.html) — *CNBC 12:54 PM CT*
+- [Who is Andy Burnham? And 4 other things investors should know as the UK replaces its prime minister](https://www.cnbc.com/2026/06/22/keir-starmer-andy-burnham-uk-markets.html) — *CNBC 12:39 PM CT*
+- [The loneliness crisis has gotten so bad that lawmakers are ready to spend millions of dollars to fight it](https://www.marketwatch.com/story/the-loneliness-crisis-has-gotten-so-bad-that-lawmakers-are-ready-to-spend-millions-of-dollars-to-fight-it-f7e7c7b7?mod=mw_rss_topstories) — *MarketWatch 12:24 PM CT*
+- [Alphabet paces for worst day in a year on AI concerns after high-profile exits](https://www.cnbc.com/2026/06/22/alphabet-goog-stock-ai-departures.html) — *CNBC 12:17 PM CT*
+- [China’s weird new economic spark: toy elves and robocops](https://www.marketwatch.com/story/chinas-new-economic-drivers-a-sad-toy-elf-and-a-robot-police-force-8759daf9?mod=mw_rss_topstories) — *MarketWatch 12:16 PM CT*
 
 ---
-*Generated 2026-06-19 15:27 CT | last 24h | sources: yfinance + Reuters/MarketWatch/CNBC*
+*Generated 2026-06-22 13:13 CT | last 24h | sources: yfinance + Reuters/MarketWatch/CNBC*
