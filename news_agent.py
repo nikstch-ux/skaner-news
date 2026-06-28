@@ -9,7 +9,9 @@ Run on demand:  python news_agent.py
 Deps:           pip install yfinance alpaca-py pytz feedparser
 """
 
-import os
+import os, sys
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 from datetime import datetime, timedelta, timezone
 from collections import defaultdict
 from email.utils import parsedate_to_datetime
