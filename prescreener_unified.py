@@ -22,10 +22,13 @@ from datetime import date, datetime, timedelta
 from pathlib import Path
 import urllib.request
 import pytz
+from alpaca.trading.client import TradingClient
 
 ET              = pytz.timezone("America/New_York")
 CANDIDATES_FILE = "candidates.json"
 NTFY_TOPIC      = os.getenv("NTFY_TOPIC", "nik167privitetrading")
+ALPACA_KEY      = os.environ.get("ALPACA_API_KEY")    or "PKKY7P2JJUGDXSAA7RXAEV3SLP"
+ALPACA_SECRET   = os.environ.get("ALPACA_SECRET_KEY") or "14uJY39x3jBwyShCRyVWPEZ7uCwnVmkJuDYwD4m28GEo"
 
 # ── Universe: everything the scanners watch ───────────────────────────────────
 # S&P 500 + NASDAQ 100 + our known momentum stocks
@@ -171,6 +174,14 @@ def main():
     print(f"  UNIFIED PRE-SCREENER | {now.strftime('%Y-%m-%d %H:%M ET')}")
     print(f"  Scanning {len(UNIVERSE)} stocks -> candidates.json")
     print(f"{'='*60}\n")
+
+    try:
+        if not TradingClient(ALPACA_KEY, ALPACA_SECRET, paper=True).get_clock().is_open:
+            print("  Market closed today (holiday or weekend) — skipping scan")
+            return
+    except Exception as e:
+        print(f"  Couldn't reach Alpaca clock ({e}) — skipping scan to be safe")
+        return
 
     print("  Downloading data...")
     raw = download_data()

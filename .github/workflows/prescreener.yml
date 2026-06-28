@@ -22,12 +22,15 @@ jobs:
         uses: actions/cache@v4
         with:
           path: ~/.cache/pip
-          key: pip-prescreener-yfinance-pandas
+          key: pip-prescreener-yfinance-pandas-alpaca
 
       - name: Install dependencies
-        run: pip install yfinance pandas numpy pytz -q
+        run: pip install yfinance pandas numpy pytz "alpaca-py==0.43.4" -q
 
       - name: Run Pre-screener
+        env:
+          ALPACA_API_KEY:    ${{ secrets.ALPACA_API_KEY }}
+          ALPACA_SECRET_KEY: ${{ secrets.ALPACA_SECRET_KEY }}
         run: python prescreener_unified.py
 
       - name: Commit candidates.json
