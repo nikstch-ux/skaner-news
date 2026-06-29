@@ -1,16 +1,16 @@
-# Market News — Friday June 26 2026 — 03:18 PM CT
+# Market News — Monday June 29 2026 — 11:53 AM CT
 
-**SPY** $728.99  -0.53%  |  **VIX** 18.42  |  **Regime** OK  |  **Portfolio P&L** +$0  |  **Positions** 0
+**SPY** $738.63  +1.02%  |  **VIX** 17.91  |  **Regime** OK  |  **Portfolio P&L** +$0  |  **Positions** 0
 
-## MARKET ALERTS — 12 priority stories
-- [Why breakthrough GLP-1 weight loss pills may be a bad thing for employer insurance coverage](https://www.cnbc.com/2026/06/26/glp1-weight-loss-drug-pills-insurance-plan-coverage.html) — *CNBC 9:08 AM CT*
-- [One factor that may be partly behind the S&P 500's curious action this week](https://www.cnbc.com/2026/06/26/one-factor-that-may-be-partly-behind-the-sp-500s-curious-action-this-week.html) — *CNBC 7:02 AM CT*
-- [ON Semiconductor strikes $7 billion deal for Synaptics in physical AI push](https://www.cnbc.com/2026/06/25/on-semi-synaptics-deal-physical-ai.html) — *CNBC 5:59 PM CT*
-- [Shipping rebounds in Strait of Hormuz one week after U.S.-Iran deal – but fragile confidence threatens recovery](https://www.cnbc.com/2026/06/26/strait-of-hormuz-shipping-oil-us-iran.html) — *CNBC 4:36 AM CT*
-- [ON Semiconductor records worst day since 2020 as CEO defends Synaptics deal](https://www.cnbc.com/2026/06/26/on-semi-stock-synaptics-ceo-hassane-el-khoury.html) — *CNBC 3:09 PM CT*
-- [Trump says Iran violated ceasefire with drone attacks on Strait of Hormuz ships](https://www.cnbc.com/2026/06/26/trump-iran-ceasefire-strait-of-hormuz.html) — *CNBC 2:13 PM CT*
-- [OpenAI is reportedly delaying its IPO. Here's when Kalshi traders think it will announce](https://www.cnbc.com/2026/06/26/openai-ipo-timeline-delayed-kalshi-predictions.html) — *CNBC 12:45 PM CT*
-- [Trump eases pressure on Fed Chairman Kevin Warsh as inflation tops 4%](https://www.cnbc.com/2026/06/26/trump-warsh-fed-rate-cuts-inflation.html) — *CNBC 12:39 PM CT*
+## MARKET ALERTS — 8 priority stories
+- [Oil prices near pre-war levels  —  but persistent supply risks could spark a rebound, analysts warn](https://www.cnbc.com/2026/06/29/strait-of-hormuz-shipping-iran-oil-war-us.html) — *CNBC 9:46 AM CT*
+- [Trump says U.S. and Iran to hold fresh talks in Qatar on Tuesday following weekend clashes](https://www.cnbc.com/2026/06/29/trump-us-iran-talks-qatar-hormuz.html) — *CNBC 9:30 AM CT*
+- [South Korea says Samsung and SK Hynix investing in AI, semiconductor mega-projects](https://www.cnbc.com/2026/06/29/samsung-sk-hynix-reported-1point3-reported-trillion-spending-plans.html) — *CNBC 1:44 AM CT*
+- [Baidu shares jump 7% as AI chip arm Kunlunxin said to target $50 billion Hong Kong IPO](https://www.cnbc.com/2026/06/29/baidu-kunlunxin-hong-kong-ipo-50-billion-ai-chips.html) — *CNBC 11:09 PM CT*
+- [Putin’s fuel shortage admission signals growing strain on Russia’s energy infrastructure](https://www.cnbc.com/2026/06/29/putin-russia-fuel-shortages-ukraine-drone-strikes.html) — *CNBC 11:03 AM CT*
+- [Op-ed: If you think China needs to dethrone U.S. dollar, you don't understand how it is waging global currency war](https://www.cnbc.com/2026/06/28/china-doesnt-need-to-de-throne-dollar-to-win-global-currency-war.html) — *CNBC 11:00 AM CT*
+- [Wall Street is bracing for a wave of Fed rate hikes that may never come. These sectors stand to gain.](https://www.marketwatch.com/story/wall-street-is-bracing-for-a-wave-of-fed-rate-hikes-that-may-never-come-these-sectors-stand-to-gain-63229922?mod=mw_rss_topstories) — *MarketWatch 10:34 AM CT*
+- [Oil prices rise as U.S. and Iran reach deal to halt attacks, U.S. oil above $70 per barrel again](https://www.cnbc.com/2026/06/29/oil-prices-wti-brent-crude-us-iran-strikes-strait-hormuz-talks.html) — *CNBC 10:19 AM CT*
 
 
 ---
@@ -21,71 +21,67 @@
 ---
 ## Market Pulse
 
-### SPY  $728.99  -0.53%
-- [VOO Became the First ETF to Hit $1 Trillion, but Nearly 40% of It Is Now Tech](https://247wallst.com/investing/2026/06/26/voo-became-the-first-etf-to-hit-1-trillion-but-nearly-40-of-it-is-now-tech/) — *24/7 Wall St. 2:00 PM CT*
-- [The “BALI” Bull Run: Is BlackRock’s 7.7% Yield Strategy Too Good to Be True?](https://247wallst.com/investing/2026/06/26/the-bali-bull-run-is-blackrocks-7-7-yield-strategy-too-good-to-be-true/) — *24/7 Wall St. 1:47 PM CT*
-- [This Strategist Thinks the S&P 500 Could Smash Through 8,000 ‘In the Near Term’](https://247wallst.com/investing/2026/06/26/this-strategist-thinks-the-sp-500-could-smash-through-8000-in-the-near-term/) — *24/7 Wall St. 12:15 PM CT*
+### SPY  $738.63  +1.02%
+- [3 Emerging Long-Term Headwinds for the S&P 500](https://www.fool.com/investing/2026/06/29/3-emerging-long-term-headwinds-for-the-sp-500/) — *Motley Fool 9:50 AM CT*
+- [Looking Forward to Holiday-Shortened "Jobs Week"](https://finance.yahoo.com/economy/articles/looking-forward-holiday-shortened-jobs-142300132.html) — *Zacks 9:23 AM CT*
+- [Nasdaq-100 ETFs Keep Sizzling: Can the Rally Last?](https://finance.yahoo.com/markets/stocks/articles/nasdaq-100-etfs-keep-sizzling-134200838.html) — *Zacks 8:42 AM CT*
 
-### QQQ  $706.52  -1.20%
-- [25% Yield!? Why Robinhood Traders Are Piling Into This FANG Income ETF Like There’s No Tomorrow](https://247wallst.com/investing/2026/06/26/25-yield-why-robinhood-traders-are-piling-into-this-fang-income-etf-like-theres-no-tomorrow/) — *24/7 Wall St. 1:04 PM CT*
-- [Exchange-Traded Funds Mixed, US Equities Advance After Midday](https://finance.yahoo.com/markets/articles/exchange-traded-funds-mixed-us-171850205.html) — *MT Newswires 12:18 PM CT*
-- [Exchange-Traded Funds, Equity Futures Decline Pre-Bell Friday as Investors Shift Focus From Middle East to Technology Stocks](https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-131102405.html) — *MT Newswires 8:11 AM CT*
+### QQQ  $720.66  +2.06%
+- ['Magnificent 7' stocks are having a dreadful year](https://finance.yahoo.com/markets/article/magnificent-7-stocks-are-having-a-dreadful-year-134333813.html) — *Yahoo Finance 8:43 AM CT*
+- [SpaceX joins Nasdaq-100 index weeks after SPCX IPO](https://qz.com/spacex-nasdaq-100-index-inclusion-ipo-062926) — *Quartz 9:13 AM CT*
+- [SpaceX Set for Rapid Entry into Nasdaq-100: ETFs in Focus](https://finance.yahoo.com/markets/stocks/articles/spacex-set-rapid-entry-nasdaq-140000927.html) — *Zacks 9:00 AM CT*
 
-### VIX  $18.42  -2.54%
-- [Market Fear Index Flashes Red as Wall Street Dumps Tech Stocks](https://www.barrons.com/livecoverage/stock-market-news-today-062626/card/market-fear-index-flashes-red-as-wall-street-dumps-tech-stocks-szkAwwpQw4wiGbFHvLKI?siteid=yhoof2&yptr=yahoo) — *Barrons.com 5:34 AM CT*
+### VIX  $17.91  -2.56%
 
-### SMH  $611.61  -3.29%
-- [The Market Rotation Is On. ServiceNow, Workday, and AppLovin Rise as Software Tops Chips.](https://www.barrons.com/articles/servicenow-applovin-software-chips-on-semiconductor-4496e4be?siteid=yhoof2&yptr=yahoo) — *Barrons.com 1:55 PM CT*
-- [Tech Caution Prevails on Wall Street Pre-Bell; Asia, Europe Down](https://finance.yahoo.com/markets/stocks/articles/tech-caution-prevails-wall-street-110445333.html) — *MT Newswires 6:04 AM CT*
-- [S&P 500 Ends Flat As Apple Weakness Offsets Micron Gains, Nasdaq 100 And Dow Post Modest Gains — MSFT, QCOM, SPCX, BMBL, SONO In Focus](https://stocktwits.com/news-articles/markets/equity/s-and-p-500-ends-flat-as-apple-weakness-offsets-micron-gains-nasdaq-100-and-dow-post-modest-gains-msft-qcom-spcx-bmbl-sono-in-focus/cZ1GHa8R7Xo) — *Stocktwits 4:54 PM CT*
+### SMH  $628.35  +3.11%
+- [Tech Rout Ebbs, Wall Street Up Pre-Bell; Asia Gains, Europe Off](https://finance.yahoo.com/markets/articles/tech-rout-ebbs-wall-street-111149326.html) — *MT Newswires 6:11 AM CT*
 
-### XLK  $180.89  -1.78%
-- [Sector Update: Tech Stocks Fall Late Afternoon](https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-fall-afternoon-194357745.html) — *MT Newswires 2:43 PM CT*
-- [Move Over, VIG: Why Yield-Hungry Investors Are Quietly Dumping Vanguard for This 3.3% Monster](https://247wallst.com/investing/2026/06/26/move-over-vig-why-yield-hungry-investors-are-quietly-dumping-vanguard-for-this-3-3-monster/) — *24/7 Wall St. 1:30 PM CT*
-- [Sector Update: Tech Stocks Fall Friday Afternoon](https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-fall-friday-173143428.html) — *MT Newswires 12:31 PM CT*
+### XLK  $184.37  +1.59%
+- [Stock Market News for Jun 29, 2026](https://finance.yahoo.com/markets/stocks/articles/stock-market-news-jun-29-132800807.html) — *Zacks 8:28 AM CT*
+- [Sector Update: Tech Stocks Rise Premarket Monday](https://finance.yahoo.com/technology/articles/sector-tech-stocks-rise-premarket-131455978.html) — *MT Newswires 8:14 AM CT*
 
 ---
 ## AI / Semiconductor Sector
 
-### NVDA  $192.53  -1.17%
-- [What turning AI compute into a financial asset would look like](https://finance.yahoo.com/video/turning-ai-compute-financial-asset-151459284.html) — *Yahoo Finance Video 10:14 AM CT*
-- [Tesla Stock Is Down This Year, and SpaceX Is Volatile. Are Either Worth Owning Right Now?](https://www.fool.com/investing/2026/06/26/tesla-stock-is-down-this-year-and-spacex-is-volati/) — *Motley Fool 3:05 PM CT*
-- [How To Invest: 5 Tips For Dealing With This Stock Market](https://www.investors.com/how-to-invest/how-to-invest-nvidia-apple-stock-market-trends/?src=A00220&yptr=yahoo) — *Investor's Business Daily 3:04 PM CT*
+### NVDA  $193.53  +0.38%
+- [Stock market today: S&P 500, Nasdaq, Dow rise as tech gains, US and Iran call to halt attacks](https://finance.yahoo.com/markets/stocks/live/stock-market-today-monday-june-29-224230573.html) — *Yahoo Finance 5:42 PM CT*
+- [Why AI is the core of the 'Back to the Future' trade](https://finance.yahoo.com/video/why-ai-core-back-future-141225602.html) — *Yahoo Finance Video 9:12 AM CT*
+- [Nvidia, Micron, and Broadcom hold the stock market's fate in the palm of their hands](https://finance.yahoo.com/markets/article/nvidia-micron-and-broadcom-hold-the-stock-markets-fate-in-the-palm-of-their-hands-130753236.html) — *Yahoo Finance 8:07 AM CT*
 
-### AMD  $521.58  -1.46%
-- [Semiconductor stocks retreat over worries about memory costs](https://finance.yahoo.com/markets/article/semiconductor-stocks-retreat-over-worries-about-memory-costs-131508185.html) — *Yahoo Finance 8:15 AM CT*
-- [OpenAI Just Signaled It Might Delay Its IPO. AI Stocks Are Tumbling. Is the Bubble Bursting?](https://www.fool.com/investing/2026/06/26/openai-just-signaled-it-might-delay-its-ipo-ai-sto/) — *Motley Fool 2:23 PM CT*
-- [Is The Growth Baked Into Advanced Micro Devices Stock Believable?](https://www.trefis.com/articles/604738/is-the-growth-baked-into-advanced-micro-devices-stock-believable/2026-06-26) — *Trefis 1:41 PM CT*
+### AMD  $531.22  +2.42%
+- [Why Samsung & SK Hynix are investing so much in South Korea's AI build-out](https://finance.yahoo.com/video/why-samsung-sk-hynix-investing-150605340.html) — *Yahoo Finance Video 10:06 AM CT*
+- [HPE vs. AMD: Which Stock Is the Better Value Option?](https://finance.yahoo.com/markets/stocks/articles/hpe-vs-amd-stock-better-154005353.html) — *Zacks 10:40 AM CT*
+- [ByteDance targets CPU mass production in H2 2027 to power AI push - SCMP](https://finance.yahoo.com/technology/ai/articles/bytedance-targets-cpu-mass-production-143149445.html) — *Investing.com 9:31 AM CT*
 
-### TSM  $432.35  -0.79%
-- [A VC Says the ‘All Your Eggs in the AI Basket’ Trade Is Finally Cracking — Here’s Where the Money Goes Next](https://247wallst.com/investing/2026/06/26/a-vc-says-the-all-your-eggs-in-the-ai-basket-trade-is-finally-cracking-heres-where-the-money-goes-next/) — *24/7 Wall St. 1:25 PM CT*
-- [Big Tech’s Quiet Diversification Out of Taiwan Is the Ultimate Catalyst for Intel’s Turnaround](https://247wallst.com/investing/2026/06/26/big-techs-quiet-diversification-out-of-taiwan-is-the-ultimate-catalyst-for-intels-turnaround/) — *24/7 Wall St. 9:06 AM CT*
-- [Here's Why Taiwan Semiconductor (TSM) May Be the Smartest AI Infrastructure Buy Right Now](https://www.fool.com/investing/2026/06/26/tsm-smartest-infrastructure-ai-buy-right-now/) — *Motley Fool 6:45 AM CT*
+### TSM  $452.26  +4.85%
+- [Taiwan Semiconductor Manufacturing Company Ltd. (TSM) is Attracting Investor Attention: Here is What You Should Know](https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-company-ltd-130007396.html) — *Zacks 8:00 AM CT*
+- [Wall Street Firm Says Intel (INTC) Has a Cost Edge Over TSMC in the Advanced Chip Packaging Race](https://finance.yahoo.com/technology/articles/wall-street-firm-says-intel-101834662.html) — *Insider Monkey 5:18 AM CT*
+- [Broadcom (AVGO) The Best High Growth Semiconductor to Buy Now?](https://finance.yahoo.com/technology/ai/articles/broadcom-avgo-best-high-growth-095843511.html) — *Insider Monkey 4:58 AM CT*
 
-### MRVL  $266.77  -3.87%
-- [Marvell’s New Chief Financial Officer Sold Stock. Then the AI Rout Hit.](https://www.barrons.com/articles/marvell-technology-insider-stock-sale-66a7060f?siteid=yhoof2&yptr=yahoo) — *Barrons.com 1:06 PM CT*
-- [The Quiet Gross Margin Reality Check That Points to a Dangerous Valuation Gap Between Marvell and Broadcom](https://247wallst.com/investing/2026/06/26/the-quiet-gross-margin-reality-check-that-points-to-a-dangerous-valuation-gap-between-marvell-and-broadcom/) — *24/7 Wall St. 11:50 AM CT*
-- [Marvell (MRVL) Up 37.3% Since Last Earnings Report: Can It Continue?](https://finance.yahoo.com/markets/stocks/articles/marvell-mrvl-37-3-since-153006876.html) — *Zacks 10:30 AM CT*
+### MRVL  $271.83  +2.39%
+- [These 7 Stocks Will Solve AI’s Most Important Bottleneck](https://247wallst.com/investing/2026/06/29/these-7-stocks-will-solve-ais-most-important-bottleneck/) — *24/7 Wall St. 8:58 AM CT*
+- [Micron's Data Center Business Booms: Is More Upside Left?](https://finance.yahoo.com/technology/articles/microns-data-center-business-booms-134600447.html) — *Zacks 8:46 AM CT*
+- [Stock futures rise as U.S. and Iran agree to stop latest attacks](https://qz.com/stock-futures-nasdaq-sp500-us-iran-hostilities-pause-062926) — *Quartz 6:33 AM CT*
 
-### AVGO  $365.02  -3.89%
-- [Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)](https://finance.yahoo.com/technology/ai/articles/why-everyone-openai-spacex-building-174322246.html) — *TechCrunch 12:43 PM CT*
-- [These Are the Best Income Investments Now.  Where to Find Yields of 5% or More.](https://www.barrons.com/articles/best-income-investments-dividend-stocks-bonds-b30f79d9?siteid=yhoof2&yptr=yahoo) — *Barrons.com 12:08 PM CT*
-- [Nvidia, Micron, AMD Lead Chip Selloff on OpenAI IPO Delay Report Rattles Tech](https://finance.yahoo.com/technology/articles/nvidia-micron-amd-lead-chip-150833279.html) — *GuruFocus.com 10:08 AM CT*
+### AVGO  $370.35  +1.03%
+- [Can ADI's Strong Cash Flow and Inventory Strategy Drive Future Growth?](https://finance.yahoo.com/markets/stocks/articles/adis-strong-cash-flow-inventory-152300659.html) — *Zacks 10:23 AM CT*
+- [OpenAI’s Wild Week: A Custom Chip, 40% of the World’s DRAM, and a $500 Million Bet to Kill the Common Cold](https://247wallst.com/investing/2026/06/29/openais-wild-week-a-custom-chip-40-of-the-worlds-dram-and-a-500-million-bet-to-kill-the-common-cold/) — *24/7 Wall St. 10:15 AM CT*
+- [Why Chinese AI Models Should Worry Nvidia, Micron Stock Investors](https://www.trefis.com/articles/605024/why-chinese-ai-models-should-worry-nvidia-micron-stock-investors/2026-06-29) — *Trefis 7:55 AM CT*
 
 ---
 ## Market Headlines  *(Reuters · MarketWatch · CNBC)*
-- [The brands winning with World Cup advertising may not be the sponsors](https://www.cnbc.com/2026/06/26/world-cup-marketing-levis-nike-taco-bell.html) — *CNBC 7:30 AM CT*
-- [Polymarket annualized revenue surpasses $1 billion six weeks after its U.S. exchange launch](https://www.cnbc.com/2026/06/26/polymarket-annualized-revenue-1-billion-us-exchange-.html) — *CNBC 7:00 AM CT*
-- [Rise in memory chip costs puts pressure on retailers of laptops and smartphones](https://www.cnbc.com/2026/06/26/ai-memory-chip-shortage-consumer-electronics-prices.html) — *CNBC 7:00 AM CT*
-- [Trump keeps turning Republican wins into loyalty tests — and political liabilities](https://www.cnbc.com/2026/06/25/trump-gop-housing-bill-save-act-fisa.html) — *CNBC 6:45 PM CT*
-- ['The cult of Elon': SpaceX investors grapple with volatility amid big swings](https://www.cnbc.com/2026/06/26/spacex-volatility.html) — *CNBC 6:35 AM CT*
-- [Volkswagen plans to cut 15% of its workforce and close four German plants, report says](https://www.cnbc.com/2026/06/26/volkswagen-vw-job-cuts-autos-germany.html) — *CNBC 6:27 AM CT*
-- [Estrogen patches are hard to find, and it may not be resolved any time soon](https://www.cnbc.com/2026/06/26/estrogen-patches-are-in-short-supply-as-women-seek-menopause-support.html) — *CNBC 6:00 AM CT*
-- [The housing bill’s back on track to becoming law. Here’s what it does for affordability.](https://www.marketwatch.com/story/the-housing-bills-back-on-track-to-becoming-law-heres-what-it-does-for-affordability-14f4c7ba?mod=mw_rss_topstories) — *MarketWatch 3:14 PM CT*
-- [Micron sinks 6%, wrapping a wild week of trading that saw big swings](https://www.cnbc.com/2026/06/26/micron-stock-earnings-tech-selloff-ai.html) — *CNBC 3:14 PM CT*
-- [Walmart heir Lukas Walton buys minority stake in the Chicago Bulls and United Center](https://www.cnbc.com/2026/06/26/walmart-heir-lukas-walton-chicago-bulls.html) — *CNBC 3:12 PM CT*
-- [After losing my son, would it be a mistake to sell my recently purchased house and move to my hometown?](https://www.marketwatch.com/story/my-son-passed-away-am-i-crazy-to-move-to-my-former-home-and-sell-a-house-i-bought-in-september-f1f5f41a?mod=mw_rss_topstories) — *MarketWatch 3:09 PM CT*
-- [Why getting dumped from the Dow is the ultimate buy signal for this — or any — stock](https://www.marketwatch.com/story/why-getting-dumped-from-the-dow-is-the-ultimate-buy-signal-for-this-stock-1d5a9342?mod=mw_rss_topstories) — *MarketWatch 3:02 PM CT*
+- [Comcast jumps 9% after announcing it will spin off NBCUniversal and Sky from cable business](https://www.cnbc.com/2026/06/29/comcast-announces-it-will-spin-off-media-and-tech-wings-into-separate-public-companies.html) — *CNBC 9:49 AM CT*
+- [The AI boom is colliding with a new threat: Severe weather](https://www.cnbc.com/2026/06/29/ai-data-centers-heatwave-climate-risk-weather.html) — *CNBC 9:30 AM CT*
+- ['This bargain is eroding': Inside the youngest generations' view of the American Dream](https://www.cnbc.com/2026/06/29/gen-z-american-dream-eroding-redefining.html) — *CNBC 9:08 AM CT*
+- [Rocket Lab to take on SpaceX’s Starlink with $8 billion acquisition](https://www.marketwatch.com/story/rocket-lab-to-take-on-spacexs-starlink-with-8-billion-acquisition-bf7ef649?mod=mw_rss_topstories) — *MarketWatch 9:07 AM CT*
+- [Trump bought as much as $5 million in Axon stock before ICE sought $220 million Taser deal](https://www.cnbc.com/2026/06/29/trump-axon-stock-ice-taser-immigration-enforcement.html) — *CNBC 9:03 AM CT*
+- [America can't get enough of protein. The dairy industry can't keep up](https://www.cnbc.com/2026/06/28/america-cant-get-enough-protein-the-dairy-industry-cant-keep-up.html) — *CNBC 8:14 AM CT*
+- [SpaceX's $25 billion bond sale drives huge demand - and a potential headache for investors](https://www.cnbc.com/2026/06/29/spacex-debt-diversification-equity-bond-investors-analysts.html) — *CNBC 5:36 AM CT*
+- [China's economy picks up in June on rebounding U.S. exports, analysts say](https://www.cnbc.com/2026/06/29/china-economy-june-trade-exports-manufacturing-tariffs-iran-war-consumption-ai-technology-.html) — *CNBC 5:00 AM CT*
+- [Protein coffee? Brands cash in on functional beverage boom](https://www.cnbc.com/2026/06/28/protein-coffee-cbd-soda-starbucks-functional-beverage-boom.html) — *CNBC 3:43 AM CT*
+- [China widens Japan export curbs, targeting drone makers, nuclear firms and defense institutes](https://www.cnbc.com/2026/06/29/china-japan-export-controls-watch-list-defense-entities.html) — *CNBC 11:46 PM CT*
+- [Supreme Court rules Trump cannot fire Fed Governor Lisa Cook for now](https://www.cnbc.com/2026/06/29/supreme-court-lisa-cook-trump-federal-reserve.html) — *CNBC 11:45 AM CT*
+- [‘It feels like a medical miracle’: How did a single QR code coupon cut my $618 Walgreens prescription to $15?](https://www.marketwatch.com/story/it-feels-like-a-medical-miracle-how-did-a-single-qr-code-coupon-cut-my-618-walgreens-prescription-to-15-524a1151?mod=mw_rss_topstories) — *MarketWatch 11:40 AM CT*
 
 ---
-*Generated 2026-06-26 15:18 CT | last 24h | sources: yfinance + Reuters/MarketWatch/CNBC*
+*Generated 2026-06-29 11:53 CT | last 24h | sources: yfinance + Reuters/MarketWatch/CNBC*
