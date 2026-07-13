@@ -1,16 +1,15 @@
-# Market News — Friday July 10 2026 — 02:59 PM CT
+# Market News — Monday July 13 2026 — 11:35 AM CT
 
-**SPY** $754.82  +0.45%  |  **VIX** 15.11  |  **Regime** OK  |  **Portfolio P&L** +$0  |  **Positions** 0
+**SPY** $749.2  -0.75%  |  **VIX** 16.39  |  **Regime** OK  |  **Portfolio P&L** +$0  |  **Positions** 0
 
-## MARKET ALERTS — 11 priority stories
-- [These are America's 10 cheapest states for 2026, where you can still beat inflation](https://www.cnbc.com/2026/07/10/americas-10-cheapest-places-to-live-top-states-for-business.html) — *CNBC 9:50 AM CT*
-- [These are America's 10 most expensive states for 2026, where inflation is punishing residents](https://www.cnbc.com/2026/07/10/10-most-expensive-places-to-live-america-top-states-for-business.html) — *CNBC 8:56 AM CT*
-- [OpenAI exec Fidji Simo says she's stepping down due to chronic illness, will transition to advisor](https://www.cnbc.com/2026/07/09/openai-exec-fidji-simo-says-she-will-step-down-and-transition-to-part-time-advisor.html) — *CNBC 6:10 AM CT*
-- [Trump admin eases export controls for UAE; Warren blasts 'corrupt' provision](https://www.cnbc.com/2026/07/10/trump-uae-mgx-crypto-export-commerce-warren.html) — *CNBC 2:53 PM CT*
-- [Where to put cash right now: Should you lock in at 4% — or wait for the next Fed rate decision?](https://www.marketwatch.com/story/should-you-lock-in-a-4-cd-rate-now-heres-how-to-decide-on-the-next-move-for-your-cash-41a7ef4c?mod=mw_rss_topstories) — *MarketWatch 2:30 PM CT*
-- [OpenAI power consolidates under co-founder Greg Brockman ahead of prospective IPO](https://www.cnbc.com/2026/07/10/openai-power-consolidates-under-co-founder-greg-brockman-ahead-of-ipo.html) — *CNBC 2:12 PM CT*
-- [Prepare for the Fed to undo rate cuts that stabilized the economy, expert cautions](https://www.marketwatch.com/story/prepare-for-the-fed-to-undo-rate-cuts-that-stabilized-the-economy-expert-cautions-bc36ea76?mod=mw_rss_topstories) — *MarketWatch 2:02 PM CT*
-- [How the U.S.-Iran deal set the stage for renewed fighting over the Strait of Hormuz](https://www.cnbc.com/2026/07/10/iran-strait-hormuz-oil-tanker-mou-trump.html) — *CNBC 12:26 PM CT*
+## MARKET ALERTS — 7 priority stories
+- [Big banks poised to report booming revenue propelled by SpaceX IPO, Iran war volatility](https://www.cnbc.com/2026/07/13/bank-earnings-jpmorgan-chase-goldman-sachs-bank-of-america.html) — *CNBC 8:19 AM CT*
+- [India's inflation accelerates to 4.38% in June, exceeding forecasts](https://www.cnbc.com/2026/07/13/india-june-inflation-oil-food-iran-war.html) — *CNBC 5:56 AM CT*
+- [A hot inflation reading this week could mean a rate hike soon, Fed’s Waller says](https://www.marketwatch.com/story/a-hot-inflation-reading-this-week-could-mean-a-rate-hike-soon-feds-waller-says-15acf7a2?mod=mw_rss_topstories) — *MarketWatch 11:32 AM CT*
+- [Trump proposes 20% toll on cargo through Strait of Hormuz; restarts Iran blockade](https://www.cnbc.com/2026/07/13/trump-iran-hormuz-strait-charge-reimburse.html) — *CNBC 11:17 AM CT*
+- [SpaceX stock sinks for a second-straight day, nearing $135 IPO price](https://www.cnbc.com/2026/07/13/spacex-spcx-stock-ipo-price.html) — *CNBC 11:14 AM CT*
+- [Elon Musk and Sam Altman spar on X after Apple files OpenAI lawsuit](https://www.cnbc.com/2026/07/12/elon-musk-and-sam-altman-spar-.html) — *CNBC 10:56 AM CT*
+- [Meta's Louisiana data center investment to reach $50 billion, aided by generous tax incentives](https://www.cnbc.com/2026/07/13/meta-louisiana-data-center-investment-reaches-50-billion-amid-ai-push.html) — *CNBC 10:50 AM CT*
 
 
 ---
@@ -21,72 +20,65 @@
 ---
 ## Market Pulse
 
-### SPY  $754.82  +0.45%
-- [He Claimed Social Security at 62 Against His Advisor’s Advice. At 78, His $900,000 Portfolio Says It Was the Right Call.](https://247wallst.com/personal-finance/2026/07/10/he-claimed-social-security-at-62-against-his-advisors-advice-at-78-his-900000-portfolio-says-it-was-the-right-call/) — *24/7 Wall St. 1:03 PM CT*
-- [Fundstrat’s Tom Lee: July will be stronger for stocks as valuations become more reasonable](https://247wallst.com/investing/2026/07/10/fundstrats-tom-lee-july-will-be-stronger-for-stocks-as-valuations-become-more-reasonable/) — *24/7 Wall St. 11:48 AM CT*
-- [Time to Buy Wide Moat & HALO ETFs?](https://finance.yahoo.com/markets/stocks/articles/time-buy-wide-moat-halo-150000939.html) — *Zacks 10:00 AM CT*
+### SPY  $749.2  -0.75%
+- [Stock Market Today: Dow Drops As Trump Reinstates Hormuz Blockade; Oil Refiners Rise (Live Coverage)](https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-sk-hynix-stock-skhy/?src=A00220&yptr=yahoo) — *Investor's Business Daily 11:15 AM CT*
+- [Jim Cramer Says Buy IBM Right Now: Here Is Why Arvind Krishna Has This Stock Undervalued](https://247wallst.com/investing/2026/07/13/jim-cramer-says-buy-ibm-right-now-here-is-why-arvind-krishna-has-this-stock-undervalued/) — *24/7 Wall St. 11:10 AM CT*
+- [Buy, Sell or Hold: My View On Microsoft As AI Capex Costs Rise](https://247wallst.com/investing/2026/07/13/buy-sell-or-hold-my-view-on-microsoft-as-ai-capex-costs-rise/) — *24/7 Wall St. 9:42 AM CT*
 
-### QQQ  $725.41  +0.34%
-- [Exchange-Traded Funds, US Equities Mixed After Midday Friday](https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-us-equities-170758170.html) — *MT Newswires 12:07 PM CT*
-- [Want 14% From Your Nasdaq Income and a Lighter Tax Bill?](https://247wallst.com/investing/2026/07/10/want-14-from-your-nasdaq-income-and-a-lighter-tax-bill/) — *24/7 Wall St. 10:39 AM CT*
-- [Stock Market Gains Stoke Hopes For Stellar Third Quarter](https://www.investors.com/etfs-and-funds/personal-finance/stock-market-gains-stoke-hopes-for-stellar-third-quarter/?src=A00220&yptr=yahoo) — *Investor's Business Daily 7:00 AM CT*
+### QQQ  $712.18  -1.96%
+- [IonQ Tumbles 8%, D-Wave, Rigetti, Quantum Computing Drop 6% as Risk-Off Ripple Effects Hit Speculative Quantum Stocks](https://247wallst.com/investing/2026/07/13/ionq-tumbles-8-d-wave-rigetti-quantum-computing-drop-6-as-risk-off-ripple-effects-hit-speculative-quantum-stocks/) — *24/7 Wall St. 11:16 AM CT*
+- [This Stock is My Biggest Bet For 2026](https://247wallst.com/investing/2026/07/13/this-stock-is-my-biggest-bet-for-2026/) — *24/7 Wall St. 10:30 AM CT*
+- [This Strategist Says the Tech Wreck Is Your Buy Signal: Micron and SanDisk on Sale?](https://247wallst.com/investing/2026/07/13/this-strategist-says-the-tech-wreck-is-your-buy-signal-micron-and-sandisk-on-sale/) — *24/7 Wall St. 8:55 AM CT*
 
-### VIX  $15.11  -4.61%
-- [Update: US Equity Indexes Rise as Diplomatic Engagements With Iran Send Crude Oil Lower](https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-rise-diplomatic-191838849.html) — *MT Newswires 2:18 PM CT*
-- [Update: US Equity Indexes Rise, Crude Oil Extends Declines as Diplomatic Channels Reopen for Iran Talks](https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-rise-crude-173553931.html) — *MT Newswires 12:35 PM CT*
-- [Fear Index Signals Calm at the End of an Uncertain Week for Markets](https://www.barrons.com/livecoverage/stock-market-news-today-071026/card/fear-index-signals-calm-at-the-end-of-an-uncertain-week-for-markets-VH9xyGoPpiLRttUIMiFs?siteid=yhoof2&yptr=yahoo) — *Barrons.com 5:23 AM CT*
+### VIX  $16.39  +8.98%
 
-### SMH  $611.24  +0.40%
-- [XSD vs. SMH: Should Your Semiconductor ETF Be Equal-Weight or Cap-Weight?](https://247wallst.com/investing/etf/2026/07/10/xsd-vs-smh-should-your-semiconductor-etf-be-equal-weight-or-cap-weight/) — *24/7 Wall St. 11:44 AM CT*
-- [The Zacks Analyst Blog Highlights NVDA, AMD, INTC, SMHX, GXPT, SMH and SHOC](https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-nvda-072800627.html) — *Zacks 2:28 AM CT*
-- [Overlooked chip ETF is beating biggest AI names](https://www.thestreet.com/investing/semiconductor-etf-nvidia-weight-psi-smh-performance-gap) — *TheStreet 9:33 PM CT*
+### SMH  $586.68  -4.29%
 
-### XLK  $185.79  +0.16%
-- [A record number of tech stock insiders are buying their own shares in 2026](https://finance.yahoo.com/markets/article/a-record-number-of-tech-stock-insiders-are-buying-their-own-shares-in-2026-133810825.html) — *Yahoo Finance 8:38 AM CT*
-- [Peter Lynch’s Favorite Indicator Is Flashing Green for Tech Stocks Again](https://247wallst.com/investing/2026/07/10/peter-lynchs-favorite-indicator-is-flashing-green-for-tech-stocks-again/) — *24/7 Wall St. 9:26 AM CT*
+### XLK  $181.4  -2.52%
+- [RBC makes major S&P 500 sector shake-up, favors Tech over Utilities](https://finance.yahoo.com/markets/stocks/articles/rbc-makes-major-p-500-120310181.html) — *Investing.com 7:03 AM CT*
 
 ---
 ## AI / Semiconductor Sector
 
-### NVDA  $210.65  +4.12%
-- [AI cash flow is booming for chipmakers & plummeting for Big Tech: Charts of the Day](https://finance.yahoo.com/video/ai-cash-flow-is-booming-for-chipmakers--plummeting-for-big-tech-charts-of-the-day-194325231.html) — *Yahoo Finance Video 2:43 PM CT*
-- [Why you should care about SK Hynix's IPO](https://finance.yahoo.com/video/why-you-should-care-about-sk-hynixs-ipo-142904448.html) — *Yahoo Finance Video 9:29 AM CT*
-- [SK Hynix's US listing, Delta earnings, housing bill: What to Watch](https://finance.yahoo.com/video/sk-hynixs-us-listing-delta-230000258.html) — *Yahoo Finance Video 6:00 PM CT*
+### NVDA  $204.79  -2.74%
+- [Retail investors are cashing out of Apple, Tesla, and chip stocks: Chart of the Day](https://finance.yahoo.com/markets/article/retail-investors-are-cashing-out-of-apple-tesla-and-chip-stocks-chart-of-the-day-162404788.html) — *Yahoo Finance 11:24 AM CT*
+- [SK Hynix stock sees record plunge in Korea despite impressive Nasdaq debut](https://finance.yahoo.com/video/sk-hynix-stock-sees-record-plunge-in-korea-despite-impressive-nasdaq-debut-135319420.html) — *Yahoo Finance Video 8:53 AM CT*
+- [Why Intel Stock Dropped Today](https://www.fool.com/investing/2026/07/13/why-intel-stock-dropped-today/) — *Motley Fool 11:17 AM CT*
 
-### AMD  $558.32  +2.06%
-- [Chip stocks regain some ground after whipsaw of a trading week](https://finance.yahoo.com/video/chip-stocks-regain-ground-whipsaw-143000172.html) — *Yahoo Finance Video 9:30 AM CT*
-- [Why I Can’t Stop Buying This “Boring” Chipmaker With Game Changing Upside](https://247wallst.com/investing/2026/07/10/why-i-cant-stop-buying-this-boring-chipmaker-with-game-changing-upside/) — *24/7 Wall St. 1:23 PM CT*
-- [Billionaire Tech CEO: Our $25 Billion Backlog Shows “The Demand Is Booked” as “We’ve Never Seen a Buildout Like This Since the Great Wall of China”](https://247wallst.com/investing/2026/07/10/billionaire-tech-ceo-our-25-billion-backlog-shows-the-demand-is-booked-as-weve-never-seen-a-buildout-like-this-since-the-great-wall-of-china/) — *24/7 Wall St. 12:56 PM CT*
+### AMD  $537.24  -4.02%
+- [SK Hynix stock falls, leads broader chip sector declines as AI trade angst returns](https://finance.yahoo.com/markets/article/sk-hynix-stock-falls-leads-broader-chip-sector-declines-as-ai-trade-angst-returns-120751185.html) — *Yahoo Finance 7:07 AM CT*
+- [Cathie Wood Bought $54 Million Worth Of SpaceX Stock Last Week](https://www.investors.com/news/cathie-wood-ark-invest-spacex-stock-meta-amd-eli-lilly/?src=A00220&yptr=yahoo) — *Investor's Business Daily 10:50 AM CT*
+- [The 1 Reason Jim Cramer Won’t Stop Buying Nvidia](https://247wallst.com/investing/2026/07/13/the-1-reason-jim-cramer-wont-stop-buying-nvidia/) — *24/7 Wall St. 10:00 AM CT*
 
-### TSM  $434.52  -1.11%
-- [TSMC, ASML Kick Off Semiconductor Earnings; Goldman Sachs, JPMorgan In Financial Parade](https://www.investors.com/research/earnings-preview/tsmc-asml-kick-off-semiconductor-earnings-goldman-sachs-jpmorgan-in-financial-parade/?src=A00220&yptr=yahoo) — *Investor's Business Daily 12:19 PM CT*
-- [Nvidia Supplier Plans U.S. Facility](https://finance.yahoo.com/technology/articles/nvidia-supplier-plans-u-facility-170645330.html) — *GuruFocus.com 12:06 PM CT*
-- [Stock Market Mixed As Oil Prices Jump; Delta Air, SK Hynix In Focus: Weekly Review](https://www.investors.com/news/stock-market-oil-prices-jump-delta-air-sk-hynix/?src=A00220&yptr=yahoo) — *Investor's Business Daily 11:16 AM CT*
+### TSM  $425.62  -2.34%
+- [Top Midday Stories: Trump Says US to Be Guardian of Hormuz Strait; Meta to Invest Over $50 Billion in Louisiana Data Center Expansion](https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-trump-says-155513663.html) — *MT Newswires 10:55 AM CT*
+- [Arm And Marvell Tumble As Chip Stocks Sell Off](https://www.investors.com/news/technology/chip-stocks-sox-arm-marvell-sell-off/?src=A00220&yptr=yahoo) — *Investor's Business Daily 10:46 AM CT*
+- [Top China Tech Plays Worth Adding to Your Portfolio in 2H26](https://finance.yahoo.com/technology/articles/top-china-tech-plays-worth-143700480.html) — *Zacks 9:37 AM CT*
 
-### MRVL  $236.07  -3.56%
-- [Altera returns to growth as AI, robotics fuel demand, CEO says](https://finance.yahoo.com/news/altera-returns-growth-ai-robotics-184232812.html) — *Reuters 1:42 PM CT*
-- [SK Hynix, Micron, Meta, Delta, Circle Internet, and More Stocks That Explain Today’s Market](https://www.barrons.com/articles/stock-movers-7c9adc92?siteid=yhoof2&yptr=yahoo) — *Barrons.com 1:08 PM CT*
-- [Can MRVL's AI-Infrastructure Engines Deliver Its Promised Growth?](https://finance.yahoo.com/technology/ai/articles/mrvls-ai-infrastructure-engines-deliver-150200656.html) — *Zacks 10:02 AM CT*
+### MRVL  $218.02  -7.89%
+- [Wall Street Analysts Look Bullish on Marvell (MRVL): Should You Buy?](https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-look-bullish-133005184.html) — *Zacks 8:30 AM CT*
+- [Broadcom and Marvell Are Bigger Threats to Nvidia Than You Know](https://247wallst.com/investing/2026/07/13/broadcom-and-marvell-are-bigger-threats-to-nvidia-than-you-know/) — *24/7 Wall St. 7:43 AM CT*
+- [AMD Stock: Collect 14% While Setting A 50%-Off Buy Price](https://www.trefis.com/articles/606804/amd-stock-collect-14-while-setting-a-50-off-buy-price/2026-07-13) — *Trefis 7:32 AM CT*
 
-### AVGO  $399.89  -0.24%
-- [Investing.com’s stocks of the week](https://finance.yahoo.com/markets/stocks/articles/investing-com-stocks-week-182339583.html) — *Investing.com 1:23 PM CT*
-- [Meta Stock Had a Lousy First Half. Here’s Why the Tech Giant’s Shares Are Rising Again](https://www.investopedia.com/meta-stock-had-a-lousy-first-half-here-s-why-the-tech-giant-s-shares-are-rising-again-12016084) — *Investopedia 12:06 PM CT*
-- [Defense AI Heats Up: BigBear.ai Lands First European Validation for AI-Powered Airport Screening](https://finance.yahoo.com/technology/ai/articles/defense-ai-heats-bigbear-ai-162529616.html) — *IPO-Edge.com 11:25 AM CT*
+### AVGO  $387.31  -3.27%
+- [Nvidia, Micron, and other chip players are poised to become cash-producing machines](https://finance.yahoo.com/markets/article/nvidia-micron-and-other-chip-players-are-poised-to-become-cash-producing-machines-150232841.html) — *Yahoo Finance 10:02 AM CT*
+- [Intel Just Announced A $5.7B Investment In Ireland – Retail Says Move Strengthens The Chipmaker’s Position](https://stocktwits.com/news-articles/markets/equity/intel-just-announced-a-5-7-b-investment-in-ireland-retail-says-move-strengthens-the-chipmaker-s-position/cZmzumeR7YQ) — *Stocktwits 10:56 AM CT*
+- [Jim Cramer on Meta: “Zuckerberg’s Not a Bozo, You Can Quote Me on That”](https://finance.yahoo.com/markets/stocks/articles/jim-cramer-meta-zuckerberg-not-152547716.html) — *Insider Monkey 10:25 AM CT*
 
 ---
 ## Market Headlines  *(Reuters · MarketWatch · CNBC)*
-- [Why the stock market and economy may seem out of sync](https://www.cnbc.com/2026/07/10/stock-market-and-economy-out-of-sync.html) — *CNBC 7:15 AM CT*
-- [Delta expects higher airfare to last, bringing 2026 profit goal in reach, CEO says](https://www.cnbc.com/2026/07/10/delta-air-lines-dal-q2-2026-earnings.html) — *CNBC 6:59 AM CT*
-- [Meta found to breach EU laws with 'addictive' Instagram, Facebook designs](https://www.cnbc.com/2026/07/10/meta-instagram-facebook-addictive-design-breach-eu-laws.html) — *CNBC 6:48 AM CT*
-- [The Tech Download: Teen social media bans miss a key part of the puzzle: AI chatbots](https://www.cnbc.com/2026/07/10/tech-download-social-media-bans-ai-chatbots.html) — *CNBC 6:32 AM CT*
-- [Inside NATO's extraordinary 48 hours that revealed Trump's grip on global diplomacy](https://www.cnbc.com/2026/07/09/nato-trump-rutte-ukraine-russia-us-iran.html) — *CNBC 6:00 PM CT*
-- [Trump Accounts may help foster children build a financial safety net. What to know](https://www.cnbc.com/2026/07/10/trump-accounts-foster-children.html) — *CNBC 2:57 PM CT*
-- [Meta’s stock roars back to life as it heads for its best week in years](https://www.marketwatch.com/story/metas-stock-roars-back-to-life-as-it-heads-for-its-best-week-in-years-0ff0fa7d?mod=mw_rss_topstories) — *MarketWatch 2:54 PM CT*
-- [Summer travel season is here: Make this vital purchase before your next vacation](https://www.marketwatch.com/story/8-things-i-learned-about-travel-expenses-after-a-family-tragedy-1bbb024f?mod=mw_rss_topstories) — *MarketWatch 2:40 PM CT*
-- [Meta stock got the 18% pop Jim Cramer said it could on cloud news. What's next?](https://www.cnbc.com/2026/07/10/meta-got-18percent-pop-jim-cramer-said-it-could-on-cloud-news-what-is-next.html) — *CNBC 2:39 PM CT*
-- [I worked at a garden center for $17/hour after getting laid off—why it's 'one of the best jobs I've ever had'](https://www.cnbc.com/2026/07/10/48-year-old-worked-at-a-garden-center-to-make-ends-meet-one-of-best-jobs-ever-had.html) — *CNBC 2:17 PM CT*
-- [The ETF market is pushing the limits of the leverage it can handle. SK Hynix is the latest example](https://www.cnbc.com/2026/07/10/etfs-investing-market-risk-leverage.html) — *CNBC 2:12 PM CT*
-- [A hedge-fund trade blamed for a massive market blowup in 2024 has made a big comeback, Goldman Sachs says](https://www.marketwatch.com/story/a-hedge-fund-trade-blamed-for-a-massive-market-blowup-in-2024-has-made-a-big-comeback-goldman-sachs-says-f2308a78?mod=mw_rss_topstories) — *MarketWatch 2:04 PM CT*
+- [My wife’s 2011 Ford Fiesta was totaled. Should we accept a $2,000 insurance settlement or give up the car for $2,700?](https://www.marketwatch.com/story/my-wifes-2011-ford-fiesta-was-totaled-should-we-accept-a-2-000-insurance-settlement-or-give-up-the-car-for-2-700-f2cf2a86?mod=mw_rss_topstories) — *MarketWatch 9:15 AM CT*
+- [I’m a bartender, yoga teacher and freelance consultant. How can I budget with such an unpredictable income?](https://www.marketwatch.com/story/im-a-bartender-yoga-teacher-and-freelance-consultant-how-can-i-budget-with-such-an-unpredictable-income-d5dce383?mod=mw_rss_topstories) — *MarketWatch 9:08 AM CT*
+- [TSMC just reported a record month for revenue ahead of critical earnings report on Thursday](https://www.marketwatch.com/story/tsmc-just-reported-a-record-month-for-revenue-ahead-of-critical-earnings-report-on-thursday-508195fd?mod=mw_rss_topstories) — *MarketWatch 9:03 AM CT*
+- [Is there a deadline to claim the $1,000 ‘Trump account’ contribution for my kid?](https://www.marketwatch.com/story/is-there-a-deadline-to-claim-the-1-000-trump-account-contribution-for-my-kid-1b70141c?mod=mw_rss_topstories) — *MarketWatch 9:00 AM CT*
+- [The 10 best state economies in America in 2026](https://www.cnbc.com/2026/07/13/best-state-economies-2026.html) — *CNBC 9:00 AM CT*
+- [The 10 worst state economies in America in 2026](https://www.cnbc.com/2026/07/13/worst-state-economies-2026.html) — *CNBC 9:00 AM CT*
+- [While Musk's Neuralink drills into skulls, China's BrainCo bets the future of brain tech is wearable](https://www.cnbc.com/2026/07/11/chinas-brainco-bets-on-wearable-brain-tech.html) — *CNBC 8:56 PM CT*
+- [Stock pickers know they can’t outsmart the market. That doesn’t stop them from trying.](https://www.marketwatch.com/story/stock-pickers-know-they-cant-outsmart-the-market-that-doesnt-stop-them-from-trying-b4fddc41?mod=mw_rss_topstories) — *MarketWatch 8:53 AM CT*
+- [McConnell provides health update after long unexplained absence; says he suffered fall, pneumonia](https://www.cnbc.com/2026/07/12/mcconnell-provides-health-update-after-long-unexplained-absence.html) — *CNBC 8:25 PM CT*
+- [AI is changing older workers' careers, research finds — here's how](https://www.cnbc.com/2026/07/13/ai-older-workers-careers.html) — *CNBC 7:15 AM CT*
+- [Who will replace Lindsey Graham in the Senate?](https://www.cnbc.com/2026/07/12/nancy-mace-lindsey-graham-senate-seat-south-carolina-election.html) — *CNBC 7:02 AM CT*
+- [Kalshi launches 'Pro' product for users trading multiple markets at same time, perpetual futures](https://www.cnbc.com/2026/07/13/kalshi-launches-pro-product-for-users-trading-multiple-markets-at-same-time-perpetual-futures.html) — *CNBC 6:36 AM CT*
 
 ---
-*Generated 2026-07-10 14:59 CT | last 24h | sources: yfinance + Reuters/MarketWatch/CNBC*
+*Generated 2026-07-13 11:35 CT | last 24h | sources: yfinance + Reuters/MarketWatch/CNBC*
