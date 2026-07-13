@@ -1,16 +1,16 @@
-# Market News — Monday July 13 2026 — 01:44 PM CT
+# Market News — Monday July 13 2026 — 03:16 PM CT
 
-**SPY** $749.82  -0.67%  |  **VIX** 17.19  |  **Regime** OK  |  **Portfolio P&L** +$0  |  **Positions** 0
+**SPY** $749.17  -0.76%  |  **VIX** 17.11  |  **Regime** OK  |  **Portfolio P&L** +$0  |  **Positions** 0
 
-## MARKET ALERTS — 10 priority stories
+## MARKET ALERTS — 11 priority stories
 - [Big banks poised to report booming revenue propelled by SpaceX IPO, Iran war volatility](https://www.cnbc.com/2026/07/13/bank-earnings-jpmorgan-chase-goldman-sachs-bank-of-america.html) — *CNBC 8:19 AM CT*
-- [India's inflation accelerates to 4.38% in June, exceeding forecasts](https://www.cnbc.com/2026/07/13/india-june-inflation-oil-food-iran-war.html) — *CNBC 5:56 AM CT*
-- [Trump proposes 20% toll on cargo through Strait of Hormuz; restarts Iran blockade](https://www.cnbc.com/2026/07/13/trump-iran-hormuz-strait-charge-reimburse.html) — *CNBC 1:35 PM CT*
-- [Meta's Louisiana data center investment to reach $50 billion, aided by generous tax incentives](https://www.cnbc.com/2026/07/13/meta-louisiana-data-center-investment-reaches-50-billion-amid-ai-push.html) — *CNBC 1:31 PM CT*
+- [Trump proposes 20% toll on cargo through Strait of Hormuz; restarts Iran blockade](https://www.cnbc.com/2026/07/13/trump-iran-hormuz-strait-charge-reimburse.html) — *CNBC 3:15 PM CT*
+- [Chipotle is opening its first restaurant in Mexico](https://www.cnbc.com/2026/07/13/chipotle-opening-first-restaurant-in-mexico.html) — *CNBC 3:10 PM CT*
+- [SpaceX’s stock threatens to fall below the IPO price. Do investors face a ‘crisis’ if it does?](https://www.marketwatch.com/story/spacexs-stock-threatens-to-fall-below-the-ipo-price-do-investors-face-a-crisis-if-it-does-2f330b09?mod=mw_rss_topstories) — *MarketWatch 2:57 PM CT*
+- [Waller says Fed shouldn't 'fight the last war' on inflation but warns hikes still possible](https://www.cnbc.com/2026/07/13/waller-says-fed-shouldnt-fight-the-last-war-on-inflation-but-warns-hikes-still-possible.html) — *CNBC 2:15 PM CT*
+- [Meta's Louisiana data center investment to reach $50 billion, aided by generous tax incentives](https://www.cnbc.com/2026/07/13/meta-louisiana-data-center-investment-reaches-50-billion-amid-ai-push.html) — *CNBC 2:00 PM CT*
 - [Inflation is primed to fall for the first time in 6 years. Will high prices drop too?](https://www.marketwatch.com/story/inflation-is-primed-to-fall-for-the-first-time-in-6-years-will-high-prices-drop-too-285ecf10?mod=mw_rss_topstories) — *MarketWatch 1:13 PM CT*
 - [SpaceX stock sinks for a second-straight day, nearing $135 IPO price](https://www.cnbc.com/2026/07/13/spacex-spcx-stock-ipo-price.html) — *CNBC 12:38 PM CT*
-- [A hot inflation reading this week could mean a rate hike soon, Fed’s Waller says](https://www.marketwatch.com/story/a-hot-inflation-reading-this-week-could-mean-a-rate-hike-soon-feds-waller-says-15acf7a2?mod=mw_rss_topstories) — *MarketWatch 12:10 PM CT*
-- [A July rate hike from the Fed? The odds are rising](https://www.cnbc.com/2026/07/13/-a-july-rate-hike-from-the-fed-the-odds-are-rising.html) — *CNBC 12:07 PM CT*
 
 
 ---
@@ -21,51 +21,53 @@
 ---
 ## Market Pulse
 
-### SPY  $749.82  -0.67%
+### SPY  $749.17  -0.76%
+- [The ‘Boring’ Dividend ETF Everyone Ignored Just Crushed the S&P 500 This Year](https://247wallst.com/investing/etf/2026/07/13/the-boring-dividend-etf-everyone-ignored-just-crushed-the-sp-500-this-year/) — *24/7 Wall St. 3:05 PM CT*
+- [JEPI Is Falling While the S&P 500 Soars. Is That Fat 8% Yield Actually a Trap?](https://247wallst.com/investing/etf/2026/07/13/jepi-is-falling-while-the-sp-500-soars-is-that-fat-8-yield-actually-a-trap/) — *24/7 Wall St. 2:05 PM CT*
 - [Visa’s $700 Billion Payments Empire Faces New Disruption Risks](https://247wallst.com/investing/2026/07/13/visas-700-billion-payments-empire-faces-new-disruption-risks/) — *24/7 Wall St. 1:30 PM CT*
-- [When The Market Dropped, XLU ETF Held Its Ground](https://www.trefis.com/articles/606841/when-the-market-dropped-xlu-etf-held-its-ground/2026-07-13) — *Trefis 1:13 PM CT*
-- [Jim Cramer Says Buy IBM Right Now: Here Is Why Arvind Krishna Has This Stock Undervalued](https://247wallst.com/investing/2026/07/13/jim-cramer-says-buy-ibm-right-now-here-is-why-arvind-krishna-has-this-stock-undervalued/) — *24/7 Wall St. 11:10 AM CT*
 
-### QQQ  $712.6  -1.90%
+### QQQ  $711.74  -2.02%
+- [AppLovin Stock Tumbles 12% Amid Broader Selloff](https://247wallst.com/investing/2026/07/13/applovin-stock-tumbles-12-amid-broader-selloff/) — *24/7 Wall St. 2:32 PM CT*
+- [This $39 Billion Fund Yields 10% and Owns Nvidia. So What’s the Catch?](https://247wallst.com/investing/etf/2026/07/13/this-39-billion-fund-yields-10-and-owns-nvidia-so-whats-the-catch/) — *24/7 Wall St. 1:45 PM CT*
 - [Exchange-Traded Funds Point Lower as US Equities Decline After Midday](https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-point-lower-170737882.html) — *MT Newswires 12:07 PM CT*
-- [IonQ Tumbles 8%, D-Wave, Rigetti, Quantum Computing Drop 6% as Risk-Off Ripple Effects Hit Speculative Quantum Stocks](https://247wallst.com/investing/2026/07/13/ionq-tumbles-8-d-wave-rigetti-quantum-computing-drop-6-as-risk-off-ripple-effects-hit-speculative-quantum-stocks/) — *24/7 Wall St. 11:16 AM CT*
-- [This Stock is My Biggest Bet For 2026](https://247wallst.com/investing/2026/07/13/this-stock-is-my-biggest-bet-for-2026/) — *24/7 Wall St. 10:30 AM CT*
 
-### VIX  $17.19  +14.30%
+### VIX  $17.11  +13.76%
 
-### SMH  $586.02  -4.40%
+### SMH  $585.62  -4.47%
 - [SK Hynix Surges in Blockbuster U.S. Market Debut: ETFs in Focus](https://finance.yahoo.com/markets/stocks/articles/sk-hynix-surges-blockbuster-u-120000805.html) — *Zacks 7:00 AM CT*
 
-### XLK  $181.25  -2.61%
+### XLK  $181.28  -2.59%
+- [Sector Update: Tech Stocks Fall Late Afternoon](https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-fall-afternoon-195540793.html) — *MT Newswires 2:55 PM CT*
+- [Western Digital's Quarterly Earnings Preview: What You Need to Know](https://www.barchart.com/story/news/3254744/western-digital-s-quarterly-earnings-preview-what-you-need-to-know) — *Barchart 9:08 AM CT*
 - [RBC makes major S&P 500 sector shake-up, favors Tech over Utilities](https://finance.yahoo.com/markets/stocks/articles/rbc-makes-major-p-500-120310181.html) — *Investing.com 7:03 AM CT*
 
 ---
 ## AI / Semiconductor Sector
 
-### NVDA  $204.09  -3.08%
+### NVDA  $203.53  -3.34%
 - [Retail investors are cashing out of Apple, Tesla, and chip stocks: Chart of the Day](https://finance.yahoo.com/markets/article/retail-investors-are-cashing-out-of-apple-tesla-and-chip-stocks-chart-of-the-day-162404788.html) — *Yahoo Finance 11:24 AM CT*
-- [Oracle Is Now Down 28% in a Month. Will the 52-Week Low of $132 Hold or Fold?](https://247wallst.com/investing/2026/07/13/oracle-is-now-down-28-in-a-month-will-the-52-week-low-of-132-hold-or-fold/) — *24/7 Wall St. 1:31 PM CT*
-- [This Is Why I Keep Buying Meta Stock](https://247wallst.com/investing/2026/07/13/this-is-why-i-keep-buying-meta-stock/) — *24/7 Wall St. 1:23 PM CT*
+- [Citi Has a Stark Message for Nvidia Stock Fans](https://finance.yahoo.com/markets/stocks/articles/citi-stark-message-nvidia-stock-195213457.html) — *GuruFocus.com 2:52 PM CT*
+- [Why AI Investors Can Finally Buy the World's Top HBM Maker Directly](https://www.fool.com/investing/2026/07/13/ai-investors-can-finally-buy-worlds-top-hbm-maker/) — *Motley Fool 2:50 PM CT*
 
-### AMD  $536.37  -4.18%
+### AMD  $534.39  -4.53%
 - [SK Hynix stock falls, leads broader chip sector declines as AI trade angst returns](https://finance.yahoo.com/markets/article/sk-hynix-stock-falls-leads-broader-chip-sector-declines-as-ai-trade-angst-returns-120751185.html) — *Yahoo Finance 7:07 AM CT*
-- [TSMC Revenue Tops Forecasts on AI Strength](https://finance.yahoo.com/technology/ai/articles/tsmc-revenue-tops-forecasts-ai-171945309.html) — *GuruFocus.com 12:19 PM CT*
-- [Stocks to Watch: SK Hynix, SpaceX, Intel](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-13-2026/card/stocks-to-watch-sk-hynix-intel-akzo-nobel-Kz6QtkxLQjQNjN4ji1kT?siteid=yhoof2&yptr=yahoo) — *The Wall Street Journal 12:12 PM CT*
+- [AMD Seen Posting Strong Quarter](https://finance.yahoo.com/technology/articles/amd-seen-posting-strong-quarter-194125633.html) — *GuruFocus.com 2:41 PM CT*
+- [AMD Gets Bigger AI Target From BofA](https://finance.yahoo.com/technology/ai/articles/amd-gets-bigger-ai-target-193536282.html) — *GuruFocus.com 2:35 PM CT*
 
-### TSM  $423.83  -2.75%
+### TSM  $421.58  -3.26%
+- [Stock Market Today: Dow Lower As Oil Spikes On Hormuz Conflict; Memory ETF In Bear Market (Live Coverage)](https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-sk-hynix-stock-skhy/?src=A00220&yptr=yahoo) — *Investor's Business Daily 2:46 PM CT*
+- [Should You Buy TSM Stock Ahead of Q2 Earnings on HPC Strength?](https://finance.yahoo.com/markets/stocks/articles/buy-tsm-stock-ahead-q2-190000563.html) — *Zacks 2:00 PM CT*
 - [Arm And Marvell Tumble As Chip Stocks Sell Off](https://www.investors.com/news/technology/chip-stocks-sox-arm-marvell-sell-off/?src=A00220&yptr=yahoo) — *Investor's Business Daily 1:21 PM CT*
-- [Taiwan Semiconductor Posts Stronger-Than-Expected June Sales](https://www.investors.com/news/technology/tsm-stock-taiwan-semiconductor-june-2026-sales/?src=A00220&yptr=yahoo) — *Investor's Business Daily 1:16 PM CT*
-- [Stock Market Today: Dow Down As Hormuz Battle Heats Up; Natgas Firm Targa Nears A Buy Point (Live Coverage)](https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-sk-hynix-stock-skhy/?src=A00220&yptr=yahoo) — *Investor's Business Daily 1:04 PM CT*
 
-### MRVL  $216.21  -8.66%
-- [Why investors dashed for AI bottlenecks during Q2](https://moneyweek.com/investments/stocks-and-shares/investors-buy-ai-bottlenecks-q2) — *Moneyweek 10:06 AM CT*
-- [Wall Street Analysts Look Bullish on Marvell (MRVL): Should You Buy?](https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-look-bullish-133005184.html) — *Zacks 8:30 AM CT*
-- [What Investors Keep Asking About NVDA](https://www.trefis.com/articles/606853/what-investors-keep-asking-about-nvda/2026-07-13) — *Trefis 8:12 AM CT*
+### MRVL  $217.53  -8.10%
+- [Is MaxLinear Stock a Buy Now or a Hold at Current Levels?](https://finance.yahoo.com/markets/stocks/articles/maxlinear-stock-buy-now-hold-185200399.html) — *Zacks 1:52 PM CT*
+- [MaxLinear Stock Outlook Hinges on Optics, Broadband and AI Demand](https://finance.yahoo.com/markets/stocks/articles/maxlinear-stock-outlook-hinges-optics-184800850.html) — *Zacks 1:48 PM CT*
+- [Tech View: Record Profits, Insider buying, & Cheap Valuations](https://finance.yahoo.com/markets/stocks/articles/tech-view-record-profits-insider-175100722.html) — *Zacks 12:51 PM CT*
 
-### AVGO  $385.95  -3.61%
+### AVGO  $384.05  -4.08%
 - [Nvidia, Micron, and other chip players are poised to become cash-producing machines](https://finance.yahoo.com/markets/article/nvidia-micron-and-other-chip-players-are-poised-to-become-cash-producing-machines-150232841.html) — *Yahoo Finance 10:02 AM CT*
-- [Broadcom Insiders Dump $10 Million in Stock -- Here's Why](https://finance.yahoo.com/markets/stocks/articles/broadcom-insiders-dump-10-million-172324535.html) — *GuruFocus.com 12:23 PM CT*
-- [Intel Just Announced A $5.7B Investment In Ireland – Retail Says Move Strengthens The Chipmaker’s Position](https://stocktwits.com/news-articles/markets/equity/intel-just-announced-a-5-7-b-investment-in-ireland-retail-says-move-strengthens-the-chipmaker-s-position/cZmzumeR7YQ) — *Stocktwits 10:56 AM CT*
+- [Alphabet Vs. Broadcom: Rotate Out of AVGO and into GOOG as a Custom Chip Creator and Hyperscaler Partner](https://247wallst.com/investing/2026/07/13/alphabet-vs-broadcom-rotate-out-of-avgo-and-into-goog-as-a-custom-chip-creator-and-hyperscaler-partner/) — *24/7 Wall St. 1:49 PM CT*
+- [A Generational Transfer Is Happening: Amazon, Google, Microsoft Are the Losers. NVIDIA and Micron the Winners.](https://247wallst.com/investing/2026/07/13/a-generational-transfer-is-happening-amazon-google-microsoft-are-the-losers-nvidia-and-micron-the-winners/) — *24/7 Wall St. 12:38 PM CT*
 
 ---
 ## Market Headlines  *(Reuters · MarketWatch · CNBC)*
@@ -76,11 +78,11 @@
 - [Who will replace Lindsey Graham in the Senate?](https://www.cnbc.com/2026/07/12/nancy-mace-lindsey-graham-senate-seat-south-carolina-election.html) — *CNBC 7:02 AM CT*
 - [Kalshi launches 'Pro' product for users trading multiple markets at same time, perpetual futures](https://www.cnbc.com/2026/07/13/kalshi-launches-pro-product-for-users-trading-multiple-markets-at-same-time-perpetual-futures.html) — *CNBC 6:36 AM CT*
 - [Chinese EV makers are outpacing U.S. automakers in overseas investments](https://www.cnbc.com/2026/07/13/chinese-ev-investments.html) — *CNBC 5:00 AM CT*
-- [TSMC, the world's largest contract chipmaker, reports 68% surge in June revenue](https://www.cnbc.com/2026/07/13/tsmc-june-revenue-rises-percent-ahead-second-quarter.html) — *CNBC 2:29 AM CT*
-- [Meta and Amazon are leading a trillion-dollar Big Tech spending spree](https://www.marketwatch.com/story/meta-and-amazon-are-leading-a-trillion-dollar-big-tech-spending-spree-17a8156d?mod=mw_rss_topstories) — *MarketWatch 1:36 PM CT*
-- [My wife’s 2011 Ford Fiesta was totaled. Should we accept a $2,000 insurance settlement or give up the car for $2,700?](https://www.marketwatch.com/story/my-wifes-2011-ford-fiesta-was-totaled-should-we-accept-a-2-000-insurance-settlement-or-give-up-the-car-for-2-700-f2cf2a86?mod=mw_rss_topstories) — *MarketWatch 1:30 PM CT*
-- [Judge says Trump sued IRS for 'improper purpose'; refers his lawyer to bar](https://www.cnbc.com/2026/07/13/trump-irs-doj-lawsuit-blanche.html) — *CNBC 1:30 PM CT*
-- [UN maritime agency opposes Hormuz transit fees after Trump demands protection money](https://www.cnbc.com/2026/07/13/imo-maritime-organization-strait-hormuz-tolls-trump-iran.html) — *CNBC 1:28 PM CT*
+- [South Carolina governor taps Lindsey Graham's sister to serve as interim senator](https://www.cnbc.com/2026/07/13/trump-lindsey-graham-darline-south-carolina-senator.html) — *CNBC 3:16 PM CT*
+- [Trump to claim declassified intel reveals 2020 election interference: MS NOW](https://www.cnbc.com/2026/07/13/trump-2020-election-intelligence-speech.html) — *CNBC 3:02 PM CT*
+- [Judge says Trump sued IRS for 'improper purpose'; refers his lawyer to bar](https://www.cnbc.com/2026/07/13/trump-irs-doj-lawsuit-blanche.html) — *CNBC 3:00 PM CT*
+- [Global oil prices top $83 a barrel, logging biggest jump in 6 years after Trump reimposes Strait of Hormuz blockade](https://www.marketwatch.com/story/oil-prices-surge-as-much-as-5-after-iran-declares-strait-of-hormuz-is-closed-6905599b?mod=mw_rss_topstories) — *MarketWatch 2:43 PM CT*
+- [AI-related debt jumped 99% over the past year. It’s a ‘shock to the system’ for investors.](https://www.marketwatch.com/story/ai-related-debt-jumped-99-over-the-past-year-its-a-shock-to-the-system-for-investors-b47ce4ea?mod=mw_rss_topstories) — *MarketWatch 2:30 PM CT*
 
 ---
-*Generated 2026-07-13 13:44 CT | last 24h | sources: yfinance + Reuters/MarketWatch/CNBC*
+*Generated 2026-07-13 15:16 CT | last 24h | sources: yfinance + Reuters/MarketWatch/CNBC*
