@@ -1,16 +1,16 @@
-# Market News — Tuesday July 28 2026 — 03:46 PM CT
+# Market News — Wednesday July 29 2026 — 10:50 AM CT
 
-**SPY** $740.86  +0.26%  |  **VIX** 18.21  |  **Regime** OK  |  **Portfolio P&L** +$0  |  **Positions** 0
+**SPY** $734.5  -1.23%  |  **VIX** 19.84  |  **Regime** OK  |  **Portfolio P&L** +$0  |  **Positions** 0
 
 ## MARKET ALERTS — 9 priority stories
-- [Ford raises guidance after Q2 earnings beat, says F-Series recovery is on track](https://www.cnbc.com/2026/07/28/ford-motor-f-earnings-q2-2026.html) — *CNBC 3:30 PM CT*
-- [Forget oil. A surging El Niño could kill Fed rate cuts — and these stocks stand to win.](https://www.marketwatch.com/story/forget-oil-a-surging-el-nino-could-kill-fed-rate-cuts-and-these-stocks-stand-to-win-41f8e67f?mod=mw_rss_topstories) — *MarketWatch 3:26 PM CT*
-- [Global oil prices settle at a 2-week low, as Trump meets with Netanyahu to discuss Iran war](https://www.marketwatch.com/story/oil-prices-decline-further-after-trump-claims-deep-talks-are-underway-with-iran-167a5393?mod=mw_rss_topstories) — *MarketWatch 3:15 PM CT*
-- [Why Palantir’s stock is missing out on a big software rally](https://www.marketwatch.com/story/why-palantirs-stock-is-missing-out-on-a-big-software-rally-08acc5bf?mod=mw_rss_topstories) — *MarketWatch 2:46 PM CT*
-- [Analysis: Kevin Warsh has three reasons to hold off on a Fed rate hike this week](https://www.cnbc.com/2026/07/28/warsh-fed-rate-decision-trump-powell-analysis.html) — *CNBC 2:25 PM CT*
-- [Senate to set up key vote on Russia sanctions](https://www.cnbc.com/2026/07/28/russia-sanctions-congress-key-vote-lindsey-graham-ukraine.html) — *CNBC 1:17 PM CT*
-- [Shein says it's under investigation by the Federal Trade Commission as it prepares for Hong Kong IPO](https://www.cnbc.com/2026/07/28/shein-discloses-its-under-investigation-by-the-ftc.html) — *CNBC 12:12 PM CT*
-- [Blurred front lines: Trump meets Zelenskyy as Ukraine, Iran wars collide](https://www.cnbc.com/2026/07/28/trump-zelenskyy-ukraine-russia-iran-war.html) — *CNBC 10:59 AM CT*
+- [Procter & Gamble revenue misses estimates as volume stays unchanged](https://www.cnbc.com/2026/07/29/procter-gamble-pg-q4-2026-earnings.html) — *CNBC 9:53 AM CT*
+- [Trump says U.S. will give Iran a 'beating' after surprise attack](https://www.cnbc.com/2026/07/29/us-iran-war-hormuz-centcom.html) — *CNBC 9:18 AM CT*
+- [Ukraine has found a new pressure point in Russia’s wartime economy](https://www.cnbc.com/2026/07/29/ukraine-russia-wildberries-putin-trump.html) — *CNBC 8:59 AM CT*
+- [Global oil prices rise above $87 a barrel after Trump vows retaliation for surprise Iranian attack on U.S. troops](https://www.marketwatch.com/story/oil-prices-rise-after-u-s-and-saudi-arabia-attack-iran-backed-militias-in-iraq-f0f409ea?mod=mw_rss_topstories) — *MarketWatch 8:56 AM CT*
+- [Trump, DOJ ask Supreme Court to toss $83.3M defamation award to E. Jean Carroll](https://www.cnbc.com/2026/07/28/trump-asks-supreme-court-to-toss-83point3m-defamation-award-to-e-jean-carroll.html) — *CNBC 8:17 PM CT*
+- [Ford raises guidance after Q2 earnings beat, says F-Series recovery is on track](https://www.cnbc.com/2026/07/28/ford-motor-f-earnings-q2-2026.html) — *CNBC 5:49 PM CT*
+- [Warren, Schiff urge SEC to probe Trump Media's paid service giving faster access to Trump's posts](https://www.cnbc.com/2026/07/29/trump-media-djt-warren-schiff-wall-street-api.html) — *CNBC 10:41 AM CT*
+- [Oil prices jump more than 7% after Trump says U.S. will hit Iran hard](https://www.cnbc.com/2026/07/29/oil-prices-today-brent-wti-iran-us-hormuz.html) — *CNBC 10:27 AM CT*
 
 
 ---
@@ -21,71 +21,70 @@
 ---
 ## Market Pulse
 
-### SPY  $740.86  +0.26%
-- [Why Investors Should Wait For Meta’s Post Earnings Dip](https://247wallst.com/investing/2026/07/28/why-investors-should-wait-for-metas-post-earnings-dip/) — *24/7 Wall St. 1:45 PM CT*
-- [A Goldman Economist Says AI Will Take 15 Years to Show Up in the Economy. A 63-Year-Old Banking His Nest Egg on the AI Boom Should Listen.](https://247wallst.com/personal-finance/social-security/2026/07/28/a-goldman-economist-says-ai-will-take-15-years-to-show-up-in-the-economy-a-63-year-old-banking-his-nest-egg-on-the-ai-boom-should-listen/) — *24/7 Wall St. 12:01 PM CT*
-- [Is This Wall Street Bank Insane to Believe Tesla Will Nearly Double From Current Prices? Maybe Not.](https://247wallst.com/investing/2026/07/28/is-this-wall-street-bank-insane-to-believe-tesla-will-nearly-double-from-current-prices-maybe-not/) — *24/7 Wall St. 11:41 AM CT*
+### SPY  $734.5  -1.23%
+- [SOXQ ETF Is A Sharper Bet Than Its Name Suggests](https://www.trefis.com/articles/609291/soxq-etf-is-a-sharper-bet-than-its-name-suggests/2026-07-29) — *Trefis 8:30 AM CT*
+- [Time To Take Profits In XLV?](https://www.trefis.com/articles/609290/time-to-take-profits-in-xlv/2026-07-29) — *Trefis 8:30 AM CT*
+- [Exchange-Traded Funds Lower, Equity Futures Mixed Pre-Bell Wednesday Ahead of Fed's Interest Rate Announcement](https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-lower-equity-123842313.html) — *MT Newswires 7:38 AM CT*
 
-### QQQ  $675.49  -0.86%
+### QQQ  $666.94  -1.89%
+- [Dow Tumbles Over 850 Points – Trump's Latest Iran Warning Sends Crude Oil Prices Soaring Ahead Of Fed Decision](https://stocktwits.com/news-articles/markets/equity/dow-tumbles-trump-latest-iran-warning-crude-oil-prices-soaring-fed-decision/cZNRyqIRJT5) — *Stocktwits 10:11 AM CT*
+- [Zacks Investment Ideas feature highlights: Nasdaq 100 Index ETF, Microsoft, Meta Platforms, Tesla and Alphabet](https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-075600832.html) — *Zacks 2:56 AM CT*
 - [Non-Tech Defensive Stocks Could Be Headed for a Downturn](https://www.barrons.com/articles/markets-tech-stocks-rotation-91a51127?siteid=yhoof2&yptr=yahoo) — *Barrons.com 2:09 PM CT*
-- [Invesco Q2 Earnings Call Highlights](https://www.marketbeat.com/instant-alerts/invesco-q2-earnings-call-highlights-2026-07-28/?utm_source=yahoofinance&utm_medium=yahoofinance) — *MarketBeat 2:04 PM CT*
-- [Wall Street Rebounds Ahead of FOMC & Big Tech Earnings](https://finance.yahoo.com/markets/stocks/articles/wall-street-rebounds-ahead-fomc-181400369.html) — *Zacks 1:14 PM CT*
 
-### VIX  $18.21  -2.46%
-- [Market Fear Index Rises as Chip Worries Spread](https://www.barrons.com/livecoverage/stock-market-news-today-072826/card/market-fear-index-rises-as-chip-worries-spread-D9rKQhWP35rOTWMFu4zM?siteid=yhoof2&yptr=yahoo) — *Barrons.com 5:48 AM CT*
+### VIX  $19.84  +9.01%
 
-### SMH  $529.6  -3.11%
-- [Update: US Equity Indexes Mixed as Semiconductor Heavyweights Restrain Nasdaq](https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-semiconductor-193716548.html) — *MT Newswires 2:37 PM CT*
-- [Nasdaq 100 Is Narrowly Avoiding Correction](https://www.barrons.com/livecoverage/stock-market-news-today-072826/card/nasdaq-100-is-narrowly-avoiding-correction-bHgnrmSk4AgJNw9Rjr7g?siteid=yhoof2&yptr=yahoo) — *Barrons.com 1:50 PM CT*
-- [Update: US Equity Indexes Mixed as Chipmakers Restrain Nasdaq, Crude Oil Slides](https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-chipmakers-173518246.html) — *MT Newswires 12:35 PM CT*
+### SMH  $510.27  -3.90%
+- [A Tired Tech Trade Looks Set to Sink the Stock Market](https://www.barrons.com/articles/tech-stocks-market-7affb184?siteid=yhoof2&yptr=yahoo) — *Barrons.com 12:00 AM CT*
+- [ETF League Tables: VanEck Sheds $1.9B](http://www.etf.com/sections/etf-league-tables/etf-league-tables-vaneck-sheds-19b?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss) — *etf.com 4:00 PM CT*
+- [Update: US Equity Indexes Mixed as Chipmakers Weigh Ahead of Mag-7 Results, Crude Oil Drops Amid Halt in Middle East Strikes](https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-chipmakers-205435929.html) — *MT Newswires 3:54 PM CT*
 
-### XLK  $171.09  -1.51%
+### XLK  $168.25  -2.21%
+- [Stock Market News for July 29, 2026](https://finance.yahoo.com/markets/stocks/articles/stock-market-news-july-29-132000674.html) — *Zacks 8:20 AM CT*
 - [Sector Update: Tech Stocks Fall Late Afternoon](https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-fall-afternoon-193144961.html) — *MT Newswires 2:31 PM CT*
 - [Sector Update: Tech Stocks Fall Tuesday Afternoon](https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-fall-tuesday-173428394.html) — *MT Newswires 12:34 PM CT*
-- [Stock Market News for July 28, 2026](https://finance.yahoo.com/markets/stocks/articles/stock-market-news-july-28-131500501.html) — *Zacks 8:15 AM CT*
 
 ---
 ## AI / Semiconductor Sector
 
-### NVDA  $197.01  +0.44%
-- [Micron, SK Hynix stocks sink as AI chip sell-off deepens](https://finance.yahoo.com/markets/article/micron-sk-hynix-stocks-sink-as-ai-chip-sell-off-deepens-125622548.html) — *Yahoo Finance 7:56 AM CT*
-- [CLARITY Act hits summer roadblock](https://finance.yahoo.com/video/clarity-act-hits-summer-roadblock-155743444.html) — *Yahoo Finance Video 10:57 AM CT*
-- [Nvidia reportedly in talks to finance OpenAI's massive Ohio data center](https://finance.yahoo.com/video/nvidia-reportedly-in-talks-to-finance-openais-massive-ohio-data-center-204640730.html) — *Yahoo Finance Video 3:46 PM CT*
+### NVDA  $191.88  -2.91%
+- [CME launches 23-hour single-stock futures to trade stocks like SpaceX, Micron](https://finance.yahoo.com/video/cme-launches-23-hour-single-163000931.html) — *Yahoo Finance Video 11:30 AM CT*
+- [Famous Investor Michael Burry Is Short Nvidia, Palantir, and Tesla. Why I'd Buy 1 of the Stocks, Hold Another, and Sell the Third.](https://www.fool.com/investing/2026/07/29/famous-investor-michael-burry-is-short-nvidia-pala/) — *Motley Fool 10:35 AM CT*
+- [Can Amazon Continue Its Rally? Analysts Weigh In](https://247wallst.com/investing/2026/07/29/can-amazon-continue-its-rally-analysts-weigh-in/) — *24/7 Wall St. 10:30 AM CT*
 
-### AMD  $454.62  -7.50%
-- [Update: Dow Extends Advance Following Strong Earnings Reports](https://finance.yahoo.com/markets/stocks/articles/dow-extends-advance-following-strong-203202788.html) — *MT Newswires 3:32 PM CT*
-- [AMD's Core Scientific Deal Hints at AI's Next Race](https://finance.yahoo.com/technology/ai/articles/amds-core-scientific-deal-hints-201731172.html) — *GuruFocus.com 3:17 PM CT*
-- [Core Scientific (CORZ) Is Down 7.4% After Massive Q2 Loss And AMD AI Deal - Has The Bull Case Changed?](https://finance.yahoo.com/technology/ai/articles/core-scientific-corz-down-7-201310120.html) — *Simply Wall St. 3:13 PM CT*
+### AMD  $428.94  -6.83%
+- [Wedbush Says AMD Deal Comes With a Catch](https://finance.yahoo.com/markets/stocks/articles/wedbush-says-amd-deal-comes-140254104.html) — *GuruFocus.com 9:02 AM CT*
+- [What Could Push NVDA Stock Higher From Here?](https://www.trefis.com/articles/609271/what-could-push-nvda-stock-higher-from-here-2/2026-07-29) — *Trefis 8:21 AM CT*
+- [Eliyan raises $145 million at $1 billion valuation to ease AI chip data bottlenecks](https://finance.yahoo.com/technology/ai/articles/eliyan-raises-145-million-1-130637741.html) — *Reuters 8:06 AM CT*
 
-### TSM  $392.31  -1.36%
-- [Why Amkor Plunged Today](https://www.fool.com/investing/2026/07/28/why-amkor-plunged-today/) — *Motley Fool 3:05 PM CT*
-- [Wall Street’s Top AI Bull Dan Ives Says the Revolution Is Only in the Third Inning. Here’s What That Means for Your Portfolio.](https://247wallst.com/investing/2026/07/28/wall-streets-top-ai-bull-dan-ives-says-the-revolution-is-only-in-the-third-inning-heres-what-that-means-for-your-portfolio/) — *24/7 Wall St. 12:59 PM CT*
-- [Billionaire Stanley Druckenmiller Slashed His Stake in This Stock. But Wall Street Thinks It Could Jump 50%.](https://www.fool.com/investing/2026/07/28/stanley-druckenmiller-slashed-his-stake-in-this/) — *Motley Fool 10:50 AM CT*
+### TSM  $376.42  -4.64%
+- [Update: Market Chatter: Taiwan Semiconductor Manufacturing, Toyota Operations Hit by Japan Earthquake](https://finance.yahoo.com/markets/stocks/articles/market-chatter-taiwan-semiconductor-manufacturing-142510528.html) — *MT Newswires 9:25 AM CT*
+- [Amkor (AMKR) Lands 10 Year TSMC Arizona Deal After Record Q2 Revenue](https://finance.yahoo.com/markets/stocks/articles/amkor-amkr-lands-10-tsmc-110934163.html) — *Simply Wall St. 6:09 AM CT*
+- [Nvidia Partner Quanta Seeks Up to $2.2 Billion From Offering](https://finance.yahoo.com/markets/stocks/articles/nvidia-partner-quanta-seeks-2-100050526.html) — *Bloomberg 5:00 AM CT*
 
-### MRVL  $174.47  -6.85%
-- [AMD Stock's Surge Was Already Visible In Its Own Earnings Calls](https://www.trefis.com/articles/609201/amd-stocks-surge-was-already-visible-in-its-own-earnings-calls/2026-07-28) — *Trefis 2:29 PM CT*
-- [Coherent Sinks 11%, Applied Optoelectronics Falls 10%, Lumentum Drops 9% as Traders Question AI Spending Spree](https://247wallst.com/investing/2026/07/28/coherent-sinks-11-applied-optoelectronics-falls-10-lumentum-drops-9-as-traders-question-ai-spending-spree/) — *24/7 Wall St. 11:15 AM CT*
-- [AMD Sinks 8%, Marvell Sinks 7%, Intel Fall 6% as AI Chip Trade Narrows to NVIDIA](https://247wallst.com/investing/2026/07/28/amd-sinks-8-marvell-sinks-7-intel-fall-6-as-ai-chip-trade-narrows-to-nvidia/) — *24/7 Wall St. 10:28 AM CT*
+### MRVL  $166.71  -5.81%
+- [Marvell Is Making a Bigger Bet on India](https://finance.yahoo.com/technology/articles/marvell-making-bigger-bet-india-140140484.html) — *GuruFocus.com 9:01 AM CT*
+- [Here is What to Know Beyond Why Marvell Technology, Inc. (MRVL) is a Trending Stock](https://finance.yahoo.com/markets/stocks/articles/know-beyond-why-marvell-technology-130008254.html) — *Zacks 8:00 AM CT*
+- [Nvidia: Stop Worrying About Circular Financing and Embrace the Bank](https://www.barrons.com/articles/nvidia-stock-price-circular-financing-cds-c2b6e832?siteid=yhoof2&yptr=yahoo) — *Barrons.com 6:46 AM CT*
 
-### AVGO  $380.91  -0.36%
-- [Qualcomm’s (QCOM) Samsung Expansion and AI Deals Could Reshape Its Growth Story](https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-samsung-expansion-ai-201124878.html) — *Insider Monkey 3:11 PM CT*
-- [Big Tech Credit Risk Flashes Urgent Warning Over AI Spending](https://finance.yahoo.com/technology/ai/articles/big-tech-credit-risk-flashes-192645668.html) — *GuruFocus.com 2:26 PM CT*
-- [Broadcom Stock Yields Just 0.68%. But the Dividend Has Seen Explosive Growth](https://www.fool.com/investing/2026/07/28/broadcom-yields-just-068-heres-how-fast-that-divid/) — *Motley Fool 9:54 AM CT*
+### AVGO  $371.96  -3.22%
+- [Chip stocks are crashing as the rest of the market barely flinches: AlphaCheck](https://finance.yahoo.com/markets/article/chip-stocks-are-crashing-as-the-rest-of-the-market-barely-flinches-alphacheck-161342600.html) — *Yahoo Finance 11:13 AM CT*
+- [NVDA, AVGO’s AI Backstops Have One Analyst Worried — Michael Burry Says There’s A Reason Nvidia’s 5Y CDS Are Going ‘Parabolic’](https://stocktwits.com/news-articles/markets/equity/nvda-avgo-ai-backstops-analyst-concerned-michael-burry-nvidia-5y-cds/cZNRxIDRJRz) — *Stocktwits 9:14 AM CT*
+- [Apple Becomes a $5 Trillion Company. Here’s What Comes Next](https://247wallst.com/investing/2026/07/29/apple-becomes-a-5-trillion-company-heres-what-comes-next/) — *24/7 Wall St. 8:30 AM CT*
 
 ---
 ## Market Headlines  *(Reuters · MarketWatch · CNBC)*
-- [New Republican ads slam Democrats opposed to Trump's tariffs](https://www.cnbc.com/2026/07/28/trump-tariffs-trade-election-advertising.html) — *CNBC 9:48 AM CT*
-- [Coca-Cola hikes full-year forecast. CEO tells CNBC the World Cup boosted its brands](https://www.cnbc.com/2026/07/28/coca-cola-ko-q2-2026-earnings.html) — *CNBC 9:42 AM CT*
-- [Boeing posts wider loss than expected as Air Force One costs weigh on results](https://www.cnbc.com/2026/07/28/boeing-ba-2q-2026-earnings.html) — *CNBC 8:56 AM CT*
-- [Trump says U.S. has sold more than $13 billion of Venezuela oil since Maduro's capture](https://www.cnbc.com/2026/07/27/trump-says-us-has-sold-more-than-13-billion-of-venezuela-oil-.html) — *CNBC 7:39 AM CT*
-- [Apple plans to lease iPhones for $17.99 a month through partnership with Klarna](https://www.cnbc.com/2026/07/28/apple-plans-to-lease-iphones-for-17point99-a-month-through-klarna-deal.html) — *CNBC 7:38 AM CT*
-- [Lawmakers renew push to axe a lucrative tax loophole for crypto investors](https://www.cnbc.com/2026/07/28/congress-renews-push-to-end-crypto-wash-sale-tax-loophole.html) — *CNBC 7:15 AM CT*
-- [SpaceX stock-purchasing by Congress members fuels conflict concerns](https://www.cnbc.com/2026/07/28/spacex-stock-congress-lawmakers-ipo-conflict-of-interest.html) — *CNBC 5:30 AM CT*
-- [Microsoft is making a $190 billion AI gamble — and investors will soon see if it’s paying off](https://www.marketwatch.com/story/microsoft-is-making-a-190-billion-ai-gamble-and-investors-will-soon-see-if-its-paying-off-b53bd89a?mod=mw_rss_topstories) — *MarketWatch 3:33 PM CT*
-- [Investors are piling into bond funds at a rapid rate. That’s a problem — but not for stocks.](https://www.marketwatch.com/story/investors-are-piling-into-bond-funds-at-a-rapid-rate-thats-a-problem-09aaa039?mod=mw_rss_topstories) — *MarketWatch 3:25 PM CT*
-- [Ford matches GM in one crucial way, and the stock jumps](https://www.marketwatch.com/story/ford-matches-gm-in-one-crucial-way-and-the-stock-jumps-bf2f708c?mod=mw_rss_topstories) — *MarketWatch 3:24 PM CT*
-- [My stepdad is dying from cancer. How can I help my mom find out if she’ll get his assets?](https://www.marketwatch.com/story/my-stepdad-is-dying-from-cancer-how-can-i-help-my-mom-find-out-if-shell-get-his-assets-8a10bad2?mod=mw_rss_topstories) — *MarketWatch 3:17 PM CT*
-- [Saudi Arabia has a new, and pricier, workaround to export its oil](https://www.marketwatch.com/story/saudi-arabia-has-a-new-and-pricier-workaround-to-export-its-oil-fb5085a5?mod=mw_rss_topstories) — *MarketWatch 3:12 PM CT*
+- [Why shareholders are suing Novo Nordisk over next-generation weight-loss drug](https://www.cnbc.com/2026/07/29/novo-nordisk-lawsuit-cagrisema-weight-loss-drug.html) — *CNBC 9:59 AM CT*
+- [Humana tops quarterly estimates, maintains profit outlook as medical costs stay in line](https://www.cnbc.com/2026/07/29/humana-hum-earnings-q2-2026.html) — *CNBC 9:57 AM CT*
+- [FIFA is embroiled in a $20 billion World Cup controversy. Here's what's going on](https://www.cnbc.com/2026/07/29/world-cup-fifa-stake-sales-uefa-soccer.html) — *CNBC 9:54 AM CT*
+- [Nike was once China's sneaker king. Here's why its sales have fallen 30%](https://www.cnbc.com/2026/07/29/nike-china-sales-decline.html) — *CNBC 9:49 AM CT*
+- [Medicare is about to change a drug program that held down the cost of premiums. Here’s what to know.](https://www.marketwatch.com/story/medicare-is-about-to-change-a-program-that-held-down-the-cost-of-premiums-heres-what-to-know-42c0612e?mod=mw_rss_topstories) — *MarketWatch 9:31 AM CT*
+- [Elon Musk's xAI sues Minnesota over law to ban 'nudify' apps](https://www.cnbc.com/2026/07/28/spacexs-xai-sues-minnesota-over-law-to-ban-nudify-apps-.html) — *CNBC 9:27 PM CT*
+- [My girlfriend is 62. Can she claim her late husband’s full Social Security benefit — or does she have to wait?](https://www.marketwatch.com/story/my-girlfriend-is-62-can-she-claim-her-late-husbands-full-social-security-benefit-or-does-she-have-to-wait-315c0fa1?mod=mw_rss_topstories) — *MarketWatch 9:27 AM CT*
+- [This country is buying up the most homes in America right now, even as international sales dry up](https://www.marketwatch.com/story/this-country-is-buying-up-the-most-homes-in-america-right-now-even-as-international-sales-dry-up-c8b2afbb?mod=mw_rss_topstories) — *MarketWatch 9:20 AM CT*
+- [My stepdad is in the military and dying of cancer. Will my mom automatically get his money?](https://www.marketwatch.com/story/my-stepdad-is-dying-from-cancer-how-can-i-help-my-mom-find-out-if-shell-get-his-assets-8a10bad2?mod=mw_rss_topstories) — *MarketWatch 9:12 AM CT*
+- [Economy is poised to show strong second-quarter growth — but only after a look under the hood](https://www.marketwatch.com/story/economy-is-poised-to-show-strong-second-quarter-growth-but-only-after-a-look-under-the-hood-8fd3615d?mod=mw_rss_topstories) — *MarketWatch 9:09 AM CT*
+- [JPMorgan, Schwab and UBS manage millions in Trump's $858 million investment portfolio](https://www.cnbc.com/2026/07/29/trump-banking-investments-jpmorgan-schwab-ubs-financial-disclosure.html) — *CNBC 9:03 AM CT*
+- [Audi continues U.S. product push with three-row Q9 SUV](https://www.cnbc.com/2026/07/28/audi-q9-suv.html) — *CNBC 8:56 PM CT*
 
 ---
-*Generated 2026-07-28 15:46 CT | last 24h | sources: yfinance + Reuters/MarketWatch/CNBC*
+*Generated 2026-07-29 10:50 CT | last 24h | sources: yfinance + Reuters/MarketWatch/CNBC*
