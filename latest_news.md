@@ -1,6 +1,6 @@
-# Market News — Tuesday August 18 2026 — 01:43 PM CT
+# Market News — Tuesday August 18 2026 — 02:28 PM CT
 
-**SPY** $768.22  -0.57%  |  **VIX** 15.66  |  **Regime** OK  |  **Portfolio P&L** +$0  |  **Positions** 0
+**SPY** $768.12  -0.59%  |  **VIX** 15.67  |  **Regime** OK  |  **Portfolio P&L** +$0  |  **Positions** 0
 
 ## MARKET ALERTS — 7 priority stories
 - ['Worrisome': AI is driving a looming market correction, European central bank economists warn](https://www.cnbc.com/2026/08/18/ai-tech-rally-correction-economists.html) — *CNBC 8:04 AM CT*
@@ -20,56 +20,56 @@
 ---
 ## Market Pulse
 
-### SPY  $768.22  -0.57%
+### SPY  $768.12  -0.59%
+- [Is the Small-Cap Surge a Trend or Temporary Rotation?](http://www.etf.com/sections/podcasts/small-cap-surge-trend-or-temporary-rotation?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss) — *etf.com 1:56 PM CT*
+- [Most of the SPYI ETF’s 12% Payout Is Your Own Money Coming Back. The IRS Waits Until You Sell.](https://247wallst.com/investing/etf/2026/08/18/most-of-the-spyi-etfs-12-payout-is-your-own-money-coming-back-the-irs-waits-until-you-sell/) — *24/7 Wall St. 1:55 PM CT*
 - [Forget the 4 Percent Rule: These 3 ETFs Pay Up to 12 Percent So You Never Have to Sell a Share](https://247wallst.com/investing/2026/08/18/forget-the-4-percent-rule-these-3-etfs-pay-up-to-12-percent-so-you-never-have-to-sell-a-share/) — *24/7 Wall St. 12:17 PM CT*
-- [Billionaire Joel Greenblatt’s 5 Biggest Moves This Quarter Reveal a Surprising Defensive Shift](https://247wallst.com/investing/2026/08/18/billionaire-joel-greenblatts-5-biggest-moves-this-quarter-reveal-a-surprising-defensive-shift/) — *24/7 Wall St. 10:12 AM CT*
-- [5 Dividend Growth ETFs to Buy](https://www.kiplinger.com/investing/etfs/dividend-growth-etfs) — *Kiplinger 9:38 AM CT*
 
-### QQQ  $717.79  -1.67%
-- [Exchange-Traded Funds Lower as US Equities Decline After Midday](https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-lower-us-171526743.html) — *MT Newswires 12:15 PM CT*
-- [Nvidia, AMD, Broadcom, Meta Slide as Bond Yields Surge: Why Tech Stocks Are Getting Hit](https://www.benzinga.com/markets/prediction-markets/26/08/61279181/nvidia-amd-tech-stocks-bond-yields?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral) — *Benzinga Prediction Markets 10:42 AM CT*
-- [QQQI’s 14% Yield Erases a $500,000 Cost Basis in Seven Years, Then the Tax Bill Lands](https://247wallst.com/investing/etf/2026/08/17/qqqis-14-yield-erases-a-500000-cost-basis-in-seven-years-then-the-tax-bill-lands/) — *24/7 Wall St. 5:05 PM CT*
+### QQQ  $718.03  -1.64%
+- [Applied Materials Rockets 98% in 2026: How Does AMAT Compare to Lam Research and KLA as AI Capex Powers Chip Gear Stocks?](https://247wallst.com/investing/2026/08/18/applied-materials-rockets-98-in-2026-how-does-amat-compare-to-lam-research-and-kla-as-ai-capex-powers-chip-gear-stocks/) — *24/7 Wall St. 2:22 PM CT*
+- [Tesla Is Down 25% in 2026: How Does It Compare to EV Competitors Like Rivian, Lucid, and General Motors?](https://247wallst.com/investing/2026/08/18/tesla-is-down-25-in-2026-how-does-it-compare-to-ev-competitors-like-rivian-lucid-and-general-motors/) — *24/7 Wall St. 2:15 PM CT*
+- [Serve Robotics Sinks 7% as Guidance Cut Overshadows Grubhub Deal; Symbotic Drops 5%, DoorDash Ticks Up](https://247wallst.com/investing/2026/08/18/serve-robotics-sinks-7-as-guidance-cut-overshadows-grubhub-deal-symbotic-drops-5-doordash-ticks-up/) — *24/7 Wall St. 1:45 PM CT*
 
-### VIX  $15.66  +3.09%
+### VIX  $15.67  +3.16%
 - [Are Inflation Fears Back? ETFs May Help Protect Your Portfolio](https://finance.yahoo.com/economy/policy/articles/inflation-fears-back-etfs-may-160100075.html) — *Zacks 11:01 AM CT*
 - [Market Fear Index Rises as Inflation Fears Spook Wall Street](https://www.barrons.com/livecoverage/stock-market-news-today-081826/card/market-fear-index-rises-as-inflation-fears-spook-wall-street-LiyuzPx0Dc5vD64csF12?siteid=yhoof2&yptr=yahoo) — *Barrons.com 6:05 AM CT*
-- [Dow Falls 300 Points. Energy and Chips Are the Only Winners.](https://www.barrons.com/livecoverage/stock-market-news-today-081726/card/dow-falls-300-points-energy-and-chips-are-the-only-winners--cym7IZfObauui3mneTzO?siteid=yhoof2&yptr=yahoo) — *Barrons.com 1:58 PM CT*
 
-### SMH  $567.24  -4.67%
+### SMH  $568.61  -4.44%
 - [Stock Market Today: Nasdaq Weighed Down By Chip Names; Credo Plunges With Micron, Sandisk (Live Coverage)](https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-treasury-yields-nvidia-stock-nvda/?src=A00220&yptr=yahoo) — *Investor's Business Daily 12:35 PM CT*
 - [Interest Rates, Crude Prices Dent Wall Street Pre-Bell; Asia, Europe Off](https://finance.yahoo.com/markets/articles/interest-rates-crude-prices-dent-111408298.html) — *MT Newswires 6:14 AM CT*
+- [S&P500, Dow, Nasdaq End Lower As Geopolitics And Oil Price Risk Take Center Stage — TSLA, PSKY, MSTR, BABA, NVDA In Focus](https://stocktwits.com/news-articles/markets/equity/us-stocks-drop-geopolitics-and-oil-price-risk-take-center-stage/cZYG0TMRJSc) — *Stocktwits 4:46 PM CT*
 
-### XLK  $185.47  -2.49%
+### XLK  $185.62  -2.41%
 - [Sector Update: Tech Stocks Fall in Afternoon Trading](https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-fall-afternoon-173201461.html) — *MT Newswires 12:32 PM CT*
 - [Sector Update: Tech Stocks Rise Late Afternoon](https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-rise-afternoon-195417941.html) — *MT Newswires 2:54 PM CT*
 
 ---
 ## AI / Semiconductor Sector
 
-### NVDA  $219.97  -2.30%
+### NVDA  $219.32  -2.59%
 - [Chip-stock bears are back in control. Here's how to play the downside with limited risk: Alpha Options Playbook](https://finance.yahoo.com/markets/article/chip-stock-bears-are-back-in-control-heres-how-to-play-the-downside-with-limited-risk-alpha-options-playbook-161031671.html) — *Yahoo Finance 11:10 AM CT*
-- [Global bond sell-off pressures stocks: AlphaCheck](https://finance.yahoo.com/markets/article/global-bond-sell-off-pressures-stocks-alphacheck-135011383.html) — *Yahoo Finance 8:50 AM CT*
-- [Why CoreWeave Stock Is Down 11.8%](https://www.fool.com/investing/2026/08/18/why-coreweave-stock-is-down-11/) — *Motley Fool 1:35 PM CT*
+- [Nvidia to finance $105B for an OpenAI data center: What to know](https://finance.yahoo.com/video/nvidia-finance-105b-openai-data-202533699.html) — *Yahoo Finance Video 3:25 PM CT*
+- [Thinking About Buying SpaceX? These 2 Stocks Should Be Better Bets](https://www.fool.com/investing/2026/08/18/thinking-about-buying-spacex-these-2-stocks-should/) — *Motley Fool 2:20 PM CT*
 
-### AMD  $479.56  -5.58%
+### AMD  $482.59  -4.98%
 - [Nvidia, AMD, Micron Lead Chip Stocks Selloff as Iran Tensions Rattle Markets](https://finance.yahoo.com/markets/stocks/articles/nvidia-amd-micron-lead-chip-180635152.html) — *GuruFocus.com 1:06 PM CT*
 - [Cerebras, Intel, and AMD Shares Fall Ahead of Tonight’s ‘Supernova’ Event](https://247wallst.com/investing/2026/08/18/cerebras-intel-and-amd-shares-fall-ahead-of-tonights-supernova-event/) — *24/7 Wall St. 12:56 PM CT*
 - [Techs Stocks Fall On War, Macro Woes. Is Anthropic Revenue Projection Also A Factor?](https://www.investors.com/news/technology/tech-stocks-ai-anthropic-revenue-ipo/?src=A00220&yptr=yahoo) — *Investor's Business Daily 12:54 PM CT*
 
-### TSM  $412.4  -4.24%
+### TSM  $413.51  -3.98%
+- [TSMC Stock Slides Over 4% Despite 45% Revenue Surge](https://finance.yahoo.com/markets/stocks/articles/tsmc-stock-slides-over-4-185801894.html) — *GuruFocus.com 1:58 PM CT*
 - [Famous Billionaires Were Rushing to Buy Taiwan Semiconductor (TSM). Here’s Why](https://finance.yahoo.com/markets/stocks/articles/famous-billionaires-were-rushing-buy-183916148.html) — *Insider Monkey 1:39 PM CT*
 - [Beyond Nvidia: Buy These ETFs to Capture AI's Optical Boom](https://finance.yahoo.com/technology/ai/articles/beyond-nvidia-buy-etfs-capture-134900872.html) — *Zacks 8:49 AM CT*
-- [David Tepper’s 3 Biggest Bets in The Second Quarter: Buy, Sell or Hold?](https://247wallst.com/investing/2026/08/18/david-teppers-3-biggest-bets-in-the-second-quarter-buy-sell-or-hold/) — *24/7 Wall St. 8:00 AM CT*
 
-### MRVL  $213.57  -9.52%
+### MRVL  $215.4  -8.74%
 - [Tech Stocks Slide With Bond Yields at Decade Highs](https://www.wsj.com/finance/investing/global-bond-rout-deepens-as-oil-holds-above-90-f0124f3d) — *The Wall Street Journal 1:06 PM CT*
+- [Why Intel, Marvell Stocks Are Dropping After Chip Stocks Enter New Bull Market](https://www.barrons.com/articles/intel-stock-marvell-chips-bull-market-1e739b69?siteid=yhoof2&yptr=yahoo) — *Barrons.com 12:51 PM CT*
 - [Fabrinet Drops After Earnings Dragging Down Peers Like Marvell and Amphenol](https://247wallst.com/investing/2026/08/18/fabrinet-drops-after-earnings-dragging-down-peers-like-marvell-and-amphenol/) — *24/7 Wall St. 12:45 PM CT*
-- [Marvell Technology (MRVL) AI Memory Push Puts Its Valuation Narrative Back In Focus](https://finance.yahoo.com/markets/stocks/articles/marvell-technology-mrvl-ai-memory-171620224.html) — *Simply Wall St. 12:16 PM CT*
 
-### AVGO  $379.64  -3.36%
+### AVGO  $379.53  -3.39%
+- [Broadcom Stock Tumbles as $10.8 Billion AI Boom Meets Reality](https://finance.yahoo.com/markets/stocks/articles/broadcom-stock-tumbles-10-8-185409371.html) — *GuruFocus.com 1:54 PM CT*
+- [Will Strong Traction in AI Infrastructure Drive CLS's Revenue Growth?](https://finance.yahoo.com/technology/ai/articles/strong-traction-ai-infrastructure-drive-174200612.html) — *Zacks 12:42 PM CT*
 - [Broadcom's Stock Has Beaten the Market in 12 of the Past 13 Years, and It Could Do It Again in 2026](https://www.fool.com/investing/2026/08/18/broadcom-s-stock-has-beaten-the-market-in-12-of-the-past-13-years-and-it-could-do-it-again-in-2026/) — *Motley Fool 12:35 PM CT*
-- [ARM Stock: The $2 Billion AI Signal Investors Shouldn’t Ignore](https://247wallst.com/investing/2026/08/18/arm-stock-the-2-billion-ai-signal-investors-shouldnt-ignore/) — *24/7 Wall St. 12:30 PM CT*
-- [ALAB vs. AVGO: Which AI Infrastructure Stock Is the Better Buy Now?](https://finance.yahoo.com/technology/ai/articles/alab-vs-avgo-ai-infrastructure-173000601.html) — *Zacks 12:30 PM CT*
 
 ---
 ## Market Headlines  *(Reuters · MarketWatch · CNBC)*
@@ -83,8 +83,8 @@
 - [Lakers governor Jeanie Buss says siblings cannot sell family’s stake to Bob Iger, Joshua Kushner](https://www.cnbc.com/2026/08/17/jeanie-buss-opposes-sale-family-stake.html) — *CNBC 5:53 AM CT*
 - [Sanders proposes bill to stop Social Security benefit garnishment for unpaid student loans](https://www.cnbc.com/2026/08/17/bernie-sanders-social-security-garnishment-student-loans.html) — *CNBC 5:23 PM CT*
 - [How investors profit from soccer even as Premier League club losses skyrocket](https://www.cnbc.com/2026/08/18/soccer-premier-league-club-losses-liverpool.html) — *CNBC 4:09 AM CT*
-- [The national debt is about to hit $40 trillion. Here’s how it can hurt Americans.](https://www.marketwatch.com/story/the-national-debt-is-about-to-hit-40-trillion-heres-how-it-can-hurt-americans-b4f252b9?mod=mw_rss_topstories) — *MarketWatch 1:33 PM CT*
-- [‘We are committed Christians’: Our son and daughter-in-law cut us out of their lives after a political argument. Should we change our $3 million will?](https://www.marketwatch.com/story/we-are-hurt-our-son-and-daughter-in-law-cut-off-contact-with-us-over-politics-should-we-change-our-3-million-will-f763b761?mod=mw_rss_topstories) — *MarketWatch 1:31 PM CT*
+- [Mortgage rates could move even higher — dealing a fresh blow to home buyers](https://www.marketwatch.com/story/mortgage-rates-could-move-even-higher-dealing-a-fresh-blow-to-home-buyers-ad8d0f3d?mod=mw_rss_topstories) — *MarketWatch 2:17 PM CT*
+- [Retail giant Costco sets its sights on a new kind of product: Medicare Advantage](https://www.cnbc.com/2026/08/18/costco-sets-its-sights-on-a-new-kind-of-product-medicare-advantage.html) — *CNBC 2:08 PM CT*
 
 ---
-*Generated 2026-08-18 13:43 CT | last 24h | sources: yfinance + Reuters/MarketWatch/CNBC*
+*Generated 2026-08-18 14:28 CT | last 24h | sources: yfinance + Reuters/MarketWatch/CNBC*
