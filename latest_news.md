@@ -1,6 +1,6 @@
-# Market News — Thursday August 20 2026 — 01:52 PM CT
+# Market News — Thursday August 20 2026 — 02:32 PM CT
 
-**SPY** $763.68  -0.82%  |  **VIX** 16.02  |  **Regime** OK  |  **Portfolio P&L** +$0  |  **Positions** 0
+**SPY** $763.32  -0.87%  |  **VIX** 16.07  |  **Regime** OK  |  **Portfolio P&L** +$0  |  **Positions** 0
 
 ## MARKET ALERTS — 6 priority stories
 - [Trump bemoans Fed interest rate policy, says U.S. should be paying much less](https://www.cnbc.com/2026/08/19/trump-bemoans-fed-interest-rate-policy-says-us-should-be-paying-much-less.html) — *CNBC 4:29 PM CT*
@@ -19,23 +19,23 @@
 ---
 ## Market Pulse
 
-### SPY  $763.68  -0.82%
+### SPY  $763.32  -0.87%
+- [Your Active ETF Manager Lost Again, and 87% of Them Have Been Losing for a Decade](https://247wallst.com/investing/2026/08/20/your-active-etf-manager-lost-again-and-87-of-them-have-been-losing-for-a-decade/) — *24/7 Wall St. 1:50 PM CT*
 - [We Told You to Forget SCHD. It Just Beat the S&P by 12 Points, Its Biggest Win Ever](https://247wallst.com/investing/2026/08/20/we-told-you-to-forget-schd-it-just-beat-the-sp-by-12-points-its-biggest-win-ever/) — *24/7 Wall St. 1:41 PM CT*
 - [Ask Anything: Six Weeks of Investors Putting ETF Questions to AI](http://www.etf.com/sections/news/ask-anything-six-weeks-investors-putting-etf-questions-ai?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss) — *etf.com 1:01 PM CT*
-- [Median Stock Portfolio Hits Record $350,000  — Household Share of Nation Debt Grows to $296,500](https://247wallst.com/investing/2026/08/20/median-stock-portfolio-hits-record-350000-household-share-of-nation-debt-grows-to-296500/) — *24/7 Wall St. 11:43 AM CT*
 
-### QQQ  $709.71  -1.25%
+### QQQ  $710.85  -1.09%
 - [SK Hynix Climbs 4% on Record Buyback, Micron Ticks Up as Memory Defies the Tech Selloff](https://247wallst.com/investing/2026/08/20/sk-hynix-climbs-4-on-record-buyback-micron-ticks-up-as-memory-defies-the-tech-selloff/) — *24/7 Wall St. 1:31 PM CT*
 - [Exchange-Traded Funds Fall as US Equities Decline After Midday](https://finance.yahoo.com/markets/articles/exchange-traded-funds-fall-us-171203079.html) — *MT Newswires 12:12 PM CT*
 - [Nebius Drops 4%, Cloudflare Falls 3%, Snowflake Slips: Are Financing Concerns Sinking AI-Cloud Stocks?](https://247wallst.com/investing/2026/08/20/nebius-drops-4-cloudflare-falls-3-snowflake-slips-are-financing-concerns-sinking-ai-cloud-stocks/) — *24/7 Wall St. 12:11 PM CT*
 
-### VIX  $16.02  +7.59%
+### VIX  $16.07  +7.92%
 - [This ETF Gets Paid More When the Market Gets Scary, and It Is Yielding Over 20 Percent](https://247wallst.com/investing/etf/2026/08/19/this-etf-gets-paid-more-when-the-market-gets-scary-and-it-is-yielding-over-20-percent/) — *24/7 Wall St. 5:15 PM CT*
 
-### SMH  $560.23  -0.93%
+### SMH  $561.97  -0.62%
 - [The 10 Most Popular AI ETFs of 2026](http://www.etf.com/sections/features/10-most-popular-ai-etfs-2026?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss) — *etf.com 7:24 PM CT*
 
-### XLK  $183.04  -0.85%
+### XLK  $183.25  -0.73%
 - [Sector Update: Tech Stocks Decline Thursday Afternoon](https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-decline-thursday-173021501.html) — *MT Newswires 12:30 PM CT*
 - [Should You Invest in the State Street Technology Select Sector SPDR ETF (XLK)?](https://finance.yahoo.com/markets/stocks/articles/invest-state-street-technology-select-102002783.html) — *Zacks 5:20 AM CT*
 - [Sector Update: Tech Stocks Fall Late Afternoon](https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-fall-afternoon-194639070.html) — *MT Newswires 2:46 PM CT*
@@ -43,27 +43,28 @@
 ---
 ## AI / Semiconductor Sector
 
-### NVDA  $216.65  -0.99%
-- [Why Is XRP (Ripple) Up 24.9% Today?](https://www.fool.com/investing/2026/08/20/why-is-xrp-ripple-up-today/) — *Motley Fool 1:39 PM CT*
-- [1 Vanguard ETF Up 23% in 12 Months (Hint: It's Not VOO). Here's What History Says Investors Should Do.](https://www.fool.com/investing/2026/08/20/1-vanguard-etf-up-12-months-not-voo-history-says/) — *Motley Fool 1:35 PM CT*
-- [Ford Drops 4% as Bronco Pickup Rally Fades, Tesla Slips, General Motors Inches Higher: What’s Behind the Auto Stock Differential?](https://247wallst.com/investing/2026/08/20/ford-drops-4-as-bronco-pickup-rally-fades-tesla-slips-general-motors-inches-higher-whats-behind-the-auto-stock-differential/) — *24/7 Wall St. 1:34 PM CT*
+### NVDA  $217.22  -0.73%
+- [Which Airline Stock Is Dominating in 2026: United, American, or Delta?](https://247wallst.com/investing/2026/08/20/which-airline-stock-is-dominating-in-2026-united-american-or-delta/) — *24/7 Wall St. 2:22 PM CT*
+- [AMD Falls as Google Expands Its $120 Billion Custom-Chip Push](https://finance.yahoo.com/technology/articles/amd-falls-google-expands-120-192101116.html) — *GuruFocus.com 2:21 PM CT*
+- [DeepSeek Sends Strong Signal to Nvidia Investors](https://finance.yahoo.com/technology/ai/articles/deepseek-sends-strong-signal-nvidia-190958401.html) — *GuruFocus.com 2:09 PM CT*
 
-### AMD  $461.99  -1.58%
+### AMD  $466.46  -0.63%
+- [Broadcom vs. AMD vs. Nvidia: Three Different AI Chip Strategies, Three Very Different Valuations. Here's the Metric That Explains the Gap.](https://www.fool.com/investing/2026/08/20/broadcom-vs-amd-vs-nvidia-three-different-ai-chip/) — *Motley Fool 1:53 PM CT*
 - [Billionaire Stanley Druckenmiller Sells Micron and Is Piling Into This Other Unstoppable Artificial Intelligence (AI) Chip Stock Instead](https://www.fool.com/investing/2026/08/20/billionaire-stanley-druckenmiller-sells-micron-and/) — *Motley Fool 12:35 PM CT*
 - [Cathie Wood's Firm Launches New ETF; Buys Broadcom, Rocket Lab, Cloudflare](https://www.investors.com/news/cathie-wood-ark-invest-etf-broadcom-rocket-lab-cloudflare/?src=A00220&yptr=yahoo) — *Investor's Business Daily 12:21 PM CT*
-- [Is Advanced Micro Devices (AMD) Priced For Perfection Or Trading At A Discount?](https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-amd-priced-170912043.html) — *Simply Wall St. 12:09 PM CT*
 
-### TSM  $415.77  +0.48%
+### TSM  $415.79  +0.48%
+- [TSMC Rises as 2027 Capex Forecast Reaches $85 Billion](https://finance.yahoo.com/technology/articles/tsmc-rises-2027-capex-forecast-192841498.html) — *GuruFocus.com 2:28 PM CT*
+- [Alphabet’s Waymo Has Built a Custom Chip for Its Robotaxis](https://finance.yahoo.com/technology/ai/articles/alphabet-waymo-built-custom-chip-140000003.html) — *Bloomberg 9:00 AM CT*
 - [This Stock Is Riding an AI Wave That Shows No Signs of Slowing](https://247wallst.com/investing/2026/08/20/this-stock-is-riding-an-ai-wave-that-shows-no-signs-of-slowing/) — *24/7 Wall St. 8:00 AM CT*
-- [TSMC vs. GlobalFoundries: Which Foundry Stock Is the Better Buy?](https://finance.yahoo.com/markets/stocks/articles/tsmc-vs-globalfoundries-foundry-stock-123500621.html) — *Zacks 7:35 AM CT*
-- [Taiwan Semiconductor Manufacturing (TSM) On July Revenue Growth And A Valuation Debate](https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-tsm-july-121138319.html) — *Simply Wall St. 7:11 AM CT*
 
-### MRVL  $245.4  +1.86%
+### MRVL  $249.24  +3.46%
 - [Broadcom Shareholders Should Be Paying Attention to What Just Happened With Marvell and Google](https://247wallst.com/investing/2026/08/20/broadcom-shareholders-should-be-paying-attention-to-what-just-happened-with-marvell-and-google/) — *24/7 Wall St. 1:10 PM CT*
 - [2 AI Stocks, 1 Winner: Which Has More Upside?](https://247wallst.com/investing/2026/08/20/2-ai-stocks-1-winner-which-has-more-upside/) — *24/7 Wall St. 1:00 PM CT*
 - [How Moderna’s Historic Short Squeeze Upended the AI Chip Trade](https://www.barrons.com/articles/moderna-stock-ai-chips-short-squeeze-450815c0?siteid=yhoof2&yptr=yahoo) — *Barrons.com 12:26 PM CT*
 
-### AVGO  $364.0  -0.49%
+### AVGO  $364.62  -0.32%
+- [Broadcom Stabilizes After Google's $120 Billion Marvell Shock](https://finance.yahoo.com/technology/articles/broadcom-stabilizes-googles-120-billion-193122196.html) — *GuruFocus.com 2:31 PM CT*
 - [Billionaire Stanley Druckenmiller Dumped Micron, Intel, and Broadcom: Here Are the AI Infrastructure Stocks He Bought Instead](https://247wallst.com/investing/2026/08/20/billionaire-stanley-druckenmiller-dumped-micron-intel-and-broadcom-here-are-the-ai-infrastructure-stocks-he-bought-instead/) — *24/7 Wall St. 12:46 PM CT*
 - [VYM Is Beating the S&P 500 With a 17% Year-to-Date Return by Owning What Wall Street Won’t](https://247wallst.com/investing/etf/2026/08/20/vym-is-beating-the-sp-500-with-a-17-year-to-date-return-by-owning-what-wall-street-wont/) — *24/7 Wall St. 10:40 AM CT*
 
@@ -83,4 +84,4 @@
 - [Trump touted a deal to avert new tariffs on Canada. Here's what we know so far](https://www.cnbc.com/2026/08/19/trump-canada-tariffs-deal-carney.html) — *CNBC 3:10 PM CT*
 
 ---
-*Generated 2026-08-20 13:52 CT | last 24h | sources: yfinance + Reuters/MarketWatch/CNBC*
+*Generated 2026-08-20 14:32 CT | last 24h | sources: yfinance + Reuters/MarketWatch/CNBC*
