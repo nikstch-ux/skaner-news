@@ -1,16 +1,16 @@
-# Market News — Tuesday August 25 2026 — 02:32 PM CT
+# Market News — Wednesday August 26 2026 — 09:45 AM CT
 
-**SPY** $765.09  +0.19%  |  **VIX** 15.49  |  **Regime** OK  |  **Portfolio P&L** +$0  |  **Positions** 0
+**SPY** $765.28  +0.04%  |  **VIX** 15.52  |  **Regime** OK  |  **Portfolio P&L** +$0  |  **Positions** 0
 
-## MARKET ALERTS — 9 priority stories
-- [SEC reportedly subpoenas Wall Street banks over AI hedge fund Situational Awareness's near collapse](https://www.cnbc.com/2026/08/25/sec-situational-awareness-hedge-fund-subpoenas.html) — *CNBC 6:49 AM CT*
-- [OpenAI bans Russian ChatGPT accounts used in covert misinformation campaign](https://www.cnbc.com/2026/08/25/openai-russia-chatgpt-influence-campaign.html) — *CNBC 6:21 AM CT*
-- [Jim Cramer says the data center trade is under attack. Here’s who could benefit](https://www.cnbc.com/2026/08/24/cramer-data-center-trade-under-attack-who-could-benefit.html) — *CNBC 5:31 PM CT*
-- [Ukraine is targeting Russia’s retail giants. Ozon is the next economic pressure point](https://www.cnbc.com/2026/08/25/ukraine-war-russia-ozon-wildberries-economy.html) — *CNBC 5:20 AM CT*
-- [U.S.-Canada trade war threatens to worsen inflation for both economies. Neither can afford it.](https://www.marketwatch.com/story/u-s-canada-trade-war-threatens-to-worsen-inflation-for-both-economies-neither-can-afford-it-bd797506?mod=mw_rss_topstories) — *MarketWatch 2:24 PM CT*
-- [OpenAI says its Broadcom custom chip is a winner. What does that mean for Nvidia?](https://www.cnbc.com/2026/08/25/openai-says-its-broadcom-chip-is-a-big-advance-what-about-nvidia.html) — *CNBC 2:01 PM CT*
-- [Iran and Oman discuss joint shipping route in Strait of Hormuz and mine clearing mission](https://www.cnbc.com/2026/08/25/iran-oman-strait-hormuz-oil.html) — *CNBC 1:54 PM CT*
-- [Trump targets Iran’s trade lifelines — here are the countries most exposed](https://www.cnbc.com/2026/08/25/us-iran-secondary-sanctions-china-india-uae-hormuz-trade-.html) — *CNBC 1:24 AM CT*
+## MARKET ALERTS — 10 priority stories
+- [10-year Treasury yield is little changed after PCE inflation report is mostly as expected](https://www.cnbc.com/2026/08/26/treasury-yields-inflation-fed.html) — *CNBC 9:43 AM CT*
+- [Trump's Saudi nuclear deal reaches Congress as experts warn of proliferation risk](https://www.cnbc.com/2026/08/26/trump-saudi-nuclear-agreement-congress-iran-deal-.html) — *CNBC 9:34 PM CT*
+- [Bill Gates warns ‘there is no plan’ for the ‘upheaval’ AI will cause](https://www.cnbc.com/2026/08/26/bill-gates-ai-jobs-economic-upheaval.html) — *CNBC 9:31 AM CT*
+- [Iran says the U.S. is standing in the way of Hormuz deal amid talks with Oman](https://www.cnbc.com/2026/08/26/us-iran-war-trump-hormuz.html) — *CNBC 8:55 AM CT*
+- [U.S. inflation rises again and stays well above the Fed’s target. A rate hike could be in play.](https://www.marketwatch.com/story/u-s-inflation-rises-in-july-and-stays-well-above-feds-target-b4e6109c?mod=mw_rss_topstories) — *MarketWatch 8:52 AM CT*
+- [Fed’s preferred inflation gauge shows core prices rose 3.3% annually in July](https://www.cnbc.com/2026/08/26/feds-preferred-inflation-gauge-shows-core-prices-rose-3point3percent-annually-in-july.html) — *CNBC 8:35 AM CT*
+- [Dollar and bond markets 'on edge' ahead of Jackson Hole as Bessent's market intervention piles pressure on Warsh](https://www.cnbc.com/2026/08/26/jackson-hole-warsh-bessent-bonds-treasury-dollar.html) — *CNBC 8:35 AM CT*
+- [OpenAI’s Jalapeño AI chip brings new 'threat' to Nvidia margins as custom silicon gains ground](https://www.cnbc.com/2026/08/26/openai-jalapeno-ai-chip-nvidia.html) — *CNBC 8:27 AM CT*
 
 
 ---
@@ -21,70 +21,73 @@
 ---
 ## Market Pulse
 
-### SPY  $765.09  +0.19%
-- [Jane Street turns bullish on volatile AI stock](https://www.thestreet.com/investing/stocks/jane-street-bullish-sandisk-sndk-stock) — *TheStreet 1:16 PM CT*
-- [Snowflake Stock Fans Should Prepare for September 2 as AI Agents Are Pouring More Data Into It](https://247wallst.com/investing/2026/08/25/snowflake-stock-fans-should-prepare-for-september-2-as-ai-agents-are-pouring-more-data-into-it/) — *24/7 Wall St. 12:50 PM CT*
-- [Core Compounders Should Do This With Walmart](https://247wallst.com/investing/2026/08/25/core-compounders-should-do-this-with-walmart/) — *24/7 Wall St. 11:03 AM CT*
+### SPY  $765.28  +0.04%
+- [Kohl’s Falls 6% Despite Raised Guidance and a $150M Tariff Refund, Ross and TJX Hold Flat](https://247wallst.com/investing/2026/08/26/kohls-falls-6-despite-raised-guidance-and-a-150m-tariff-refund-ross-and-tjx-hold-flat/) — *24/7 Wall St. 8:20 AM CT*
+- [Exchange-Traded Funds Lower, Equity Futures Mixed Pre-Bell Wednesday Amid Inflation Data Release](https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-lower-equity-131226701.html) — *MT Newswires 8:12 AM CT*
+- [AI At The Top, Cash At The Bottom: Is The Next Return In Between?](https://finance.yahoo.com/markets/stocks/articles/ai-top-cash-bottom-next-110046311.html) — *Benzinga 6:00 AM CT*
 
-### QQQ  $709.36  +0.44%
-- [Applied Digital and IREN Climb 6% as the Digital Infrastructure Bid Broadens Past Bitcoin, Core Scientific Gains 4%](https://247wallst.com/investing/2026/08/25/applied-digital-and-iren-climb-6-as-the-digital-infrastructure-bid-broadens-past-bitcoin-core-scientific-gains-4/) — *24/7 Wall St. 1:30 PM CT*
-- [SoFi Rises 3% as the Stablecoin Trade Pulls Fintech Into the Crypto Bid, Coinbase Climbs 5%](https://247wallst.com/investing/2026/08/25/sofi-rises-3-as-the-stablecoin-trade-pulls-fintech-into-the-crypto-bid-coinbase-climbs-5/) — *24/7 Wall St. 1:27 PM CT*
-- [Carvana Jumps 5% as Risk Appetite Returns to High-Beta Names; CarMax and Lithia Motors Inch Higher](https://247wallst.com/investing/2026/08/25/carvana-jumps-5-as-risk-appetite-returns-to-high-beta-names-carmax-and-lithia-motors-inch-higher/) — *24/7 Wall St. 1:19 PM CT*
+### QQQ  $709.45  +0.01%
+- [Rumble Drops 7% on Profit-Taking After a 79% Monthly Run; Trump Media Holds Steady](https://247wallst.com/investing/2026/08/26/rumble-drops-7-on-profit-taking-after-a-79-monthly-run-trump-media-holds-steady/) — *24/7 Wall St. 9:14 AM CT*
+- [Snap Sinks 7% as Pennsylvania Sues Snapchat, Meta Holds Flat After a $16.7B Settlement](https://247wallst.com/investing/2026/08/26/snap-sinks-7-as-pennsylvania-sues-snapchat-meta-holds-flat-after-a-16-7b-settlement/) — *24/7 Wall St. 9:11 AM CT*
+- [Stock Market Today: Dow Slips On Inflation; Nvidia Falls Ahead Of Earnings, Abercrombie Soars (Live Coverage)](https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-inflation-data-nvidia-stock-nvda-earnings/?src=A00220&yptr=yahoo) — *Investor's Business Daily 9:32 AM CT*
 
-### VIX  $15.49  -2.21%
+### VIX  $15.52  +0.45%
+- [Stock Market News for Aug 26, 2026](https://finance.yahoo.com/markets/stocks/articles/stock-market-news-aug-26-130500595.html) — *Zacks 8:05 AM CT*
+- [Market Fear Gauge Rises Ahead of Inflation Data, Nvidia Results](https://www.barrons.com/livecoverage/stock-market-news-today-082626/card/market-fear-gauge-rises-ahead-of-inflation-data-nvidia-results-KAfDIHz6gXJFS1ivl2PJ?siteid=yhoof2&yptr=yahoo) — *Barrons.com 5:54 AM CT*
+- [Markets May Soon Turn Rocky. Time to Trade Schwab Stock.](https://www.barrons.com/articles/markets-may-soon-turn-rocky-time-to-trade-schwab-stock-584e996a?siteid=yhoof2&yptr=yahoo) — *Barrons.com 1:00 AM CT*
 
-### SMH  $553.75  +1.66%
-- [Easing Bond Yields, Oil Prices Lift Wall Street Pre-Bell; Asia, Europe Up](https://finance.yahoo.com/markets/articles/easing-bond-yields-oil-prices-110258521.html) — *MT Newswires 6:02 AM CT*
-- [S&P 500, Nasdaq End Lower On Chipmaker Weakness, While Traders Position For Nvidia Earnings This Week — AVGO, INTC, BE, NVDA, PSKY In Focus](https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-end-lower-on-chipmaker-weakness/cZYKu7wRJFn) — *Stocktwits 4:52 PM CT*
-- [Investors Pour $56B Into ETFs as Gold and Bitcoin Roar Back](http://www.etf.com/sections/weekly-etf-flows/investors-pour-56b-etfs-gold-and-bitcoin-roar-back?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss) — *etf.com 4:00 PM CT*
+### SMH  $553.47  -0.46%
+- [Why a Single Wire Report About Government Cash Sent AMD, Intel, and Micron Higher Overnight](https://247wallst.com/investing/2026/08/26/why-a-single-wire-report-about-government-cash-sent-amd-intel-and-micron-higher-overnight/) — *24/7 Wall St. 9:15 AM CT*
+- [Stocks Waver After PCE Report. Nvidia Is the Market's Real Test.](https://www.barrons.com/livecoverage/stock-market-news-today-082626/card/stocks-waver-after-pce-report-nvidia-is-the-market-s-real-test--rpbNRBw92Lgwsgx01ip3?siteid=yhoof2&yptr=yahoo) — *Barrons.com 8:31 AM CT*
+- [Prediction: SOXX Will Continue to Outperform SMH. Here's Why.](https://www.fool.com/investing/2026/08/26/prediction-soxx-will-continue-to-outperform-smh-he/) — *Motley Fool 6:54 AM CT*
 
-### XLK  $181.12  +0.63%
+### XLK  $181.94  +0.33%
+- [Sector Update: Tech Stocks Rise Late Afternoon](https://finance.yahoo.com/technology/articles/sector-tech-stocks-rise-afternoon-194708780.html) — *MT Newswires 2:47 PM CT*
+- [Microsoft Just Ripped 28% in a Month. What Would It Take to Get MSFT Stock Up to $600?](https://247wallst.com/investing/2026/08/25/microsoft-just-ripped-28-in-a-month-what-would-it-take-to-get-msft-stock-up-to-600/) — *24/7 Wall St. 2:41 PM CT*
 - [Sector Update: Tech Stocks Rise Tuesday Afternoon](https://finance.yahoo.com/technology/articles/sector-tech-stocks-rise-tuesday-173821371.html) — *MT Newswires 12:38 PM CT*
-- [Stock Market News for Aug 25, 2026](https://finance.yahoo.com/markets/stocks/articles/stock-market-news-aug-25-132700491.html) — *Zacks 8:27 AM CT*
-- [Is Wall Street Bullish or Bearish on Monolithic Power Stock?](https://www.barchart.com/story/news/4013590/is-wall-street-bullish-or-bearish-on-monolithic-power-stock) — *Barchart 11:23 PM CT*
 
 ---
 ## AI / Semiconductor Sector
 
-### NVDA  $212.02  +1.54%
-- [Nvidia earnings in focus: Why its networking segment is growing faster than compute](https://finance.yahoo.com/video/nvidia-earnings-focus-why-networking-192016863.html) — *Yahoo Finance Video 2:20 PM CT*
-- [The real question investors should be asking ahead of Nvidia earnings](https://finance.yahoo.com/video/real-investors-asking-ahead-nvidia-160432776.html) — *Yahoo Finance Video 11:04 AM CT*
-- [Nvidia stock hopes to snap seven-day losing streak ahead of earnings](https://finance.yahoo.com/video/nvidia-stock-hopes-snap-seven-135037753.html) — *Yahoo Finance Video 8:50 AM CT*
+### NVDA  $210.86  -1.30%
+- [Why investors should consider taking profits in AI stocks now](https://finance.yahoo.com/video/why-investors-consider-taking-profits-143643526.html) — *Yahoo Finance Video 9:36 AM CT*
+- [Why the sustainability of the AI boom could be in focus after Nvidia's earnings call](https://finance.yahoo.com/video/why-sustainability-ai-boom-could-135959475.html) — *Yahoo Finance Video 8:59 AM CT*
+- [Nvidia earnings could reveal its fastest-growing business isn't chips: Chart of the Day](https://finance.yahoo.com/markets/article/nvidia-earnings-could-reveal-its-fastest-growing-business-isnt-chips-chart-of-the-day-100000332.html) — *Yahoo Finance 5:00 AM CT*
 
-### AMD  $479.48  +5.48%
-- [Why Nvidia rival AMD may see a 40% rip in its stock](https://finance.yahoo.com/markets/stocks/article/why-nvidia-rival-amd-may-see-a-40-rip-in-its-stock-164720676.html) — *Yahoo Finance 11:47 AM CT*
-- [AMD Stock Gets a ‘Strong Buy’ Upgrade: Why It Could Outperform Nvidia](https://www.barrons.com/articles/amd-stock-price-upgrade-strong-buy-nvidia-3636f478?siteid=yhoof2&yptr=yahoo) — *Barrons.com 1:38 PM CT*
-- [Moderna, Nvidia, Apple, Dick’s, Robinhood, AMD, and More Stocks That Explain Today’s Market](https://www.barrons.com/articles/stock-movers-5e855b81?siteid=yhoof2&yptr=yahoo) — *Barrons.com 1:33 PM CT*
+### AMD  $484.96  +1.11%
+- [Is Nvidia's AI data center dominance slipping as the market expands?](https://finance.yahoo.com/video/nvidias-ai-data-center-dominance-120000341.html) — *Yahoo Finance Video 7:00 AM CT*
+- [The Options Market Says Micron Stock Can Halve Or Double From Here](https://www.trefis.com/articles/613009/the-options-market-says-micron-stock-can-halve-or-double-from-here/2026-08-26) — *Trefis 7:57 AM CT*
+- [Broadcom's Real Risk Is Its Customer List](https://www.trefis.com/articles/613000/broadcoms-real-risk-is-its-customer-list/2026-08-26) — *Trefis 7:31 AM CT*
 
-### TSM  $416.21  +1.64%
-- [Photonics ETFs: The Next Big AI Infrastructure Opportunity?](https://finance.yahoo.com/technology/ai/articles/photonics-etfs-next-big-ai-183600006.html) — *Zacks 1:36 PM CT*
-- [TSM Rides on AI, Advanced Nodes & Capacity Expansion: Worth a Buy?](https://finance.yahoo.com/technology/ai/articles/tsm-rides-ai-advanced-nodes-155200557.html) — *Zacks 10:52 AM CT*
-- [Top Investors Name 5 AI Stocks That Could Win No Matter Which Model Leads](https://247wallst.com/investing/2026/08/25/top-investors-name-5-ai-stocks-that-could-win-no-matter-which-model-leads/) — *24/7 Wall St. 9:26 AM CT*
+### TSM  $416.64  -0.25%
+- [Intel May Have Found a New Opening in the AI Chip Race](https://finance.yahoo.com/technology/ai/articles/intel-may-found-opening-ai-144250683.html) — *GuruFocus.com 9:42 AM CT*
+- [Billionaire David Tepper Sold Every Single Share of UnitedHealth in Q2. Here's Whether He Made a Costly Mistake.](https://www.fool.com/investing/2026/08/26/billionaire-david-tepper-sold-every-single-share-o/) — *Motley Fool 5:50 AM CT*
+- [He Followed TSMC From Taiwan to Phoenix at 60. Social Security Said His 30-Year Career Had Just Begun.](https://247wallst.com/personal-finance/social-security/2026/08/26/he-followed-tsmc-from-taiwan-to-phoenix-at-60-social-security-said-his-30-year-career-had-just-begun/) — *24/7 Wall St. 4:03 AM CT*
 
-### MRVL  $238.62  +4.66%
-- [Investors rotate into tech stocks as inflation concerns ease: AlphaCheck](https://finance.yahoo.com/markets/article/investors-rotate-into-tech-stocks-as-inflation-concerns-ease-alphacheck-135258775.html) — *Yahoo Finance 8:52 AM CT*
-- [Marvell Technology (MRVL) Thrives on Data Center Growth Amid Networking Dominance](https://finance.yahoo.com/markets/stocks/articles/marvell-technology-mrvl-thrives-data-182649501.html) — *Insider Monkey 1:26 PM CT*
-- [Broadcom Stabilizes as Google Turns Custom Chips Into a Contest](https://finance.yahoo.com/technology/articles/broadcom-stabilizes-google-turns-custom-181929334.html) — *GuruFocus.com 1:19 PM CT*
+### MRVL  $240.86  +0.09%
+- [Market Braces for Crunch Nvidia Earnings, PCE Report. Stock Futures Fall.](https://www.barrons.com/livecoverage/stock-market-news-today-082626/card/stock-futures-fall-as-market-braces-for-crunch-nvidia-earnings-pce-report-GwcXW4XUwylS03DGslX9?siteid=yhoof2&yptr=yahoo) — *Barrons.com 6:40 AM CT*
+- [3 AI Networking Stocks Dominating a Quiet Niche](https://247wallst.com/investing/2026/08/26/3-ai-networking-stocks-dominating-a-quiet-niche/) — *24/7 Wall St. 6:00 AM CT*
+- [Nvidia Earnings Give Investors a Barometer for State of AI Trade](https://finance.yahoo.com/technology/ai/articles/nvidia-earnings-give-investors-a-barometer-for-state-of-ai-trade-074856874.html) — *Bloomberg 2:48 AM CT*
 
-### AVGO  $355.87  -0.77%
-- [Broadcom (AVGO) Debuts VMware Cloud Foundation 9.1 In Managed Multitenant Cloud](https://finance.yahoo.com/technology/articles/broadcom-avgo-debuts-vmware-cloud-170916891.html) — *Simply Wall St. 12:09 PM CT*
-- [OpenAI Claims Its New Chips Can Outperform Nvidia Processors in Tests](https://finance.yahoo.com/technology/ai/articles/openai-claims-chips-outperform-nvidia-140001612.html) — *Bloomberg 9:00 AM CT*
-- [Broadcom Vs. Micron: Why They’re So Strong as Capital Shifts to Inference and Agentic AI](https://247wallst.com/investing/2026/08/25/broadcom-vs-micron-why-theyre-so-strong-as-capital-shifts-to-inference-and-agentic-ai/) — *24/7 Wall St. 8:50 AM CT*
+### AVGO  $351.73  -1.64%
+- [Nvidia, Meta, Intuit, Salesforce, Zoom, Kohl’s, and More Stocks That Explain Today’s Market](https://www.barrons.com/articles/stock-movers-6a7eb3fe?siteid=yhoof2&yptr=yahoo) — *Barrons.com 8:19 AM CT*
+- [Photronics (PLAB) Surpasses Q3 Earnings and Revenue Estimates](https://finance.yahoo.com/markets/stocks/articles/photronics-plab-surpasses-q3-earnings-121502248.html) — *Zacks 7:15 AM CT*
+- [AI Chips Update - AI Semiconductor Market Poised for Major Growth by 2035](https://finance.yahoo.com/technology/ai/articles/ai-chips-ai-semiconductor-market-113723803.html) — *Simply Wall St. 6:37 AM CT*
 
 ---
 ## Market Headlines  *(Reuters · MarketWatch · CNBC)*
-- [Dick's Sporting Goods stock falls 25% as retailer misses expectations, cites 'challenging' footwear market](https://www.cnbc.com/2026/08/25/dicks-sporting-goods-dks-earnings-q2-2026.html) — *CNBC 9:47 AM CT*
 - [Nvidia’s dependence on hyperscalers faces big test in earnings report](https://www.cnbc.com/2026/08/25/nvidias-dependence-on-hyperscalers-faces-big-test-in-earnings-report.html) — *CNBC 9:46 AM CT*
-- [United Airlines adds 2027 flights spanning Sardinia to Okinawa. Here's what it says about travel today](https://www.cnbc.com/2026/08/25/united-airlines-2027-international-routes.html) — *CNBC 8:09 AM CT*
-- [Apple announces new Mac Mini and Mac Studio models with AI upgrades](https://www.cnbc.com/2026/08/25/apple-announces-new-mac-mini-and-mac-studio-models-with-ai-upgrades.html) — *CNBC 8:00 AM CT*
-- [To cram more AI skills onto LinkedIn profiles, more job seekers are turning to 'time travel,' say researchers](https://www.cnbc.com/2026/08/25/job-seekers-are-adding-ai-skills-on-linkedin-to-roles-they-held-pre-chatgpt-researchers.html) — *CNBC 8:00 AM CT*
-- [Bugatti CEO Mate Rimac says the future of supercars is old-school combustion engines](https://www.cnbc.com/2026/08/25/bugatti-ceo-mate-rimac-supercars-gas-engines.html) — *CNBC 6:30 AM CT*
-- [Supreme Court allows some Trump vote-by-mail limits ahead of midterm election](https://www.cnbc.com/2026/08/24/supreme-court-mail-voting-trump.html) — *CNBC 4:38 PM CT*
-- [BlackBerry CEO says robotics is one of its fastest-growing businesses](https://www.cnbc.com/2026/08/25/blackberry-qnx-robotics-physical-ai.html) — *CNBC 4:26 AM CT*
-- [Investor competition for commercial real estate sees strongest growth in a year](https://www.cnbc.com/2026/08/25/cre-investor-competition-sees-strongest-growth-in-a-year.html) — *CNBC 2:32 PM CT*
-- [Are you richer than you think? How to find out—and what experts say to do if you are](https://www.cnbc.com/2026/08/25/how-to-find-missing-money-and-what-to-do-if-you-get-it.html) — *CNBC 2:00 PM CT*
-- [Lego posts record first-half revenue, CEO touts strong sales at high-end and value pricing](https://www.cnbc.com/2026/08/25/lego-first-half-2026-revenue.html) — *CNBC 2:00 AM CT*
-- [This chart shows exactly why investors should worry about rising yields — even if they don’t own any bonds](https://www.marketwatch.com/story/this-chart-shows-exactly-why-investors-should-worry-about-rising-yields-even-if-they-dont-own-any-bonds-075b93c0?mod=mw_rss_topstories) — *MarketWatch 1:58 PM CT*
+- [China is collecting on old debts but won’t pay its own](https://www.marketwatch.com/story/china-is-collecting-on-old-debts-but-wont-pay-its-own-b5fccb4c?mod=mw_rss_topstories) — *MarketWatch 9:42 AM CT*
+- [Meta settles social media addiction case with California, other states for $16.7 billion](https://www.cnbc.com/2026/08/26/meta-social-media-trial-settlement.html) — *CNBC 9:41 AM CT*
+- [Lost in limbo: Where the Paramount merger delay leaves WBD, and what may come next](https://www.cnbc.com/2026/08/26/paramount-merger-delay-wbd-limbo.html) — *CNBC 9:31 AM CT*
+- [‘It’s the ultimate regifting’: My mom gave me a house. Should I transfer it back to her to reduce capital gains?](https://www.marketwatch.com/story/its-the-ultimate-regifting-my-mom-gave-me-a-house-should-i-transfer-it-back-to-her-to-reduce-capital-gains-e357f49c?mod=mw_rss_topstories) — *MarketWatch 9:30 AM CT*
+- [Customers are fleeing TurboTax over price, and Intuit’s stock is sliding](https://www.marketwatch.com/story/customers-are-fleeing-turbotax-over-price-and-intuits-stock-is-sliding-a37dcce0?mod=mw_rss_topstories) — *MarketWatch 9:29 AM CT*
+- [Am I too old for Roth conversions? I’m 84 and my wife is 77. We have $8 million saved.](https://www.marketwatch.com/story/am-i-too-old-for-roth-conversions-im-84-and-my-wife-is-77-we-have-8-million-saved-fb08fccd?mod=mw_rss_topstories) — *MarketWatch 9:15 AM CT*
+- [Mark Walter's TWG Global blasts 'attacks,' insists 'no fraud' amid federal probe](https://www.cnbc.com/2026/08/26/mark-walter-twg-guggenheim-lakers.html) — *CNBC 9:12 AM CT*
+- [From military alliance to economic partnership: How Trump is redefining U.S.-South Korea ties](https://www.cnbc.com/2026/08/26/trump-us-south-korea-alliance-military-drills-.html) — *CNBC 9:06 PM CT*
+- [12 stocks for ‘bottom-fishing’ investors looking for cheap growth opportunities](https://www.marketwatch.com/story/12-stocks-for-bottom-fishing-investors-looking-for-cheap-growth-opportunities-d232ea75?mod=mw_rss_topstories) — *MarketWatch 9:06 AM CT*
+- [Your portfolio can recover from a bear market, but can it survive you living to 110?](https://www.marketwatch.com/story/your-portfolio-can-recover-from-a-bear-market-but-can-it-survive-you-living-to-110-cc6d344c?mod=mw_rss_topstories) — *MarketWatch 9:00 AM CT*
+- [Tax tips for TikTok stars, after judge says influencer can’t write off his Grammy tickets](https://www.marketwatch.com/story/tax-tips-for-tiktok-stars-after-judge-says-influencer-cant-write-off-his-grammy-tickets-29c19139?mod=mw_rss_topstories) — *MarketWatch 8:57 AM CT*
 
 ---
-*Generated 2026-08-25 14:32 CT | last 24h | sources: yfinance + Reuters/MarketWatch/CNBC*
+*Generated 2026-08-26 09:45 CT | last 24h | sources: yfinance + Reuters/MarketWatch/CNBC*
