@@ -1,14 +1,12 @@
-# Market News — Friday September 04 2026 — 12:25 PM CT
+# Market News — Friday September 04 2026 — 02:47 PM CT
 
-**SPY** $770.1  -0.34%  |  **VIX** 14.08  |  **Regime** OK  |  **Portfolio P&L** +$0  |  **Positions** 0
+**SPY** $770.12  -0.34%  |  **VIX** 14.27  |  **Regime** OK  |  **Portfolio P&L** +$0  |  **Positions** 0
 
-## MARKET ALERTS — 6 priority stories
+## MARKET ALERTS — 4 priority stories
 - [U.S. 'Economic Outcast’ operation gains momentum as EU joins sanctions; South Korea weighs military backing](https://www.cnbc.com/2026/09/04/us-iran-war-trump-hormuz-operation-economic-outcast-sanctions-campaign.html) — *CNBC 7:20 AM CT*
-- [Vance says Fed should lower interest rates: 'Would be nice to have some help'](https://www.cnbc.com/2026/09/03/vance-fed-interest-rates-trump-bond-yields.html) — *CNBC 2:18 PM CT*
-- [The inflation genie could be out of the bottle — and bond markets are sounding the alarm](https://www.cnbc.com/2026/09/04/global-bond-selloff-inflation-risk.html) — *CNBC 2:05 AM CT*
-- [Jobs and Iran add to Trump’s midterm headaches. Why that’s good for bonds and bad for energy stocks.](https://www.marketwatch.com/story/jobs-and-iran-add-to-trumps-midterm-headaches-why-thats-good-for-bonds-and-bad-for-energy-stocks-551cb765?mod=mw_rss_topstories) — *MarketWatch 10:48 AM CT*
-- [S&P 500 changes are coming soon. These stocks could be named to the index today.](https://www.marketwatch.com/story/s-p-500-changes-are-coming-soon-these-stocks-could-be-named-to-the-index-today-2d0d7c14?mod=mw_rss_topstories) — *MarketWatch 10:39 AM CT*
-- [Rising interest rates pose a major threat to stock prices and other assets](https://www.marketwatch.com/story/rising-interest-rates-pose-a-major-threat-to-stock-prices-and-other-assets-0f9f3208?mod=mw_rss_topstories) — *MarketWatch 10:05 AM CT*
+- [Trump’s latest threat — to stop trading with some countries unless there’s a rate cut — risks shock to U.S. economy](https://www.marketwatch.com/story/trumps-threat-to-stop-trade-unless-theres-a-rate-cut-risks-shock-to-u-s-economy-2e6b9798?mod=mw_rss_topstories) — *MarketWatch 1:59 PM CT*
+- [U.S. sanctions Turkish bank accused of enabling Iran as Bessent says he 'hopes for' no further bank penalties](https://www.cnbc.com/2026/09/04/iran-turkey-sanctions-economy-bessent.html) — *CNBC 12:34 PM CT*
+- [Diesel hits record high as Ukraine and Iran wars knock out refineries, fueling inflation worries](https://www.cnbc.com/2026/09/04/diesel-price-record-high-ukraine-iran-inflation.html) — *CNBC 10:10 AM CT*
 
 
 ---
@@ -19,70 +17,70 @@
 ---
 ## Market Pulse
 
-### SPY  $770.1  -0.34%
-- [Trade Desk Falls 4% on 15% Workforce Cut; AppLovin Ascends 3%, Magnite Pulls Back](https://247wallst.com/investing/2026/09/04/trade-desk-falls-4-on-15-workforce-cut-applovin-ascends-3-magnite-pulls-back/) — *24/7 Wall St. 11:51 AM CT*
-- [Netflix Falls 4% as Rate Repricing Pressures Long-Duration Growth; Disney Dips, Warner Bros. Discovery Sits Tight](https://247wallst.com/investing/2026/09/04/netflix-falls-4-as-rate-repricing-pressures-long-duration-growth-disney-dips-warner-bros-discovery-sits-tight/) — *24/7 Wall St. 11:24 AM CT*
-- [GoPro Zooms 34% Higher on Starman Optical Merger and Markiplier Stake; Coherent Climbs 7%, Lumentum Gains 3%](https://247wallst.com/investing/2026/09/04/gopro-zooms-34-higher-on-starman-optical-merger-and-markiplier-stake-coherent-climbs-7-lumentum-gains-3/) — *24/7 Wall St. 11:20 AM CT*
+### SPY  $770.12  -0.34%
+- [Bitmine Sinks 6%, Strategy Slips: Is the Crypto Treasury Trade Unwinding?](https://247wallst.com/investing/2026/09/04/bitmine-sinks-6-strategy-slips-is-the-crypto-treasury-trade-unwinding/) — *24/7 Wall St. 2:22 PM CT*
+- [This Is the Most Expensive Market in Decades. Is It Really Safe to Invest Right Now?](https://www.fool.com/investing/2026/09/04/this-is-the-most-expensive-market-in-decades-is-it/) — *Motley Fool 2:20 PM CT*
+- [Japan Has Not Done This Since 1990. If It Happens, the Cheap Money Propping Up US Stocks Gets Expensive](https://247wallst.com/investing/2026/09/04/japan-has-not-done-this-since-1990-if-it-happens-the-cheap-money-propping-up-us-stocks-gets-expensive/) — *24/7 Wall St. 2:18 PM CT*
 
-### QQQ  $717.77  +0.10%
+### QQQ  $718.51  +0.20%
 - [Exchange-Traded Funds Mixed, US Equities Lower After Midday](https://finance.yahoo.com/markets/articles/exchange-traded-funds-mixed-us-170937609.html) — *MT Newswires 12:09 PM CT*
-- [Intel Climbs 4%, AMD Rises 3%, NVIDIA Ticks Up as Chip Stocks Shrug Off Rising Rate Hike Odds](https://247wallst.com/investing/2026/09/04/intel-climbs-4-as-chip-stocks-shrug-off-rising-rate-hike-odds-nvidia-and-amd-move-higher/) — *24/7 Wall St. 10:12 AM CT*
-- [Adobe Sinks 7% as Internal CEO Pick Lands Ahead of Earnings, Workday Falls 4%](https://247wallst.com/investing/2026/09/04/adobe-sinks-7-as-internal-ceo-pick-lands-ahead-of-earnings-workday-falls-4/) — *24/7 Wall St. 9:57 AM CT*
+- [Zscaler Falls 4% as FY2027 Growth Guidance Overshadows Earnings Beat; CrowdStrike Slips, Palo Alto Holds Steady](https://247wallst.com/investing/2026/09/04/zscaler-falls-4-as-fy2027-growth-guidance-overshadows-earnings-beat-crowdstrike-slips-palo-alto-holds-steady/) — *24/7 Wall St. 11:06 AM CT*
+- [Marvell Rises 6% as Beaten-Down AI Silicon Bounces, Qualcomm Barely Budges](https://247wallst.com/investing/2026/09/04/marvell-rises-6-as-beaten-down-ai-silicon-bounces-qualcomm-barely-budges/) — *24/7 Wall St. 11:02 AM CT*
 
-### VIX  $14.08  -1.61%
+### VIX  $14.27  -0.28%
 - [Wall Street Fear Index Slips as Bond Fears Ease](https://www.barrons.com/livecoverage/stock-market-news-today-090426/card/wall-street-fear-index-slips-as-bond-fears-ease-LzAQ4clGY7VKq4H2C64t?siteid=yhoof2&yptr=yahoo) — *Barrons.com 6:32 AM CT*
 
-### SMH  $564.92  +2.06%
+### SMH  $565.7  +2.20%
+- [ETF Zoo: Industry Scale, Speculation, and Sports Betting](http://www.etf.com/sections/podcasts/etf-zoo-industry-scale-speculation-and-sports-betting?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss) — *etf.com 12:08 PM CT*
 - [Tech Strength Lifts Wall Street Pre-Bell; Asia Up, Europe Muted](https://finance.yahoo.com/markets/stocks/articles/tech-strength-lifts-wall-street-110619648.html) — *MT Newswires 6:06 AM CT*
 - [S&P 500, Dow End Best Day In A Month On Calmer Yields As Rate Hike Bets Wane — SPCX, VSXY, NVDA, TSLA In Focus](https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-end-best-day-in-a-month/cZsufnBRJvu) — *Stocktwits 5:24 PM CT*
-- [Retired Before Nvidia Made Everyone Rich? These 3 ETFs Put the Next Wave in Your IRA Without Betting the Nest Egg](https://247wallst.com/investing/etf/2026/09/03/retired-before-nvidia-made-everyone-rich-these-3-etfs-put-the-next-wave-in-your-ira-without-betting-the-nest-egg/) — *24/7 Wall St. 4:05 PM CT*
 
-### XLK  $187.08  +0.66%
+### XLK  $187.02  +0.63%
+- [Sector Update: Tech Stocks Gain Friday Afternoon](https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-gain-friday-175251963.html) — *MT Newswires 12:52 PM CT*
 - [Exchange-Traded Funds Higher, Equity Futures Mixed Pre-Bell Friday After August Jobs Report Tops Estimates](https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-higher-equity-133330774.html) — *MT Newswires 8:33 AM CT*
-- [Sector Update: Tech Stocks Rise Late Afternoon](https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-rise-afternoon-194500234.html) — *MT Newswires 2:45 PM CT*
 
 ---
 ## AI / Semiconductor Sector
 
-### NVDA  $230.6  +0.43%
+### NVDA  $230.28  +0.29%
 - [Why this veteran tech CEO is impressed by Nvidia's Jensen Huang buying Hugging Face for $12.9 billion](https://finance.yahoo.com/markets/stocks/article/why-this-veteran-tech-ceo-is-impressed-by-nvidias-jensen-huang-buying-hugging-face-for-129-billion-104313626.html) — *Yahoo Finance 5:43 AM CT*
 - [AI demand is 'exceptional,' but the supply chain is not: HPE CEO](https://finance.yahoo.com/video/ai-demand-is-exceptional-but-the-supply-chain-is-not-hpe-ceo-201052714.html) — *Yahoo Finance Video 3:10 PM CT*
-- [Dell Afterglow Continues. These Other Stocks Top Buy Points.](https://www.investors.com/stock-lists/new-highs/dell-stock-vodafone-vod-stock/?src=A00220&yptr=yahoo) — *Investor's Business Daily 12:14 PM CT*
+- [Oura's Revenue Just Jumped 74% — and Its IPO Filing Shows It's Not Just a Wearables Company Anymore](https://www.fool.com/investing/2026/09/04/oura-s-revenue-just-jumped-74-and-its-ipo-filing-shows-it-s-not-just-a-wearables-company-anymore/) — *Motley Fool 2:35 PM CT*
 
-### AMD  $473.9  +4.13%
+### AMD  $473.73  +4.10%
+- [Here’s the Real Reason Nvidia Is Buying Hugging Face](https://www.barrons.com/articles/nvidia-stock-hugging-face-ai-b814c729?siteid=yhoof2&yptr=yahoo) — *Barrons.com 12:55 PM CT*
 - [How Far AMD Stock Can Swing In Its Calm Case](https://www.trefis.com/articles/614414/how-far-amd-stock-can-swing-in-its-calm-case/2026-09-04) — *Trefis 11:31 AM CT*
 - [OpenAI Has Launched GPT-6 Astra. These Stocks Will Benefit.](https://www.barrons.com/articles/openai-gpt-6-astra-microsoft-stock-066362a7?siteid=yhoof2&yptr=yahoo) — *Barrons.com 10:40 AM CT*
-- [Intel Witnesses an Uptrend in Estimate Revisions: Is it Worth Buying?](https://finance.yahoo.com/markets/stocks/articles/intel-witnesses-uptrend-estimate-revisions-145700180.html) — *Zacks 9:57 AM CT*
 
-### TSM  $427.45  +2.65%
+### TSM  $428.32  +2.86%
+- [ASML Plans 40% Japan Workforce Expansion to Support Chip Boom](https://finance.yahoo.com/technology/articles/asml-plans-40-japan-workforce-183514067.html) — *GuruFocus.com 1:35 PM CT*
 - [ASML Rockets 4% as TSMC's Tool Hunger Nearly Doubles](https://finance.yahoo.com/markets/stocks/articles/asml-rockets-4-tsmcs-tool-171057023.html) — *GuruFocus.com 12:10 PM CT*
 - [TSMC Jumps as a Three-Hectare Lab Attacks Its Packaging Bottleneck](https://finance.yahoo.com/technology/articles/tsmc-jumps-three-hectare-lab-171017164.html) — *GuruFocus.com 12:10 PM CT*
-- [$1.3 Trillion in Projected Data Center Spending in 2027 Makes These Stocks No-Brainer Buys](https://www.fool.com/investing/2026/09/04/13-trillion-in-projected-data-center-spending-in-2/) — *Motley Fool 9:40 AM CT*
 
-### MRVL  $220.86  +5.82%
-- [Unpacking Q2 Earnings: Marvell Technology (NASDAQ:MRVL) In The Context Of Other Semiconductor Manufacturing Stocks](https://finance.yahoo.com/markets/stocks/articles/unpacking-q2-earnings-marvell-technology-160610668.html) — *StockStory 11:06 AM CT*
-- [Qualcomm Lost a Third of Its Value in 3 Months. One Wall Street Pro Sees 140% Upside From Here](https://247wallst.com/investing/2026/09/04/qualcomm-lost-a-third-of-its-value-in-3-months-one-wall-street-pro-sees-140-upside-from-here/) — *24/7 Wall St. 9:31 AM CT*
-- [Tesla, Lululemon, AMC,  Guidewire, Trade Desk, UiPath, and More Stocks That Explain Today’s Market](https://www.barrons.com/articles/stock-movers-3ea909fc?siteid=yhoof2&yptr=yahoo) — *Barrons.com 9:29 AM CT*
+### MRVL  $222.46  +6.59%
+- [Update: Equities Fall Intraday as Jobs Report Lifts Rate Hike Bets](https://finance.yahoo.com/markets/stocks/articles/equities-fall-intraday-jobs-report-174019594.html) — *MT Newswires 12:40 PM CT*
+- [Why Marvell Stock Rallied Today](https://www.fool.com/investing/2026/09/04/why-marvell-stock-rallied-today/) — *Motley Fool 12:21 PM CT*
+- [Memory, Other AI-Related Stocks Lead the Market’s Top Performers Friday](https://www.investopedia.com/market-update-memory-other-ai-related-stocks-lead-the-markets-top-performers-friday-12108315) — *Investopedia 12:04 PM CT*
 
-### AVGO  $354.72  -0.49%
+### AVGO  $357.22  +0.21%
 - [Adobe appoints new CEO to succeed Narayen in December](https://finance.yahoo.com/video/adobe-appoints-ceo-succeed-narayen-135828187.html) — *Yahoo Finance Video 8:58 AM CT*
 - [Nvidia's Jensen Huang is 'playing both sides' of AI with Hugging Face purchase](https://finance.yahoo.com/video/nvidias-jensen-huang-playing-both-203620881.html) — *Yahoo Finance Video 3:36 PM CT*
-- [Stocks Fall, Rebound Bullishly; Snowflake, Dell, Tesla, Jobs Report In Focus: Weekly Review](https://www.investors.com/news/stock-market-falls-rebounds-snowflake-dell-tesla-jobs-report/?src=A00220&yptr=yahoo) — *Investor's Business Daily 11:09 AM CT*
+- [Top 3 AI Stocks To Watch In September 2026](https://finance.yahoo.com/technology/ai/articles/top-3-ai-stocks-watch-181832139.html) — *Simply Wall St. 1:18 PM CT*
 
 ---
 ## Market Headlines  *(Reuters · MarketWatch · CNBC)*
-- [A Democratic midterm sweep could make bonds the fourth-quarter contrarian play, says B. of A.’s Hartnett](https://www.marketwatch.com/story/a-democratic-midterm-sweep-could-make-bonds-the-fourth-quarter-contrarian-play-says-b-of-a-s-hartnett-badfa59c?mod=mw_rss_topstories) — *MarketWatch 9:53 AM CT*
-- [Back-to-school shopping brought to you by AI — how Amazon, Google are positioned to win](https://www.cnbc.com/2026/09/04/back-to-school-shopping-brought-to-you-by-ai-how-amazon-google-are-positioned-to-win.html) — *CNBC 9:47 AM CT*
-- [Labor Day marks the start of 'fallcations' as wealthy travelers avoid summer crowds](https://www.cnbc.com/2026/09/04/fall-travel-wealthy-europe.html) — *CNBC 9:42 AM CT*
 - [Bitcoin heads for third winning week in a row as macro pressures mount](https://www.cnbc.com/2026/09/04/bitcoin-heads-for-third-winning-week-in-a-row-as-macro-pressures-mount.html) — *CNBC 9:36 AM CT*
 - [Adobe names Anil Chakravarthy as CEO, replacing Shantanu Narayen](https://www.cnbc.com/2026/09/03/adobe-anil-chakravarthy-ceo.html) — *CNBC 9:18 AM CT*
 - [The big business of personal protection: How private security became a $50 billion industry](https://www.cnbc.com/2026/09/04/private-security-spending-crime-allied-universal.html) — *CNBC 9:15 AM CT*
-- [Analysis: Lower Treasury yields could require a weaker economy. Trump won't fix them](https://www.cnbc.com/2026/09/04/treasury-bonds-yield-trump-ai-mortgage-rates-analysis.html) — *CNBC 9:07 AM CT*
-- [Adobe just announced its next CEO. Here’s why its stock is dropping.](https://www.marketwatch.com/story/adobe-just-announced-its-next-ceo-heres-why-its-stock-is-dropping-bad9ed8a?mod=mw_rss_topstories) — *MarketWatch 8:42 AM CT*
-- [Gloria Steinem hosted salons in her living room for decades—how to gather for conversation and connection, says expert](https://www.cnbc.com/2026/09/04/how-to-gather-and-connect-like-gloria-steinem-says-expert.html) — *CNBC 8:38 AM CT*
-- [Six reasons that the risk of a stock-market selloff is rising. Here’s what investors should be doing.](https://www.marketwatch.com/story/six-reasons-that-the-risk-of-a-stock-market-selloff-is-rising-heres-what-investors-should-be-doing-4c3d84ec?mod=mw_rss_topstories) — *MarketWatch 8:30 AM CT*
-- [Tesla’s stock falls as Cybercab launch lands with a thud](https://www.marketwatch.com/story/teslas-stock-falls-as-cybercab-launch-lands-with-a-thud-1108376b?mod=mw_rss_topstories) — *MarketWatch 8:25 AM CT*
 - [Volkswagen plans 50,000 job cuts as analysts see ‘halo effect’ for German auto industry](https://www.cnbc.com/2026/09/04/volkswagen-job-cuts-tariffs-china.html) — *CNBC 8:04 AM CT*
+- [Lululemon stock plunges 20% on disappointing earnings and outlook](https://www.cnbc.com/2026/09/03/lululemon-lulu-q2-2026-earnings.html) — *CNBC 7:45 AM CT*
+- [World's biggest sovereign wealth fund plans to cut U.S. Treasury holdings](https://www.cnbc.com/2026/09/04/worlds-biggest-sovereign-wealth-fund-plans-to-cut-treasury-holdings.html) — *CNBC 7:22 AM CT*
+- [Trump admin targets tax-exempt status at private colleges — threatening a key tax break for donations](https://www.cnbc.com/2026/09/03/treasury-irs-proposal-tax-exempt-schools-charitable-donations.html) — *CNBC 7:15 AM CT*
+- [The wealth of the world's billionaires reached $15.1 trillion last year, per a new report](https://www.cnbc.com/2026/09/04/billionaire-wealth-altrata-report.html) — *CNBC 6:32 AM CT*
+- [Why Nvidia's 'defensive move' to acquire Hugging Face is about much more than chips](https://www.cnbc.com/2026/09/04/nvidia-hugging-face-deal-chips.html) — *CNBC 6:31 AM CT*
+- [THC drinks could soon be harder to find as Congress delays hemp ban again](https://www.cnbc.com/2026/09/04/thc-drinks-congress-hemp-ban.html) — *CNBC 6:00 AM CT*
+- [Automakers urge Congress to permanently ban Chinese connected vehicles in U.S.](https://www.cnbc.com/2026/09/03/chinese-vehicles-congress.html) — *CNBC 3:56 PM CT*
+- [Carney claps back at Lutnick, says Canada will resume trade talks 'when the Americans are ready'](https://www.cnbc.com/2026/09/03/carney-lutnick-trump-trade-canada.html) — *CNBC 3:42 PM CT*
 
 ---
-*Generated 2026-09-04 12:25 CT | last 24h | sources: yfinance + Reuters/MarketWatch/CNBC*
+*Generated 2026-09-04 14:47 CT | last 24h | sources: yfinance + Reuters/MarketWatch/CNBC*
