@@ -1,16 +1,16 @@
-# Market News — Friday September 11 2026 — 12:36 PM CT
+# Market News — Friday September 11 2026 — 03:37 PM CT
 
-**SPY** $765.91  +1.11%  |  **VIX** 15.66  |  **Regime** OK  |  **Portfolio P&L** +$0  |  **Positions** 0
+**SPY** $764.29  +0.89%  |  **VIX** 15.84  |  **Regime** OK  |  **Portfolio P&L** +$0  |  **Positions** 0
 
 ## MARKET ALERTS — 14 priority stories
 - [Trump dismisses AI extinction risks as more than a dozen OpenAI, Anthropic insiders call for a slowdown](https://www.cnbc.com/2026/09/11/trump-ai-extinction-risks.html) — *CNBC 9:31 AM CT*
 - [Trump says he has no regrets about starting the Iran war as U.S. dials up economic pressure](https://www.cnbc.com/2026/09/11/us-iran-war-trump-hormuz-banks-oil-sanctions.html) — *CNBC 9:28 AM CT*
 - [Leopold Aschenbrenner's Situational Awareness is active in options market, sources say](https://www.cnbc.com/2026/09/11/leopold-aschenbrenners-situational-awareness-is-active-in-options-market-sources-say.html) — *CNBC 9:02 AM CT*
 - [UAE plans $46 billion investment in Germany, with data centers a key focus](https://www.cnbc.com/2026/09/11/uae-germany-investment-data-centers.html) — *CNBC 8:56 AM CT*
-- [Treasury yields remain near multi-year highs as August CPI shows sticky inflation](https://www.cnbc.com/2026/09/11/us-treasurys-bonds-yields.html) — *CNBC 8:08 AM CT*
-- [Chinese AI labs secretly used millions of Claude exchanges to train their models, Anthropic says](https://www.cnbc.com/2026/09/11/chinese-ai-labs-moonshot-deepseek-alibaba-anthropic.html) — *CNBC 7:59 PM CT*
 - [U.S. diesel price tops $6 per gallon, a record high as Ukraine and Iran wars ripple through economy](https://www.cnbc.com/2026/09/11/diesel-price-iran-strait-hormuz-ukraine-russia.html) — *CNBC 6:27 AM CT*
 - [Why fears of AI self-improvement are causing ‘existential’ concerns at Anthropic and OpenAI](https://www.cnbc.com/2026/09/11/anthropic-openai-ai-existential-concerns.html) — *CNBC 6:00 AM CT*
+- [Treasury yields remain near multiyear highs as August CPI shows sticky inflation](https://www.cnbc.com/2026/09/11/us-treasurys-bonds-yields.html) — *CNBC 3:37 PM CT*
+- [Why Dell and HPE were the S&P 500’s top-performing stocks today](https://www.marketwatch.com/story/why-dell-and-hpe-were-the-s-p-500s-top-performing-stocks-today-13d1dd14?mod=mw_rss_topstories) — *MarketWatch 3:30 PM CT*
 
 
 ---
@@ -21,68 +21,69 @@
 ---
 ## Market Pulse
 
-### SPY  $765.91  +1.11%
-- [AMC Gains 5% on Tokenization Truce Signal, Robinhood Barely Budges; Cinemark Treads Water](https://247wallst.com/investing/2026/09/11/amc-gains-5-on-tokenization-truce-signal-robinhood-barely-budges-cinemark-treads-water/) — *24/7 Wall St. 12:13 PM CT*
-- [TeraWulf Rallies 7% as Miner Selloff Reverses; Applied Digital Gains 4%, IREN Sits Out the Rally](https://247wallst.com/investing/2026/09/11/terawulf-rallies-7-as-miner-selloff-reverses-applied-digital-gains-4-iren-sits-out-the-rally/) — *24/7 Wall St. 11:50 AM CT*
-- [Moderna Rallies 8% on 2026 Melt-Up Momentum Even While BioNTech and Merck Stay Flat](https://247wallst.com/investing/2026/09/11/moderna-rallies-8-on-2026-melt-up-momentum-even-while-biontech-and-merck-stay-flat/) — *24/7 Wall St. 10:56 AM CT*
+### SPY  $764.29  +0.89%
+- [A Peak Back at Future Proof Citywide with Tom Lee](http://www.etf.com/sections/features/peak-back-future-proof-citywide-tom-lee?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss) — *etf.com 3:21 PM CT*
+- [ChargePoint Stock Is Up 38% in 2026: What Will It Take to Break Through $10?](https://247wallst.com/investing/2026/09/11/chargepoint-stock-is-up-38-in-2026-what-will-it-take-to-break-through-10/) — *24/7 Wall St. 2:17 PM CT*
+- [Deere and Caterpillar Are Both Up Over 40% This Year: Take Profits or Hold On for the Ride?](https://247wallst.com/investing/2026/09/11/deere-and-caterpillar-are-both-up-over-40-this-year-take-profits-or-hold-on-for-the-ride/) — *24/7 Wall St. 2:09 PM CT*
 
-### QQQ  $716.82  +1.40%
+### QQQ  $714.88  +1.13%
+- [‘The Largest IPO Ever, Surpassing SpaceX’: Anthropic Is Up Next](https://247wallst.com/investing/2026/09/11/the-largest-ipo-ever-surpassing-spacex-anthropic-is-up-next/) — *24/7 Wall St. 12:43 PM CT*
 - [Exchange-Traded Funds, US Equities Rise After Midday](https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-us-equities-171329001.html) — *MT Newswires 12:13 PM CT*
 - [Marvell Rises 5% as Piper Sandler Starts Coverage With $270 Target; Broadcom Edges Higher, NVIDIA Holds Steady](https://247wallst.com/investing/2026/09/11/marvell-rises-5-as-piper-sandler-starts-coverage-with-270-target-broadcom-edges-higher-nvidia-holds-steady/) — *24/7 Wall St. 11:54 AM CT*
-- [Wall Street Just Erased $57 Billion From Micron. The Shortage Behind Its Boom Is Getting Worse.](https://247wallst.com/investing/2026/09/11/wall-street-just-erased-57-billion-from-micron-the-shortage-behind-its-boom-is-getting-worse/) — *24/7 Wall St. 11:30 AM CT*
 
-### VIX  $15.66  -12.22%
+### VIX  $15.84  -11.21%
 
-### SMH  $571.85  +2.35%
+### SMH  $568.53  +1.75%
 - [Easing Oil Bills, Tech Optimism Lift Wall Street Pre-Bell, Asia off, Europe Up](https://finance.yahoo.com/markets/stocks/articles/easing-oil-bills-tech-optimism-111107820.html) — *MT Newswires 6:11 AM CT*
 - [Forget SMH: The Chip Fund That Charges 0.15% Is Beating It by 22 Points This Year](https://247wallst.com/investing/etf/2026/09/10/forget-smh-the-chip-fund-that-charges-0-15-is-beating-it-by-22-points-this-year/) — *24/7 Wall St. 5:15 PM CT*
 
-### XLK  $188.18  +1.53%
+### XLK  $187.67  +1.25%
+- [Sector Update: Tech Stocks Gain Late Afternoon](https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-gain-afternoon-195856760.html) — *MT Newswires 2:58 PM CT*
+- [Sector Update: Tech Stocks Rise Friday Afternoon](https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-rise-friday-173848739.html) — *MT Newswires 12:38 PM CT*
 - [Stock Market News for Sep 11, 2026](https://finance.yahoo.com/markets/stocks/articles/stock-market-news-sep-11-132500350.html) — *Zacks 8:25 AM CT*
-- [Sector Update: Tech Stocks Fall Late Afternoon](https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-fall-afternoon-195545130.html) — *MT Newswires 2:55 PM CT*
 
 ---
 ## AI / Semiconductor Sector
 
-### NVDA  $219.27  +0.70%
-- [What a Republican 'wipeout' in the midterm elections means for investors](https://finance.yahoo.com/video/republican-wipeout-midterm-elections-means-120000609.html) — *Yahoo Finance Video 7:00 AM CT*
+### NVDA  $218.29  +0.24%
+- [SpaceX signs $1.1 billion-per month computing deal](https://finance.yahoo.com/video/spacex-signs-1-1-billion-195052486.html) — *Yahoo Finance Video 2:50 PM CT*
 - [Nvidia CEO Jensen Huang just doubled down on his big 2030 prediction](https://finance.yahoo.com/markets/article/nvidia-ceo-jensen-huang-just-doubled-down-on-his-big-2030-prediction-115945089.html) — *Yahoo Finance 6:59 AM CT*
-- [Could This New Opportunity Be Worth Billions for Novo Nordisk?](https://www.fool.com/investing/2026/09/11/could-this-new-opportunity-be-worth-billions-for-novo-nordisk/) — *Motley Fool 12:20 PM CT*
+- [Palantir Stock Gets Jaw-Dropping Price Target Hike on AI Demand](https://finance.yahoo.com/technology/ai/articles/palantir-stock-gets-jaw-dropping-201122928.html) — *GuruFocus.com 3:11 PM CT*
 
-### AMD  $516.12  +2.81%
-- [AMD Expands Into Rack-Scale AI as Agentic Workloads Boost CPU Demand](https://www.marketbeat.com/instant-alerts/event-amd-expands-into-rack-scale-ai-as-agentic-workloads-boost-cpu-demand-2026-09-11/?utm_source=yahoofinance&utm_medium=yahoofinance) — *MarketBeat 12:02 PM CT*
-- [The Better Nvidia Killer: Broadcom or AMD?](https://247wallst.com/investing/2026/09/11/the-better-nvidia-killer-broadcom-or-amd/) — *24/7 Wall St. 11:40 AM CT*
-- [AMD, BE, CRWV In Focus: Situational Awareness Has Been Reportedly Buying Options Tied To These Stocks](https://stocktwits.com/news-articles/markets/equity/amd-be-crwv-in-focus-situational-awareness-has-been-reportedly-buying-options-tied-to-these-stocks/cZtXVIiRBbT) — *Stocktwits 10:48 AM CT*
+### AMD  $516.13  +2.81%
+- [Oracle, Kroger, Adobe, and More Stocks That Explain Today’s Market](https://www.barrons.com/articles/stock-movers-23a24cef?siteid=yhoof2&yptr=yahoo) — *Barrons.com 3:16 PM CT*
+- [1 Thing I Wish I'd Known About the Stock Market When I First Started Investing](https://www.fool.com/investing/2026/09/11/1-thing-i-wish-id-known-about-stock-market-early/) — *Motley Fool 1:01 PM CT*
+- [Should Qualcomm Stockholders Worry About Its Shrinking Revenue?](https://www.trefis.com/articles/615044/should-qualcomm-stockholders-worry-about-its-shrinking-revenue/2026-09-11) — *Trefis 12:52 PM CT*
 
-### TSM  $432.88  +1.31%
-- [Tech, Media & Telecom Roundup: Market Talk](https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-4044eee2?siteid=yhoof2&yptr=yahoo) — *The Wall Street Journal 11:26 AM CT*
-- [Fed Rate Hike Close To A Lock; Clarity Act Vote Looms: Week Ahead](https://www.investors.com/research/investing-action-plan/federal-reserve-rate-hike-close-to-clarity-act-vote-salesforce-dreamforce/?src=A00220&yptr=yahoo) — *Investor's Business Daily 10:39 AM CT*
-- [TSMC Price Prediction: One Number Could Define the Stock’s Next Move](https://247wallst.com/investing/2026/09/11/tsmc-price-prediction-one-number-could-define-the-stocks-next-move/) — *24/7 Wall St. 10:30 AM CT*
+### TSM  $433.24  +1.39%
+- [Astera Labs vs. Taiwan Semiconductor Manufacturing: Which AI Supplier Stock Is a Better Buy in 2026?](https://www.fool.com/coverage/better-buy/2026/09/11/astera-labs-vs-taiwan-semiconductor-manufacturing-which-ai-supplier-stock-is-a-better-buy-in-2026/) — *Motley Fool 1:26 PM CT*
+- [TSMC Just Delivered Fantastic News for Nvidia Shareholders](https://www.fool.com/investing/2026/09/11/tsmc-just-delivered-fantastic-news-for-nvidia-shareholders/) — *Motley Fool 12:30 PM CT*
+- [‘Apple and Microsoft Look Like Value Stocks’: Morningstar on SanDisk’s 2,107% Year](https://247wallst.com/investing/2026/09/11/apple-and-microsoft-look-like-value-stocks-morningstar-on-sandisks-2107-year/) — *24/7 Wall St. 12:17 PM CT*
 
-### MRVL  $239.18  +6.45%
+### MRVL  $236.1  +5.07%
+- [Astera Labs vs. Marvell Technology: Which AI-Driven Tech Stock Is a Better Buy in 2026?](https://www.fool.com/coverage/better-buy/2026/09/11/astera-labs-vs-marvell-technology-which-ai-driven-tech-stock-is-a-better-buy-in-2026/) — *Motley Fool 2:19 PM CT*
 - [MRVL Rides on the AI Capex Wave: What's Ahead for Investors?](https://finance.yahoo.com/technology/ai/articles/mrvl-rides-ai-capex-wave-131200023.html) — *Zacks 8:12 AM CT*
 - [What Happens To NVIDIA Stock If The Buyers It Funds Cannot Pay?](https://www.trefis.com/articles/615055/what-happens-to-nvidia-stock-if-the-buyers-it-funds-cannot-pay/2026-09-11) — *Trefis 7:52 AM CT*
-- [Piper Sandler Says Marvell Could Be a Major AI Chip Winner](https://finance.yahoo.com/technology/ai/articles/piper-sandler-says-marvell-could-120936521.html) — *GuruFocus.com 7:09 AM CT*
 
-### AVGO  $365.0  +1.55%
+### AVGO  $361.99  +0.71%
+- [What's Going On With Broadcom Stock Friday](https://finance.yahoo.com/markets/stocks/articles/whats-going-broadcom-stock-friday-174335036.html) — *GuruFocus.com 12:43 PM CT*
+- [Do You Have the Guts to Buy the AI Stocks Right Now?](https://finance.yahoo.com/markets/stocks/articles/guts-buy-ai-stocks-now-173900651.html) — *Zacks 12:39 PM CT*
 - [Ciena's Backlog Or Arista's Margins: Which Should Carry Your AI Network Bet?](https://www.trefis.com/articles/615079/cienas-backlog-or-aristas-margins-which-should-carry-your-ai-network-bet/2026-09-11) — *Trefis 12:17 PM CT*
-- [The Next Growth Cycle Could Take Qualcomm to New Highs](https://247wallst.com/investing/2026/09/11/the-next-growth-cycle-could-take-qualcomm-to-new-highs/) — *24/7 Wall St. 11:00 AM CT*
-- [How Far Could Intel Stock Fall After More Than Quadrupling In A Year?](https://www.trefis.com/articles/615060/how-far-could-intel-stock-fall-after-more-than-quadrupling-in-a-year/2026-09-11) — *Trefis 8:44 AM CT*
 
 ---
 ## Market Headlines  *(Reuters · MarketWatch · CNBC)*
-- [Houthis reportedly advance to key Red Sea island, further threatening crucial oil choke point](https://www.cnbc.com/2026/09/11/iran-houthis-mokha-red-sea-yemen.html) — *CNBC 9:35 AM CT*
-- [The oil shock is testing private credit borrowers already burdened by high debt costs](https://www.cnbc.com/2026/09/11/oil-private-credit-refinancing.html) — *CNBC 9:33 AM CT*
-- [‘I’m the executor’: My two siblings and I inherited an IRA. Can we just cash it out?](https://www.marketwatch.com/story/im-the-executor-my-two-siblings-and-i-inherited-an-ira-can-we-just-cash-it-out-dafc5b8d?mod=mw_rss_topstories) — *MarketWatch 9:30 AM CT*
-- [All the ways $6 diesel and rising gas prices are about to make your life more expensive — from commuting to grocery shopping](https://www.marketwatch.com/story/all-the-ways-record-high-diesel-and-rising-gas-prices-are-about-to-make-your-life-more-expensive-from-commuting-to-grocery-shopping-2083fec3?mod=mw_rss_topstories) — *MarketWatch 9:22 AM CT*
 - [Hassett kept up to $5 million Coinbase stake as Trump reshaped crypto policy](https://www.cnbc.com/2026/09/10/kevin-hassett-coinbase-stock-trump-crypto-recusal.html) — *CNBC 8:55 PM CT*
 - [Sub-$100 smartphones becoming a rarity as AI memory prices soar](https://www.cnbc.com/2026/09/11/cheap-china-smartphones-rare-memory-ai-costs.html) — *CNBC 6:59 AM CT*
 - [25 years after 9/11, the U.S. starts rolling back travel restrictions, from liquids to gate access](https://www.cnbc.com/2026/09/11/9/11-anniversary-air-travel.html) — *CNBC 6:00 AM CT*
-- [Elon Musk's Boring Co. turns to Middle East for expansion in reaching $23 billion valuation](https://www.cnbc.com/2026/09/10/elon-musk-boring-co-uae-valuation.html) — *CNBC 1:15 PM CT*
-- [I went to a dinner party, brought an appetizer and wine — and the host charged me $60. Should I cut ties with her?](https://www.marketwatch.com/story/i-went-to-a-dinner-party-brought-an-appetizer-and-wine-and-the-host-charged-me-60-should-i-cut-ties-with-her-5a1c5261?mod=mw_rss_topstories) — *MarketWatch 12:31 PM CT*
-- [Why a shrinking population doesn’t have to be the kiss of death for an economy or stock market](https://www.marketwatch.com/story/investors-are-all-wrong-about-demography-ebfb5f2f?mod=mw_rss_topstories) — *MarketWatch 12:09 PM CT*
-- [The traditional paths to building wealth are becoming less accessible for young Americans. Here’s what happened.](https://www.marketwatch.com/story/the-traditional-paths-to-building-wealth-are-becoming-less-accessible-for-young-americans-80112c08?mod=mw_rss_topstories) — *MarketWatch 12:01 PM CT*
-- [Election officials ban certain public workers from trading on prediction markets ahead of midterms](https://www.cnbc.com/2026/09/11/election-officials-ban-employees-from-prediction-markets.html) — *CNBC 12:00 PM CT*
+- [I’m a single 58-year-old veteran in California with $1.5 million and a VA pension. Can I retire?](https://www.marketwatch.com/story/im-a-single-58-year-old-veteran-with-1-5-million-in-assets-and-a-va-pension-can-i-afford-to-retire-9fadfd41?mod=mw_rss_topstories) — *MarketWatch 3:30 PM CT*
+- [Dan Chung rebuilt a decimated Alger Management after 9/11. He's still finding the market's winners](https://www.cnbc.com/2026/09/11/dan-chung-rebuilt-a-decimated-alger-management-after-9/11-hes-still-finding-the-markets-winners.html) — *CNBC 3:21 PM CT*
+- [Your Social Security COLA could go up another $71 a month in 2027. That’s not necessarily good news.](https://www.marketwatch.com/story/your-social-security-check-could-go-up-another-71-next-year-thats-not-necessarily-good-news-f952c08a?mod=mw_rss_topstories) — *MarketWatch 3:08 PM CT*
+- [In pictures: The U.S. commemorates the 25th anniversary of 9/11](https://www.cnbc.com/2026/09/11/us-commemorates-25th-anniversary-9/11-photos.html) — *CNBC 3:05 PM CT*
+- [Oracle posts 30% revenue growth fueled by AI cloud demand as debts hits $125 billion](https://www.cnbc.com/2026/09/11/oracle-stock-q1-earnings-ai-cloud.html) — *CNBC 3:04 PM CT*
+- [Saudi Arabia shut down East-West crude oil pipeline after multiple attacks](https://www.cnbc.com/2026/09/11/saudi-arabia-shut-down-east-west-crude-oil-pipeline.html) — *CNBC 3:01 PM CT*
+- [‘We fear financial exploitation’: Who will manage our finances if my wife and I become incapacitated?](https://www.marketwatch.com/story/we-fear-financial-exploitation-who-will-manage-our-finances-if-my-wife-and-i-become-incapacitated-32efc180?mod=mw_rss_topstories) — *MarketWatch 3:00 PM CT*
+- [I want to pay for every customer at my late husband’s favorite restaurant on his birthday. Could this backfire?](https://www.marketwatch.com/story/on-my-late-husbands-birthday-i-want-to-pay-for-every-customer-at-his-favorite-restaurant-is-this-a-good-idea-a2748ccc?mod=mw_rss_topstories) — *MarketWatch 2:45 PM CT*
+- [Salesforce’s stock has been riding a wave of AI optimism. Here’s what Wall Street wants to see next.](https://www.marketwatch.com/story/salesforces-stock-has-been-riding-a-wave-of-ai-optimism-heres-what-wall-street-wants-to-see-next-72f20e95?mod=mw_rss_topstories) — *MarketWatch 2:30 PM CT*
 
 ---
-*Generated 2026-09-11 12:36 CT | last 24h | sources: yfinance + Reuters/MarketWatch/CNBC*
+*Generated 2026-09-11 15:37 CT | last 24h | sources: yfinance + Reuters/MarketWatch/CNBC*
