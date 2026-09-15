@@ -1,16 +1,16 @@
-# Market News — Monday September 14 2026 — 05:38 PM CT
+# Market News — Tuesday September 15 2026 — 12:59 PM CT
 
-**SPY** $760.88  -0.47%  |  **VIX** 17.1  |  **Regime** OK  |  **Portfolio P&L** +$0  |  **Positions** 0
+**SPY** $757.31  -0.50%  |  **VIX** 17.61  |  **Regime** OK  |  **Portfolio P&L** +$0  |  **Positions** 0
 
-## MARKET ALERTS — 13 priority stories
-- [Trump urges Ukraine to stop ‘knocking out’ Russian oil refineries as U.S. diesel hits record](https://www.cnbc.com/2026/09/14/trump-ukraine-russia-diesel-prices-oil.html) — *CNBC 9:25 AM CT*
-- [OpenAI boss Sam Altman spells out how and why the AI industry wants to slow down: 'We could lose control'](https://www.cnbc.com/2026/09/14/sam-altman-ai-slowdown-anthropic-amodei-musk.html) — *CNBC 8:38 AM CT*
-- [Iran says it destroyed U.S. advanced drone over Hormuz as Middle East conflict intensifies](https://www.cnbc.com/2026/09/14/us-iran-trump-hormuz-gulf-oil-crude-talks-.html) — *CNBC 7:02 AM CT*
-- [LA Clippers owner Steve Ballmer apologizes over team sanctions](https://www.cnbc.com/2026/09/14/la-clippers-steve-ballmer-apologizes-kawhi-leonard.html) — *CNBC 6:34 AM CT*
-- [Ukraine says it's open to halting attacks on Russian energy after Trump's claims of deal](https://www.cnbc.com/2026/09/14/trump-ukraine-russia-energy-oil-iran.html) — *CNBC 5:18 PM CT*
-- [Trump phones Nvidia’s Huang at All-In Summit, calls data center opposition a ‘hoax’](https://www.cnbc.com/2026/09/14/trump-phones-nvidia-huang-all-in-calls-data-center-opposition-hoax.html) — *CNBC 4:32 PM CT*
-- [The oil market is sending an increasingly loud warning about gas prices at the pump](https://www.marketwatch.com/story/the-oil-market-is-sending-an-increasingly-loud-warning-about-gas-prices-at-the-pump-18177588?mod=mw_rss_topstories) — *MarketWatch 4:31 PM CT*
-- [Trump goes scorched earth on AI warnings, raging about data center opposition and regulation](https://www.cnbc.com/2026/09/14/trump-ai-data-centers-anthropic-dario-amodei.html) — *CNBC 4:15 PM CT*
+## MARKET ALERTS — 12 priority stories
+- [Warren to rip Clarity Act on Senate floor ahead of key preliminary vote](https://www.cnbc.com/2026/09/14/warren-clarity-act-senate-key-preliminary-vote.html) — *CNBC 8:32 PM CT*
+- [Potential AI slowdown is not ‘end of the world’ for data center real estate, says Digital Realty CEO](https://www.cnbc.com/2026/09/15/data-center-reit-ceo-ai-slowdown.html) — *CNBC 7:28 AM CT*
+- [Iranian foreign minister will head to China for talks, as Pentagon reveals financial cost of war](https://www.cnbc.com/2026/09/15/us-iran-war-trump-hormuz-munitions-dod-costs-aircraft.html) — *CNBC 6:53 AM CT*
+- [Wall Street weighs prospect of an AI slowdown on data center buildout](https://www.cnbc.com/2026/09/15/investors-ai-slowdown-data-center-buildout.html) — *CNBC 5:00 AM CT*
+- [Warsh's credibility is on the line this week as Trump policies put pressure on Fed to hike](https://www.cnbc.com/2026/09/14/warshs-credibility-is-on-the-line-this-week-as-trump-policies-put-pressure-on-fed-to-hike.html) — *CNBC 3:49 PM CT*
+- [Counting the votes: Warsh faces a tough battle as the Fed girds for expected interest rate hike](https://www.cnbc.com/2026/09/14/counting-the-votes-warsh-faces-tough-battle-as-fed-girds-for-expected-rate-hike.html) — *CNBC 2:47 PM CT*
+- [U.S. seeks to seize $61 million of crypto it claims are proceeds from Iranian petroleum sales to Chinese buyers](https://www.cnbc.com/2026/09/15/us-attorney-crypto-tether-iran-china-.html) — *CNBC 2:05 AM CT*
+- [10-year Treasury yield hits highest level since 2007 as traders bet a Fed rate hike is coming](https://www.cnbc.com/2026/09/15/10-year-treasury-yield-rises-to-highest-since-2007.html) — *CNBC 12:33 PM CT*
 
 
 ---
@@ -21,71 +21,64 @@
 ---
 ## Market Pulse
 
-### SPY  $760.88  -0.47%
-- [Nobody Withheld Taxes From Your First Year of Retirement Income, and the April Bill Proves It. These 3 ETFs Cover It Every Year](https://247wallst.com/investing/etf/2026/09/14/nobody-withheld-taxes-from-your-first-year-of-retirement-income-and-the-april-bill-proves-it-these-3-etfs-cover-it-every-year/) — *24/7 Wall St. 5:15 PM CT*
-- [S&P 500, Nasdaq, Dow Drop On Chipmaker Weakness, Treasury Yield Pressure — MSFT, NFLX, ORCL, CRWD, RBLX In Focus](https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-dow-drop-on-chipmaker-weakness/cZtm0WRRBTI) — *Stocktwits 4:53 PM CT*
-- [TPAY Yields 10% With Full S&P 500 Exposure. Here’s Exactly What You Give Up to Get It](https://247wallst.com/investing/etf/2026/09/14/tpay-yields-10-with-full-sp-500-exposure-heres-exactly-what-you-give-up-to-get-it/) — *24/7 Wall St. 3:43 PM CT*
+### SPY  $757.31  -0.50%
+- [Western Digital Falls 4% Despite Its AI Storage Pitch; Seagate Drops 5%, Micron Holds Steady](https://247wallst.com/investing/2026/09/15/western-digital-falls-4-despite-its-ai-storage-pitch-seagate-drops-5-micron-holds-steady/) — *24/7 Wall St. 12:52 PM CT*
+- [Joby Slips and Is Down 53% This Year as the eVTOL Trade Keeps Unwinding; Archer Dips, EHang Eases](https://247wallst.com/investing/2026/09/15/joby-slips-and-is-down-53-this-year-as-the-evtol-trade-keeps-unwinding-archer-dips-ehang-eases/) — *24/7 Wall St. 11:41 AM CT*
+- [Norwegian Falls 3% as Wells Fargo Trims Carnival Target on Caribbean Pricing Pressure; Carnival Slips, Royal Caribbean Dips](https://247wallst.com/investing/2026/09/15/norwegian-falls-3-as-wells-fargo-trims-carnival-target-on-caribbean-pricing-pressure-carnival-slips-royal-caribbean-dips/) — *24/7 Wall St. 11:36 AM CT*
 
-### QQQ  $709.18  -0.80%
-- [Forget JEPI: QQQ’s Sponsor Sells an Equal-Weight S&P Income Fund That Charges Less and Is Beating It by 8 Points](https://247wallst.com/investing/etf/2026/09/14/forget-jepi-qqqs-sponsor-sells-an-equal-weight-sp-income-fund-that-charges-less-and-is-beating-it-by-8-points/) — *24/7 Wall St. 4:45 PM CT*
-- [S&P 500 Faces $2 Trillion Moment of Truth](https://finance.yahoo.com/markets/options/articles/p-500-faces-2-trillion-210610600.html) — *GuruFocus.com 4:06 PM CT*
-- [C3.ai Jumps 7% as Software Rally Lifts Beaten-Down AI Names; UiPath Climbs 8%, SoundHound AI Gains 5%](https://247wallst.com/investing/2026/09/14/c3-ai-jumps-7-as-software-rally-lifts-beaten-down-ai-names-uipath-climbs-8-soundhound-ai-gains-5/) — *24/7 Wall St. 12:34 PM CT*
+### QQQ  $705.08  -0.64%
+- [Exchange-Traded Funds, US Equities Fall After Midday](https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-us-equities-171200757.html) — *MT Newswires 12:12 PM CT*
+- [Smartphone Chip Stocks Rally While Large-Cap Technology Slips: Skyworks Jumps 11%, Qorvo Rises 7%, Qualcomm Climbs 4%](https://247wallst.com/investing/2026/09/15/smartphone-chip-stocks-rally-while-large-cap-technology-slips-skyworks-jumps-11-qorvo-rises-7-qualcomm-climbs-4/) — *24/7 Wall St. 10:55 AM CT*
+- [Bitcoin’s Correlation With Gold Just Hit a Six-Year High. Is BTC Finally Digital Gold?](https://247wallst.com/investing/cryptocurrency/2026/09/15/bitcoins-correlation-with-gold-just-hit-a-six-year-high-is-btc-finally-digital-gold/) — *24/7 Wall St. 10:31 AM CT*
 
-### VIX  $17.1  +7.95%
-- [Why The S&P 500 Isn't Panicking As Oil Surges, War Spreads, The Fed Hikes](https://www.investors.com/news/sp-500-not-panicking-despite-crude-oil-prices-us-iran-war-treasury-yields-federal-reserve/?src=A00220&yptr=yahoo) — *Investor's Business Daily 9:36 AM CT*
-- [Wall Street Fear Index Jumps as Brutal AI Selloff Hits Market](https://www.barrons.com/livecoverage/stock-market-news-today-091426/card/wall-street-fear-index-jumps-as-brutal-ai-selloff-hits-market-lRY6Sjw10ISlwtLhYwZD?siteid=yhoof2&yptr=yahoo) — *Barrons.com 6:15 AM CT*
+### VIX  $17.61  +2.98%
 
-### SMH  $541.5  -4.81%
-- [AI, Oil, Bond Yield Concerns Damp Wall Street Pre-Bell; Asia, Europe Off](https://finance.yahoo.com/markets/articles/ai-oil-bond-yield-concerns-111150869.html) — *MT Newswires 6:11 AM CT*
-- [Should You Invest in the VanEck Semiconductor ETF (SMH)?](https://finance.yahoo.com/markets/stocks/articles/invest-vaneck-semiconductor-etf-smh-102002160.html) — *Zacks 5:20 AM CT*
+### SMH  $541.85  -0.42%
+- [Rising Bond Yields, Oil Prices Depress Wall Street Pre-Bell; Asia, Europe Off](https://finance.yahoo.com/markets/articles/rising-bond-yields-oil-prices-110715570.html) — *MT Newswires 6:07 AM CT*
+- [Bond Yields Near 5% as ETF Investors Keep Buying](http://www.etf.com/sections/weekly-etf-flows/bond-yields-near-5-etf-investors-keep-buying?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss) — *etf.com 7:38 PM CT*
+- [ETF League Tables: VanEck Sees Outflows](http://www.etf.com/sections/etf-league-tables/etf-league-tables-vaneck-sees-outflows?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss) — *etf.com 7:37 PM CT*
 
-### XLK  $184.28  -1.80%
+### XLK  $183.95  -0.35%
+- [Stock Market News for Sep 15, 2026](https://finance.yahoo.com/markets/stocks/articles/stock-market-news-sep-15-131400808.html) — *Zacks 8:14 AM CT*
 - [Sector Update: Tech Stocks Fall Late Afternoon](https://finance.yahoo.com/technology/articles/sector-tech-stocks-fall-afternoon-200007387.html) — *MT Newswires 3:00 PM CT*
-- [Sector Update: Tech Stocks Fall Monday Afternoon](https://finance.yahoo.com/technology/articles/sector-tech-stocks-fall-monday-173355942.html) — *MT Newswires 12:33 PM CT*
-- [Stock Market News for Sep 14, 2026](https://finance.yahoo.com/markets/stocks/articles/stock-market-news-sep-14-132800512.html) — *Zacks 8:28 AM CT*
 
 ---
 ## AI / Semiconductor Sector
 
-### NVDA  $210.96  -3.34%
-- [Tech pulls back on AI concerns, cybersecurity takes a step up](https://finance.yahoo.com/video/tech-pulls-back-ai-concerns-143900977.html) — *Yahoo Finance Video 9:39 AM CT*
-- [Chip stocks fall as oil prices gain, Treasury yields stay elevated: AlphaCheck](https://finance.yahoo.com/markets/article/chip-stocks-fall-as-oil-prices-gain-treasury-yields-stay-elevated-alphacheck-134519544.html) — *Yahoo Finance 8:45 AM CT*
-- [Dow Jones Futures: Nvidia, Micron, Sandisk Dive On AI Fears; Fed Rate Hike Looms](https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-nvidia-nvda-micron-sandisk-ai-warning-fed-rate-hike/?src=A00220&yptr=yahoo) — *Investor's Business Daily 5:29 PM CT*
+### NVDA  $211.96  -0.04%
+- [Update: Equities Fall Intraday as Yields, Oil Surge Ahead of Fed Decision](https://finance.yahoo.com/markets/stocks/articles/equities-fall-intraday-yields-oil-175048532.html) — *MT Newswires 12:50 PM CT*
+- [I Like SpaceX, But I'm Not Buying the Stock for One Simple Reason](https://www.fool.com/investing/2026/09/15/i-like-spacex-but-im-not-buying-the-stock-for-one/) — *Motley Fool 12:50 PM CT*
+- [Nvidia Just Invited a Rival Chipmaker Into Its Own Racks. Here’s Why](https://247wallst.com/investing/2026/09/15/nvidia-just-invited-a-rival-chipmaker-into-its-own-racks-heres-why/) — *24/7 Wall St. 12:45 PM CT*
 
-### AMD  $493.41  -4.34%
-- [Update: Wall Street Dips as AI Warnings Weigh on Tech Sector](https://finance.yahoo.com/technology/ai/articles/wall-street-dips-ai-warnings-204112098.html) — *MT Newswires 3:41 PM CT*
-- [Oracle, Corning, Alphabet, GE Vernova, CrowdStrike, SpaceX, and More Stocks That Explain Today’s Market](https://www.barrons.com/articles/stock-movers-259d1f80?siteid=yhoof2&yptr=yahoo) — *Barrons.com 3:25 PM CT*
-- [Wall Street ends down, calls for AI slowdown pummel chipmakers](https://finance.yahoo.com/technology/ai/articles/ai-warnings-knock-nasdaq-futures-092329455.html) — *Reuters 3:15 PM CT*
+### TSM  $414.08  -1.29%
+- [Apple Stock: New CEO, Foldable iPhone-Time to Buy the Dip?](https://finance.yahoo.com/markets/stocks/articles/apple-stock-ceo-foldable-iphone-174900456.html) — *Zacks 12:49 PM CT*
+- [Meta Puts Arke and Astrid Into Data Centers in 2027](https://finance.yahoo.com/technology/ai/articles/meta-puts-arke-astrid-data-154831995.html) — *GuruFocus.com 10:48 AM CT*
+- [TSMC Slips as 2-Nanometer Chip Powers a 51% AI Leap](https://finance.yahoo.com/technology/ai/articles/tsmc-slips-2-nanometer-chip-152450996.html) — *GuruFocus.com 10:24 AM CT*
 
-### TSM  $418.01  -3.45%
-- [5 Top AI Stocks to Buy on the Dip as Slowdown Fears Hit Markets](https://finance.yahoo.com/technology/ai/articles/5-top-ai-stocks-buy-203700535.html) — *Zacks 3:37 PM CT*
-- [ASML Drops 5.4% as Customers Prepare for $400 Million Machines](https://finance.yahoo.com/markets/stocks/articles/asml-drops-5-4-customers-181746176.html) — *GuruFocus.com 1:17 PM CT*
-- [TSMC Falls 3.3% as Its 2028 Chip Roadmap Precedes High-NA Adoption](https://finance.yahoo.com/technology/articles/tsmc-falls-3-3-2028-171839155.html) — *GuruFocus.com 12:18 PM CT*
+### MRVL  $222.67  +0.83%
+- [The AI Boom Has a Secret Weapon, and It’s Marvell](https://247wallst.com/investing/2026/09/15/the-ai-boom-has-a-secret-weapon-and-its-marvell/) — *24/7 Wall St. 10:30 AM CT*
+- [Can Credo's OmniConnect Unlock a New AI Inference Growth Engine?](https://finance.yahoo.com/technology/ai/articles/credos-omniconnect-unlock-ai-inference-145200078.html) — *Zacks 9:52 AM CT*
+- [Marvell Technology Has Imploded Since June: One Defiant Wall Street Pro Says It’ll Double From Today](https://247wallst.com/investing/2026/09/15/marvell-technology-has-imploded-since-june-one-defiant-wall-street-pro-says-itll-double-from-today/) — *24/7 Wall St. 9:45 AM CT*
 
-### MRVL  $218.82  -7.33%
-- [Stocks to Watch Monday Recap: Nvidia, Oracle, SoftBank](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-14-2026/card/stocks-to-watch-monday-nvidia-oracle-softbank-z8oHxWLCC1rwQAwr0oUs?siteid=yhoof2&yptr=yahoo) — *The Wall Street Journal 4:37 PM CT*
-- [Which Tech Stocks Are Getting Hit Hardest Today](https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-14-2026/card/which-tech-stocks-are-getting-hit-hardest-today-NXMZGdwdwqjvnj32Ghbc?siteid=yhoof2&yptr=yahoo) — *The Wall Street Journal 3:49 PM CT*
-- [Marvell stock plunges as a new threat hits the AI trade](https://finance.yahoo.com/technology/ai/articles/marvell-stock-plunges-threat-hits-190920265.html) — *GuruFocus.com 2:09 PM CT*
-
-### AVGO  $344.72  -4.70%
-- [Broadcom Drops Over 4% as $21.7 Billion AI Forecast Meets Slowdown Fears](https://finance.yahoo.com/technology/ai/articles/broadcom-drops-over-4-21-210015158.html) — *GuruFocus.com 4:00 PM CT*
-- [Broadcom buys its Irvine office building](https://finance.yahoo.com/real-estate/articles/broadcom-buys-irvine-office-building-194945873.html) — *LA Times 2:49 PM CT*
-- [Is Broadcom Stock in Trouble?](https://www.fool.com/investing/2026/09/14/is-broadcom-stock-in-trouble/) — *Motley Fool 1:05 PM CT*
+### AVGO  $338.96  -2.10%
+- [Prediction: AMD Could Be Closing the Gap in the AI Chip Race](https://247wallst.com/investing/2026/09/15/prediction-amd-could-be-closing-the-gap-in-the-ai-chip-race/) — *24/7 Wall St. 12:00 PM CT*
+- [Prediction: Broadcom Could Join the Next Trillion-Dollar Club](https://247wallst.com/investing/2026/09/15/prediction-broadcom-could-join-the-next-trillion-dollar-club/) — *24/7 Wall St. 11:00 AM CT*
+- [The AI Stock I’m Buying on Repeat (And It Isn’t Nvidia)](https://247wallst.com/investing/2026/09/15/the-ai-stock-im-buying-on-repeat-and-it-isnt-nvidia/) — *24/7 Wall St. 10:15 AM CT*
 
 ---
 ## Market Headlines  *(Reuters · MarketWatch · CNBC)*
-- [Satellite images show extent of damage to Saudi Arabia’s oil pipeline that bypasses Strait of Hormuz](https://www.cnbc.com/2026/09/14/iran-war-saudi-arabia-east-west-pipeline-oil.html) — *CNBC 8:08 AM CT*
-- [Space startups raise big money in funding blitz as Europe aims to challenge U.S. dominance](https://www.cnbc.com/2026/09/14/space-startups-funding-spacex.html) — *CNBC 8:08 AM CT*
-- [Car ownership costs an average of $5,851 a year on top of auto loan payments, analysis finds](https://www.cnbc.com/2026/09/14/car-ownership-costs-insurance-gas-maintenance-auto-loan-payments.html) — *CNBC 7:15 AM CT*
-- [10-year Treasury yield hits 5% before reversing as traders await Fed meeting](https://www.cnbc.com/2026/09/14/10-year-us-treasury-is-closing-in-on-5percent.html) — *CNBC 5:14 PM CT*
-- [The murky AI milestone that has some of the industry’s leading voices increasingly on edge](https://www.marketwatch.com/story/the-murky-ai-milestone-that-has-some-of-the-industrys-leading-voices-increasingly-on-edge-6ffeacc7?mod=mw_rss_topstories) — *MarketWatch 4:57 PM CT*
-- [Not all tech is under fire in Monday's selling, while investors seek refuge in defensive stocks](https://www.cnbc.com/2026/09/14/not-all-tech-is-under-fire-in-monday-selling-investors-seek-out-defensives.html) — *CNBC 4:26 PM CT*
-- [Chip stocks were a safe AI play. Now they’ve turned into the market’s pain trade.](https://www.marketwatch.com/story/chip-stocks-were-a-safe-ai-play-now-theyve-turned-into-the-markets-pain-trade-6029df5e?mod=mw_rss_topstories) — *MarketWatch 4:11 PM CT*
-- [Cadbury cut two months off its supply chain lead time for a key chocolate-bar ingredient in one move](https://www.cnbc.com/2026/09/14/cadbury-supply-chain-lead-time-key-ingredient-chocolate-crumble-malaysia.html) — *CNBC 4:02 AM CT*
-- [I want to pay for every customer at my late husband’s favorite restaurant on his birthday. Am I crazy to do this?](https://www.marketwatch.com/story/on-my-late-husbands-birthday-i-want-to-pay-for-every-customer-at-his-favorite-restaurant-is-this-a-good-idea-a2748ccc?mod=mw_rss_topstories) — *MarketWatch 4:00 PM CT*
-- [Micron, Nvidia and other chip stocks fall after tech leaders call for an AI slowdown. Here’s what to know.](https://www.marketwatch.com/story/how-investors-are-reacting-to-the-ai-pause-calls-from-anthropic-and-other-frontier-labs-f69391b8?mod=mw_rss_topstories) — *MarketWatch 3:56 PM CT*
-- [China says AI CEOs' call for a slowdown is 'fear mongering'](https://www.cnbc.com/2026/09/14/china-ai-slowdown-us-tech-ceos.html) — *CNBC 3:56 PM CT*
-- [Trump agrees to ethics requirements in crypto Clarity Act as GOP seeks Democratic votes](https://www.cnbc.com/2026/09/14/clarity-act-senate-vote-crypto-regulation.html) — *CNBC 3:54 PM CT*
+- [No one and done: The Fed will hike at least two times over the next year, according to CNBC survey](https://www.cnbc.com/2026/09/15/cnbc-fed-survey-two-rate-hikes-seen-ahead.html) — *CNBC 9:02 AM CT*
+- [Children's clothing retailer Carter's is rebranding to appeal to a new generation of parents](https://www.cnbc.com/2026/09/15/carters-kids-clothing-retailer-rebrands.html) — *CNBC 8:19 AM CT*
+- [U.S. confirms for first time it has weapons deployed in space](https://www.cnbc.com/2026/09/15/weapons-in-space-us-air-force-meink.html) — *CNBC 8:13 AM CT*
+- [Santoli: The youthful phase of AI is over. What it means for investors](https://www.cnbc.com/2026/09/15/santoli-the-youthful-phase-of-ai-is-over-what-it-means-for-investors.html) — *CNBC 7:33 AM CT*
+- [Oil’s safety net is fraying as Saudi Arabia races to restart a key pipeline](https://www.cnbc.com/2026/09/15/oil-prices-saudi-arabia-east-west-pipeline-iran.html) — *CNBC 6:25 AM CT*
+- [Treasury yields are hovering above a critical threshold. Here's what it means for stocks](https://www.cnbc.com/2026/09/15/treasury-yields-stocks-investors.html) — *CNBC 6:19 AM CT*
+- [Oil and Treasury yields haven’t moved this closely in seven years. That’s bad news for markets](https://www.cnbc.com/2026/09/15/oil-us-treasurys-stocks-pressure.html) — *CNBC 5:01 AM CT*
+- [Kraft Heinz bets on more flavors for Philadelphia cream cheese as it looks to revive brands](https://www.cnbc.com/2026/09/15/kraft-heinz-new-philadelphia-cream-cheese-flavors.html) — *CNBC 5:00 AM CT*
+- [U.S. auto market predictions for 2030: More hybrids, no Chinese entrants](https://www.cnbc.com/2026/09/15/us-auto-market-predictions-2030-john-murphy.html) — *CNBC 5:00 AM CT*
+- [Bank of America expects third-quarter investment banking fees to fall more than 10%; shares slide](https://www.cnbc.com/2026/09/14/bank-of-america-bac-q3-investment-banking-fees.html) — *CNBC 3:34 PM CT*
+- [Judge blocks Kennedy Center board from returning Trump's name to building](https://www.cnbc.com/2026/09/15/trump-kennedy-center-name-ruling.html) — *CNBC 12:55 PM CT*
+- [U.S. oil tops $106 as Saudi Arabia reportedly cancels some crude cargoes after pipeline closure](https://www.cnbc.com/2026/09/15/oil-extends-gains-following-houthi-strikes-on-saudi-arabia.html) — *CNBC 12:41 PM CT*
 
 ---
-*Generated 2026-09-14 17:38 CT | last 24h | sources: yfinance + Reuters/MarketWatch/CNBC*
+*Generated 2026-09-15 12:59 CT | last 24h | sources: yfinance + Reuters/MarketWatch/CNBC*
