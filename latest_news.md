@@ -1,16 +1,16 @@
-# Market News — Wednesday September 23 2026 — 04:40 PM CT
+# Market News — Thursday September 24 2026 — 01:17 PM CT
 
-**SPY** $767.81  -0.77%  |  **VIX** 15.18  |  **Regime** OK  |  **Portfolio P&L** +$0  |  **Positions** 0
+**SPY** $767.23  -0.01%  |  **VIX** 15.86  |  **Regime** OK  |  **Portfolio P&L** +$0  |  **Positions** 0
 
-## MARKET ALERTS — 14 priority stories
-- [Iran says Trump’s threats a sign of ‘strategic desperation,’ floats conditions for Hormuz reopening](https://www.cnbc.com/2026/09/23/us-iran-war-trump-hormuz.html) — *CNBC 9:47 AM CT*
-- [Texas turning blue may hinge on Democrats harnessing data center opposition](https://www.cnbc.com/2026/09/23/texas-data-centers-election.html) — *CNBC 5:00 AM CT*
-- [AI drone maker hits $6.4 billion valuation as Ukraine war spurs defense tech](https://www.cnbc.com/2026/09/23/ai-drone-maker-ukraine-war-defense-tech.html) — *CNBC 4:47 AM CT*
-- [OpenAI and Anthropic’s CEOs just delivered this message to the U.N. as AI fears swirl](https://www.marketwatch.com/story/the-openai-and-anthropic-ceos-just-delivered-this-message-to-the-u-n-as-ai-fears-swirl-47b0e97b?mod=mw_rss_topstories) — *MarketWatch 4:27 PM CT*
-- [Inflation could cost Republicans the Senate — this chart shows how](https://www.marketwatch.com/story/inflation-could-cost-republicans-the-senate-this-chart-shows-how-e94a49da?mod=mw_rss_topstories) — *MarketWatch 4:13 PM CT*
-- [OpenAI and Anthropic CEOs push for AI cooperation at UN after Trump rebuffs 'globalist scheme' to control it](https://www.cnbc.com/2026/09/23/altman-amodei-un-ai-safety.html) — *CNBC 3:29 PM CT*
-- [McDonald's CEO expects high inflation, lackluster traffic are here to stay](https://www.cnbc.com/2026/09/23/mcdonalds-investor-day-ceo-chris-kempczinksi-inflation.html) — *CNBC 3:23 PM CT*
-- [A rare Microsoft bear warms up to the stock. Here's what changed their mind](https://www.cnbc.com/2026/09/23/a-rare-microsoft-bear-warms-up-to-the-stock-heres-what-changed-their-mind.html) — *CNBC 2:53 PM CT*
+## MARKET ALERTS — 10 priority stories
+- [Family offices double down on stocks and private equity even as inflation spurs worry, Citi survey finds](https://www.cnbc.com/2026/09/24/citi-family-offices-inflation-investing.html) — *CNBC 9:36 AM CT*
+- [Big business warns Trump against diesel export ban in joint letter](https://www.cnbc.com/2026/09/24/chamber-commerce-business-roundtable-trump-diesel-export-ban-iran-war.html) — *CNBC 9:23 AM CT*
+- [OpenAI says agent hacked Australian government website without being told to do so](https://www.cnbc.com/2026/09/24/openai-agent-hacked-australian-government-website-.html) — *CNBC 8:32 AM CT*
+- [Russia ‘truly’ appreciates U.S. invite to G20 summit — but hasn't decided if Putin will go](https://www.cnbc.com/2026/09/24/russia-putin-trump-ukraine-war-zelenskyy.html) — *CNBC 7:36 AM CT*
+- [New York Fed’s Williams says it's 'reasonable' to expect another rate hike by year-end](https://www.cnbc.com/2026/09/24/feds-williams-another-rate-hike-by-year-end.html) — *CNBC 4:06 AM CT*
+- [Analysis: Higher Treasury yields deliver a reality check on a hot, inflation-prone economy](https://www.cnbc.com/2026/09/24/treasury-yields-warsh-bessent-fed-national-debt-analysis.html) — *CNBC 12:56 PM CT*
+- [Philadelphia Fed's Anna Paulson says 'modest' rate moves likely ahead to tame inflation](https://www.cnbc.com/2026/09/24/philadelphia-feds-anna-paulson-says-modest-rate-moves-likely-ahead-to-tame-inflation.html) — *CNBC 12:12 PM CT*
+- [Oracle sends 'force majeure' notice about data center project — stock sinks 4%](https://www.cnbc.com/2026/09/24/oracle-data-center-force-majeure.html) — *CNBC 11:48 AM CT*
 
 
 ---
@@ -21,71 +21,72 @@
 ---
 ## Market Pulse
 
-### SPY  $767.81  -0.77%
-- [S&P 500, Dow, Nasdaq Drop As Yields Spike Amid Calls For More Rate Hikes — AMZN, GOOGL, NFLX, SPCX, RKLB In Focus](https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-nasdaq-drop-as-yields-spike-amid-calls-for-more-rate-hikes-amzn-googl-nflx-spcx-rklb-in-focus/cZM4IxjRBB9) — *Stocktwits 4:23 PM CT*
-- [Vanguard Will Put $1,500 Into Your Kid’s Trump Account Starting in 2027. Here’s What to Buy With It](https://247wallst.com/investing/etf/2026/09/23/vanguard-will-put-1500-into-your-kids-trump-account-starting-in-2027-heres-what-to-buy-with-it/) — *24/7 Wall St. 4:20 PM CT*
-- [Domino’s Pizza Is Down 28% This Year. Is It Time to Sell or Load Up?](https://247wallst.com/investing/2026/09/23/dominos-pizza-is-down-28-this-year-is-it-time-to-sell-or-load-up/) — *24/7 Wall St. 2:23 PM CT*
+### SPY  $767.23  -0.01%
+- [Unusual Machines Jumps 6% as Drone Names Bounce Together; Ondas Climbs 4%, Red Cat Rises 3%](https://247wallst.com/investing/2026/09/24/unusual-machines-jumps-6-as-drone-names-bounce-together-ondas-climbs-4-red-cat-rises-3/) — *24/7 Wall St. 1:02 PM CT*
+- [IonQ Rises 4% as Post-Breakthrough Buying Continues; D-Wave Quantum Gains 3%, Rigetti Adds 2%](https://247wallst.com/investing/2026/09/24/ionq-rises-4-as-post-breakthrough-buying-continues-d-wave-quantum-gains-3-rigetti-adds-2/) — *24/7 Wall St. 12:14 PM CT*
+- [Meta Rises 3% as Its Month-Long Run Extends on Muse Buzz; Reddit Nudges Higher](https://247wallst.com/investing/2026/09/24/meta-rises-3-as-its-month-long-run-extends-on-muse-buzz-reddit-nudges-higher/) — *24/7 Wall St. 11:53 AM CT*
 
-### QQQ  $741.21  -0.95%
-- [Doordash Just Dropped 16% in a Month. Is It Time to Sell or Load Up?](https://247wallst.com/investing/2026/09/23/doordash-just-dropped-16-in-a-month-is-it-time-to-sell-or-load-up/) — *24/7 Wall St. 2:29 PM CT*
-- [S&P 500 Enters Historically Strong Midterm Stretch](https://finance.yahoo.com/markets/stocks/articles/p-500-enters-historically-strong-192728409.html) — *GuruFocus.com 2:27 PM CT*
+### QQQ  $739.92  -0.12%
+- [Exchange-Traded Funds Mixed, US Equities Decline After Midday](https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-mixed-us-171353361.html) — *MT Newswires 12:13 PM CT*
+- [Oracle Drops 6% as Selloff Runs Ahead of the Cloud Group; Snowflake Slips, CoreWeave Barely Budges](https://247wallst.com/investing/2026/09/24/oracle-drops-6-as-selloff-runs-ahead-of-the-cloud-group-snowflake-slips-coreweave-barely-budges/) — *24/7 Wall St. 8:33 AM CT*
+- [Intel Drops 3% as Profit Taking Follows 223% YTD Run; AMD Falls 3%, NVIDIA Slips](https://247wallst.com/investing/2026/09/24/intel-drops-3-as-profit-taking-follows-223-ytd-run-amd-falls-3-nvidia-slips/) — *24/7 Wall St. 8:29 AM CT*
+
+### VIX  $15.86  +4.55%
+- [Oil, Inflation, and Rates: The Triple Threat Driving Bond Yields to Multi-Year Highs](https://www.barrons.com/articles/trerasury-bond-market-yields-c5f675aa?siteid=yhoof2&yptr=yahoo) — *Barrons.com 10:22 AM CT*
+- [Stock Market News for Sep 24, 2026](https://finance.yahoo.com/markets/stocks/articles/stock-market-news-sep-24-123300781.html) — *Zacks 7:33 AM CT*
+
+### SMH  $597.36  -0.53%
+- [Rising Bond Yields, Oil Prices Pressure Wall Street Pre-Bell; Asia, Europe Off](https://finance.yahoo.com/markets/articles/rising-bond-yields-oil-prices-111101722.html) — *MT Newswires 6:11 AM CT*
+- [S&P 500, Dow, Nasdaq Drop As Yields Spike Amid Calls For More Rate Hikes — AMZN, GOOGL, NFLX, SPCX, RKLB In Focus](https://stocktwits.com/news-articles/markets/equity/s-and-p-500-dow-nasdaq-drop-as-yields-spike-amid-calls-for-more-rate-hikes-amzn-googl-nflx-spcx-rklb-in-focus/cZM4IxjRBB9) — *Stocktwits 4:23 PM CT*
 - [AMD Is Up 187% This Year: Take Profits, or Buy More?](https://247wallst.com/investing/2026/09/23/amd-is-up-187-this-year-take-profits-or-buy-more/) — *24/7 Wall St. 2:10 PM CT*
 
-### VIX  $15.18  +6.83%
-- [Stock Market News for Sep 23, 2026](https://finance.yahoo.com/markets/stocks/articles/stock-market-news-sep-23-132700528.html) — *Zacks 8:27 AM CT*
-- [Stock Market Fear Index Signals Calm Despite Trump's Tough Talk](https://www.barrons.com/livecoverage/stock-market-news-today-092326/card/stock-market-fear-index-signals-calm-despite-trump-s-tough-talk-yHJWuYp7KuH46KFXAT4U?siteid=yhoof2&yptr=yahoo) — *Barrons.com 5:37 AM CT*
-
-### SMH  $601.41  -0.77%
-- [This Unstoppable ETF Is Down 12% From Its High -- and History Says Now Is a Smart Time to Invest](https://www.fool.com/investing/2026/09/23/this-unstoppable-etf-is-down-x-from-its-high-and/) — *Motley Fool 10:50 AM CT*
-- [US-Iran, Tech Outlooks Pause Wall Street Pre-Bell, Asia Mixed, Europe Off](https://finance.yahoo.com/markets/articles/us-iran-tech-outlooks-pause-111539245.html) — *MT Newswires 6:15 AM CT*
-
-### XLK  $195.34  -0.58%
+### XLK  $194.17  -0.67%
+- [Nvidia leads tech stocks lower as Treasury yields surge: AlphaCheck](https://finance.yahoo.com/markets/article/nvidia-leads-tech-stocks-lower-as-treasury-yields-surge-alphacheck-133744347.html) — *Yahoo Finance 8:37 AM CT*
+- [Sector Update: Tech Stocks Softer in Afternoon Trading](https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-softer-afternoon-175917528.html) — *MT Newswires 12:59 PM CT*
 - [Sector Update: Tech Stocks Fall Late Afternoon](https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-fall-afternoon-194312684.html) — *MT Newswires 2:43 PM CT*
-- [Sector Update: Tech Stocks Fall Wednesday Afternoon](https://finance.yahoo.com/technology/articles/sector-tech-stocks-fall-wednesday-175128323.html) — *MT Newswires 12:51 PM CT*
-- [Alphabet Drops 4%, Meta Edges Higher as AI Rotation Splits Big Tech; Microsoft Holds Flat](https://247wallst.com/investing/2026/09/23/alphabet-drops-4-meta-edges-higher-as-ai-rotation-splits-big-tech-microsoft-holds-flat/) — *24/7 Wall St. 11:57 AM CT*
 
 ---
 ## AI / Semiconductor Sector
 
-### NVDA  $225.51  -1.33%
+### NVDA  $223.79  -0.56%
+- [Nvidia's valuation is falling, but it might not be a warning sign](https://finance.yahoo.com/video/nvidias-valuation-falling-might-not-140207364.html) — *Yahoo Finance Video 9:02 AM CT*
+- [Nebius Stock Soars 8% as BNP Paribas Delivers Massive Price Target Hike](https://finance.yahoo.com/markets/stocks/articles/nebius-stock-soars-8-bnp-180550903.html) — *GuruFocus.com 1:05 PM CT*
+- [Tesla's Q3 Sales Report Comes Out Oct. 2. Here Are 2 Surprises It Might Reveal.](https://www.fool.com/investing/2026/09/24/tesla-q3-sales-report-oct-2-surprises/) — *Motley Fool 12:56 PM CT*
+
+### AMD  $620.1  +0.91%
 - [How Qualcomm is targeting agentic AI with its 2 new smartphone chips](https://finance.yahoo.com/video/qualcomm-targeting-agentic-ai-2-195058732.html) — *Yahoo Finance Video 2:50 PM CT*
-- [Nasdaq climbs higher, McDonald's investor day updates](https://finance.yahoo.com/video/nasdaq-climbs-higher-mcdonalds-investor-day-updates-141449878.html) — *Yahoo Finance Video 9:14 AM CT*
-- [The AI panic, tech concentration, and Nvidia windfalls](https://finance.yahoo.com/video/ai-panic-tech-concentration-nvidia-100000476.html) — *Yahoo Finance Video 5:00 AM CT*
+- [Arm Drops 3.3% as More AI Cores Test Royalty Economics](https://finance.yahoo.com/technology/ai/articles/arm-drops-3-3-more-173604154.html) — *GuruFocus.com 12:36 PM CT*
+- [AMD Move Lower as $1 Trillion Raises the Execution Bar](https://finance.yahoo.com/markets/stocks/articles/amd-move-lower-1-trillion-173239552.html) — *GuruFocus.com 12:32 PM CT*
 
-### AMD  $614.61  -1.42%
-- [Nasdaq rally hasn't stopped these tech stocks from flashing warning signs](https://finance.yahoo.com/markets/article/nasdaq-rally-hasnt-stopped-these-tech-stocks-from-flashing-warning-signs-141710781.html) — *Yahoo Finance 9:17 AM CT*
-- [Chip Stocks Drop After Six-Day Climb For SOX Index](https://www.investors.com/news/technology/chip-stocks-drop-after-six-day-climb-for-sox-index/?src=A00220&yptr=yahoo) — *Investor's Business Daily 3:25 PM CT*
-- [Marvell Stock Ran, But Did It Tell You When?](https://www.trefis.com/articles/616283/marvell-stock-ran-but-did-it-tell-you-when/2026-09-23) — *Trefis 2:05 PM CT*
+### TSM  $448.59  +0.45%
+- [TSMC Slips 1% as Packaging Moves Toward Supplier Validation](https://finance.yahoo.com/technology/articles/tsmc-slips-1-packaging-moves-173346756.html) — *GuruFocus.com 12:33 PM CT*
+- [Trump, XI, and the Future of the AI Trade](https://www.barrons.com/articles/trump-xi-summit-ai-regulation-5f0afd04?siteid=yhoof2&yptr=yahoo) — *Barrons.com 10:37 AM CT*
+- [Taiwan Semiconductor (TSM): The Key Enabler of AI Chips and a Durable Long-Term Share Gainer](https://finance.yahoo.com/technology/ai/articles/taiwan-semiconductor-tsm-key-enabler-143557399.html) — *Insider Monkey 9:35 AM CT*
 
-### TSM  $446.57  -1.07%
-- [Not Intel. Not Nvidia. This Chip Giant Holds an Unbreakable Moat in Next-Gen Data Centers.](https://www.fool.com/investing/2026/09/23/not-intel-not-nvidia-this-chip-giant-holds-an/) — *Motley Fool 12:35 PM CT*
-- [CPUs Are Hot Again: AMD’s Lisa Su Says the Real Demand Wave Hasn’t Even Started](https://www.barchart.com/story/news/4758632/cpus-are-hot-again-amds-lisa-su-says-the-real-demand-wave-hasnt-even-started) — *Barchart 10:10 AM CT*
-- [Intel’s Price Targets Reveal Just How Much Is Riding on Its Turnaround](https://247wallst.com/investing/2026/09/23/intels-price-targets-reveal-just-how-much-is-riding-on-its-turnaround/) — *24/7 Wall St. 9:00 AM CT*
+### MRVL  $257.88  -1.06%
+- [Marvell Just Unveiled a 2nm Breakthrough for AI Data Centers](https://finance.yahoo.com/technology/ai/articles/marvell-just-unveiled-2nm-breakthrough-145240948.html) — *GuruFocus.com 9:52 AM CT*
+- [Qualcomm vs. Marvell: Which Underdog AI Chip Stock Has More Upside From Here?](https://www.fool.com/investing/2026/09/24/qualcomm-vs-marvell-underdog-ai-chip-stock-upside/) — *Motley Fool 7:54 AM CT*
+- [Marvell and 2 More Stocks to Play the AI Data-Center Boom](https://www.barrons.com/articles/buy-marvell-stock-on-semi-semtech-ai-data-center-935843a8?siteid=yhoof2&yptr=yahoo) — *Barrons.com 3:16 PM CT*
 
-### MRVL  $260.9  -0.95%
-- [Wall Street Picks 3 Chip Stock Winners for the AI Boom](https://finance.yahoo.com/technology/ai/articles/wall-street-picks-3-chip-191426459.html) — *GuruFocus.com 2:14 PM CT*
-- [Trump Downplayed AI Safety Concerns, but His Investment Portfolio Bought Cybersecurity Stocks](https://www.barrons.com/articles/trump-microsoft-amazon-oracle-stock-ai-trade-6b72c193?siteid=yhoof2&yptr=yahoo) — *Barrons.com 1:41 PM CT*
-- [Marvell's AI Infrastructure Bet Gets a Fresh Wall Street Vote](https://finance.yahoo.com/technology/ai/articles/marvells-ai-infrastructure-bet-gets-170826901.html) — *GuruFocus.com 12:08 PM CT*
-
-### AVGO  $354.99  -3.02%
-- [Nvidia Stock Falls. It Has a Google AI Chip Conundrum.](https://www.barrons.com/articles/nvidia-stock-price-ai-chips-google-2c231d8d?siteid=yhoof2&yptr=yahoo) — *Barrons.com 1:26 PM CT*
-- [Broadcom Just Made a Move That Further Solidifies My Decision to Buy on Repeat](https://247wallst.com/investing/2026/09/23/broadcom-just-made-a-move-that-further-solidifies-my-decision-to-buy-on-repeat/) — *24/7 Wall St. 10:45 AM CT*
-- [This Magnificent Seven Stock Could Turn $10,000 Into $20,000 by 2027](https://247wallst.com/investing/2026/09/23/this-magnificent-seven-stock-could-turn-10000-into-20000-by-2027/) — *24/7 Wall St. 10:00 AM CT*
+### AVGO  $349.64  -1.60%
+- [Wall St slips as Middle East escalations lifts oil; Trump-Xi talks in focus](https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-fall-middle-102658799.html) — *Reuters 11:53 AM CT*
+- [Venture Capital and PE: A California Perspective on Governance: 2nd LA CorpGov Forum](https://finance.yahoo.com/small-business/articles/venture-capital-pe-california-perspective-160843948.html) — *CorpGov.com 11:08 AM CT*
+- [AMD's Six-Day Rally Finally Hits a Pause](https://finance.yahoo.com/markets/stocks/articles/amds-six-day-rally-finally-122023912.html) — *GuruFocus.com 7:20 AM CT*
 
 ---
 ## Market Headlines  *(Reuters · MarketWatch · CNBC)*
-- [72% of Americans would slow financial progress to enjoy life now, SoFi survey finds](https://www.cnbc.com/2026/09/23/lifemaxxing-financial-goals-spending-saving.html) — *CNBC 8:19 AM CT*
-- [Qantas to start selling tickets next year for its New York to Sydney nonstop flight](https://www.cnbc.com/2026/09/22/qantas-flight-new-york-sydney-nonstop.html) — *CNBC 6:00 PM CT*
-- [Trump-Xi meeting: Why China's self-sufficiency changes the calculus](https://www.cnbc.com/2026/09/23/trump-xi-meeting-why-chinas-self-sufficiency-changes-the-calculus.html) — *CNBC 4:26 PM CT*
+- [Here's what happens to the economy when Treasury yields soar like they are now](https://www.cnbc.com/2026/09/23/what-happens-to-the-economy-when-treasury-yields-soar.html) — *CNBC 9:37 AM CT*
+- [China confirms first AI talks with U.S. have taken place, hints at trade truce extension](https://www.cnbc.com/2026/09/24/china-confirms-first-ai-talks-with-us-have-taken-place-hints-at-trade-truce-extension.html) — *CNBC 9:16 AM CT*
+- [America’s Asian allies want a Trump-Xi truce — but not at their expense](https://www.cnbc.com/2026/09/24/uss-asian-allies-want-a-trump-xi-truce-but-not-at-their-expense.html) — *CNBC 8:56 PM CT*
+- [Meta's standoff with Amazon over Muse could be a sign of things to come](https://www.cnbc.com/2026/09/23/metas-standoff-with-amazon-over-muse-comes-ahead-of-meta-connect.html) — *CNBC 8:49 AM CT*
+- [Starbucks to shutter about 250 stores in latest round of cafe closures](https://www.cnbc.com/2026/09/24/starbucks-to-close-250-stores.html) — *CNBC 7:40 AM CT*
+- [Lowe's is launching a drone delivery service in partnership with DoorDash, Alphabet](https://www.cnbc.com/2026/09/24/lowes-drones-delivery-doordash-alphabet.html) — *CNBC 7:00 AM CT*
+- [Cyber startup Island hits $6.4 billion valuation in new round as AI attacks fuel spending wave](https://www.cnbc.com/2026/09/24/island-ai-cybersecurity-funding.html) — *CNBC 5:00 AM CT*
+- [Stephen Curry says WNBA needs to keep conversations about the league 'focused on basketball'](https://www.cnbc.com/2026/09/24/stephen-curry-wants-conversation-about-wnba-to-focus-on-basketball.html) — *CNBC 5:00 AM CT*
 - [As Trump and Xi meet, Chinese automakers could be a Pandora's box for U.S. auto industry](https://www.cnbc.com/2026/09/23/trump-xi-chinese-automakers-us-access.html) — *CNBC 4:25 PM CT*
-- [Trump faces Xi as strains with allies complicate U.S. pressure on China](https://www.cnbc.com/2026/09/23/trump-xi-china-summit-allies.html) — *CNBC 4:25 PM CT*
-- [Judge hears arguments on Trump White House media ban, hopes to rule 'soon'](https://www.cnbc.com/2026/09/23/trump-media-ban-court-hearing.html) — *CNBC 4:22 PM CT*
-- [Here's what happens to the economy when Treasury yields soar like they are now](https://www.cnbc.com/2026/09/23/what-happens-to-the-economy-when-treasury-yields-soar.html) — *CNBC 4:11 PM CT*
-- [Palantir’s stock sees its highest close of the year, sealing a dramatic comeback](https://www.marketwatch.com/story/palantirs-stock-is-heading-for-its-highest-close-of-the-year-in-a-dramatic-comeback-a5fd451d?mod=mw_rss_topstories) — *MarketWatch 4:08 PM CT*
-- [Meta's standoff with Amazon over Muse could be a sign of things to come](https://www.cnbc.com/2026/09/23/metas-standoff-with-amazon-over-muse-comes-ahead-of-meta-connect.html) — *CNBC 4:04 PM CT*
-- [Fewer stocks are carrying the market than at any time since the dot-com peak](https://www.marketwatch.com/story/fewer-stocks-are-carrying-the-market-than-at-any-time-since-the-dot-com-peak-4033c4bb?mod=mw_rss_topstories) — *MarketWatch 3:45 PM CT*
-- [I’m in my 50s. My mother died from Alzheimer’s. Do I need long-term-care insurance?](https://www.marketwatch.com/story/im-in-my-50s-my-mother-died-from-alzheimers-do-i-need-long-term-insurance-14d58069?mod=mw_rss_topstories) — *MarketWatch 3:40 PM CT*
-- [Surging Treasury yields, big bond losses offer sizable tax savings opportunity to investors](https://www.cnbc.com/2026/09/23/bond-yields-taxes-capital-gains-losses.html) — *CNBC 3:39 PM CT*
+- [Here are 3 alternatives for investors looking to dodge the bond-market beatdown](https://www.marketwatch.com/story/here-are-3-alternatives-for-investors-looking-to-dodge-the-bond-market-beatdown-ec8fda43?mod=mw_rss_topstories) — *MarketWatch 1:07 PM CT*
+- [Pete Hegseth reports at least $3.1 million in cash, investments and Bitcoin](https://www.cnbc.com/2026/09/24/pete-hegseth-financial-disclosure-cash-investments-bitcoin.html) — *CNBC 1:05 PM CT*
+- [White House allows blocked reporters in after judge lifts Trump ban](https://www.cnbc.com/2026/09/24/judge-lifts-trumps-white-house-ban-on-cnn-ms-now-and-politico.html) — *CNBC 1:02 PM CT*
 
 ---
-*Generated 2026-09-23 16:40 CT | last 24h | sources: yfinance + Reuters/MarketWatch/CNBC*
+*Generated 2026-09-24 13:17 CT | last 24h | sources: yfinance + Reuters/MarketWatch/CNBC*
