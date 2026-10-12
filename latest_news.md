@@ -1,16 +1,16 @@
-# Market News — Friday October 09 2026 — 06:24 PM CT
+# Market News — Monday October 12 2026 — 04:59 PM CT
 
-**SPY** $778.57  +0.53%  |  **VIX** 14.84  |  **Regime** OK  |  **Portfolio P&L** +$0  |  **Positions** 0
+**SPY** $778.1  -0.06%  |  **VIX** 15.21  |  **Regime** OK  |  **Portfolio P&L** +$0  |  **Positions** 0
 
-## MARKET ALERTS — 8 priority stories
-- [South Africa lawyer 'Navi' Pillay wins Nobel Peace Prize for efforts to prosecute war crimes, genocide](https://www.cnbc.com/2026/10/09/nobel-peace-prize-navanethem-navi-pillay-winner.html) — *CNBC 9:12 AM CT*
-- [Pilot killed in attacks by Iran-backed Houthis on Riyadh airport; Saudi-led coalition vows 'firm' response](https://www.cnbc.com/2026/10/09/saudi-us-iran-war-trump-hormuz.html) — *CNBC 6:51 AM CT*
-- [Trump taps Russia to boost global diesel supplies ahead of midterms. It may be ‘too little, too late,’ says strategist.](https://www.marketwatch.com/story/trump-taps-russia-to-boost-global-diesel-supplies-ahead-of-midterms-it-may-be-too-little-too-late-says-strategist-8c789030?mod=mw_rss_topstories) — *MarketWatch 5:00 PM CT*
-- [AI chip stocks wobble even as investors get clarity on a key OpenAI issue](https://www.marketwatch.com/story/nvidia-and-micron-shares-bounce-as-investors-get-clarity-on-a-key-openai-matter-ba76ed20?mod=mw_rss_topstories) — *MarketWatch 4:27 PM CT*
-- [Junk bonds are 'flashing yellow.' Watch these warning signs](https://www.cnbc.com/2026/10/09/junk-bonds-are-flashing-yellow-watch-these-warning-signs.html) — *CNBC 3:51 PM CT*
-- [Trump strikes deal with Putin to supply Russian diesel to U.S. and global markets](https://www.cnbc.com/2026/10/09/trump-putin-russian-diesel-us-global-markets.html) — *CNBC 3:20 PM CT*
-- [Americans' debt problems are flashing a warning not seen since the Great Recession](https://www.cnbc.com/2026/10/09/american-debt-delinquency.html) — *CNBC 2:18 PM CT*
-- [Wall Street is pitching data centers as a major real estate bet. The risks are piling up](https://www.cnbc.com/2026/10/09/ai-data-centers-investing.html) — *CNBC 10:08 AM CT*
+## MARKET ALERTS — 11 priority stories
+- [Starbucks says it is not buying Chipotle after takeover speculation](https://www.cnbc.com/2026/10/12/starbucks-denies-chipotle-takeover.html) — *CNBC 9:22 AM CT*
+- [Nobel prize in economics awarded to Robert E. Hall and Michael Woodford](https://www.cnbc.com/2026/10/12/nobel-economics-prize-winner-woodford-hall.html) — *CNBC 9:09 AM CT*
+- [Microsoft to rely more on homegrown AI chips, reducing dependence on Nvidia](https://www.cnbc.com/2026/10/12/microsoft-will-mainly-use-its-maia-chips-for-ai-inference.html) — *CNBC 9:04 AM CT*
+- [Intel, Broadcom CEOs warn capital crunch could become AI's biggest bottleneck](https://www.cnbc.com/2026/10/12/intel-broadcom-ceos-warn-capital-crunch-could-become-ai-bottleneck.html) — *CNBC 8:04 AM CT*
+- [Saudi Arabia says drones and missiles still targeting kingdom as Iran-backed Houthis step up attacks](https://www.cnbc.com/2026/10/12/us-iran-war-trump-hormuz-saudi.html) — *CNBC 8:01 AM CT*
+- [‘The prospectus looks impressive’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?](https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories) — *MarketWatch 3:45 PM CT*
+- [Earnings beats are now the norm. What the stock market needs to keep rallying](https://www.cnbc.com/2026/10/07/here-comes-third-quarter-earnings-season-booming-profits-could-propel-the-sp-500-to-new-heights.html) — *CNBC 3:35 PM CT*
+- [Trump defends Russia diesel deal after bipartisan pushback: 'I made the right choice'](https://www.cnbc.com/2026/10/12/trump-russia-diesel-putin.html) — *CNBC 1:32 PM CT*
 
 
 ---
@@ -21,15 +21,15 @@
 ---
 ## Market Pulse
 
-### SPY  $778.57  +0.53%
+### SPY  $778.1  -0.06%
 
-### QQQ  $751.27  +0.49%
+### QQQ  $746.04  -0.70%
 
-### VIX  $14.84  -3.76%
+### VIX  $15.21  +2.49%
 
-### SMH  $603.33  -0.65%
+### SMH  $590.99  -2.05%
 
-### XLK  $198.78  +0.51%
+### XLK  $196.36  -1.23%
 
 ---
 ## AI / Semiconductor Sector
@@ -38,18 +38,18 @@
 
 ---
 ## Market Headlines  *(Reuters · MarketWatch · CNBC)*
-- [NBA Commissioner Adam Silver says he still intends to get a deal done with EuroLeague as he plans launch of NBA Europe](https://www.cnbc.com/2026/10/09/nba-commissioner-adam-silver-says-euroleague-deal-still-on-table.html) — *CNBC 9:50 AM CT*
-- [Treasury's Bessent hires Trump's controversial former Fed board pick, Judy Shelton, as advisor](https://www.cnbc.com/2026/10/09/judy-shelton-scott-bessent-treasury.html) — *CNBC 8:09 AM CT*
-- [Tech stocks' resilience has puzzled investors. The options market could hold some clues](https://www.cnbc.com/2026/10/09/tech-stocks-resilience-has-puzzled-investors-the-options-market-could-hold-some-clues.html) — *CNBC 8:07 AM CT*
-- [Living with Mom and trading on margin. The regular investor gets in on Wall Street's record stock borrowing binge](https://www.cnbc.com/2026/10/09/margin-debt-stock-market-risk.html) — *CNBC 8:03 AM CT*
-- [How to navigate new tax rules in year-end planning, according to top-ranked advisors](https://www.cnbc.com/2026/10/09/year-end-tax-strategies-2026.html) — *CNBC 7:15 AM CT*
-- [Blockchain.com seeks U.S. approval for prediction markets, crypto derivatives trading](https://www.cnbc.com/2026/10/09/blockchain-com-cftc-prediction-markets.html) — *CNBC 7:01 AM CT*
-- [Delta CEO: 'Safety is going to make the call' on launching Saudi Arabia flight](https://www.cnbc.com/2026/10/09/delta-riyadh-flight-safety-houthi-attacks.html) — *CNBC 6:57 AM CT*
-- [Nobel winner Krugman says France may have become 'too big to save'](https://www.cnbc.com/2026/10/09/nobel-krugman-france-debt.html) — *CNBC 6:33 AM CT*
-- [My brother-in-law convinced his parents to sign over their home and life savings to buy a $3 million compound. Do I intervene?](https://www.marketwatch.com/story/my-brother-in-law-convinced-his-parents-to-sign-over-their-home-and-savings-to-buy-a-3-million-compound-do-i-intervene-03fb96b7?mod=mw_rss_topstories) — *MarketWatch 6:15 PM CT*
-- [How to provide guaranteed retirement income while paying no commissions](https://www.marketwatch.com/story/how-to-provide-guaranteed-retirement-income-while-paying-no-commissions-b2085511?mod=mw_rss_topstories) — *MarketWatch 5:41 PM CT*
-- [India calls JD Vance's comments about immigrants 'deeply offensive'](https://www.cnbc.com/2026/10/09/india-us-immigration-h1b-visa.html) — *CNBC 5:38 AM CT*
-- [Cramer’s week ahead: Earnings kick off as banks and chipmakers face big tests](https://www.cnbc.com/2026/10/09/jim-cramer-week-ahead-bank-earnings-ai-chips.html) — *CNBC 5:22 PM CT*
+- [McDonald's is leaning into chicken and drinks to grow. New data shows it could be a tough task](https://www.cnbc.com/2026/10/12/mcdonalds-chicken-beverage-growth.html) — *CNBC 9:56 AM CT*
+- [Vance says Microsoft replaced laid-off workers with foreign hires. Here’s what the visa data shows](https://www.cnbc.com/2026/10/10/vance-microsoft-h1b-layoffs-visa-data.html) — *CNBC 9:27 AM CT*
+- [Banks are set to report this week. Here's what the options market expects](https://www.cnbc.com/2026/10/12/banks-are-set-to-report-this-week-heres-what-the-options-market-expects.html) — *CNBC 8:27 AM CT*
+- [Health insurance open enrollment: Use this 'algorithm' to pick a plan, financial advisor says](https://www.cnbc.com/2026/10/12/health-insurance-open-enrollment.html) — *CNBC 7:15 AM CT*
+- [Judge orders Trump administration to immediately stop taxpayer-funded TV ads](https://www.cnbc.com/2026/10/11/trump-ads-dhs-judge-order.html) — *CNBC 6:04 AM CT*
+- [AI FOMO driving some family offices into tech investments, survey suggests](https://www.cnbc.com/2026/10/12/ai-fomo-driving-some-family-offices-to-ai-investments-survey-suggests.html) — *CNBC 5:25 AM CT*
+- [Trump Media advisor Katie Zacharia named White House press secretary](https://www.cnbc.com/2026/10/11/trump-katie-zacharia-white-house-press-secretary.html) — *CNBC 5:16 PM CT*
+- [Trump 'not happy' with Kimberly Guilfoyle, weighs firing her as ambassador to Greece](https://www.cnbc.com/2026/10/12/trump-kimberly-guilfoyle-ambassador.html) — *CNBC 4:53 PM CT*
+- [Nvidia and AMD shares fall as new AI announcements fail to re-energize investors](https://www.marketwatch.com/story/nvidia-and-amd-shares-fall-as-new-ai-announcements-fail-to-re-energize-investors-4a0dd766?mod=mw_rss_topstories) — *MarketWatch 4:19 PM CT*
+- [Elon Musk gives $276 million to Republican groups, becomes biggest known 2026 midterm donor](https://www.cnbc.com/2026/10/12/elon-musk-republican-donations-2026-midterm-election.html) — *CNBC 4:17 PM CT*
+- [‘The house is worth $925,000’: My sister moved in with our mother, 78, and says she deserves the family home. Is she right?](https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories) — *MarketWatch 4:16 PM CT*
+- [Here's a calculator to explain why Cramer always stays invested. Plug in your own numbers, too](https://www.cnbc.com/investingclub/2026/10/12/heres-a-calculator-to-explain-why-cramer-always-stays-invested.html) — *CNBC 4:02 PM CT*
 
 ---
-*Generated 2026-10-09 18:24 CT | last 24h | sources: yfinance + Reuters/MarketWatch/CNBC*
+*Generated 2026-10-12 16:59 CT | last 24h | sources: yfinance + Reuters/MarketWatch/CNBC*
