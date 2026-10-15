@@ -1,16 +1,16 @@
-# Market News — Wednesday October 14 2026 — 04:52 PM CT
+# Market News — Thursday October 15 2026 — 01:04 PM CT
 
-**SPY** $769.6  -1.03%  |  **VIX** 16.87  |  **Regime** OK  |  **Portfolio P&L** +$0  |  **Positions** 0
+**SPY** $770.41  +0.43%  |  **VIX** 16.56  |  **Regime** OK  |  **Portfolio P&L** +$0  |  **Positions** 0
 
-## MARKET ALERTS — 14 priority stories
-- [Here's the inflation breakdown for September 2026 — in one chart](https://www.cnbc.com/2026/10/14/cpi-inflation-breakdown-september-2026.html) — *CNBC 9:56 AM CT*
-- [FBI arrests Saudi OpenAI employee who allegedly planted recording device in conference room](https://www.cnbc.com/2026/10/13/openai-employee-arrested-recording-device.html) — *CNBC 8:25 AM CT*
-- [The COLA wars are coming for Social Security](https://www.marketwatch.com/story/the-cola-wars-are-coming-for-social-security-10c177f1?mod=mw_rss_topstories) — *MarketWatch 4:19 PM CT*
-- [OpenAI bugging suspect booked one-way ticket to Saudi Arabia with family before arrest](https://www.cnbc.com/2026/10/14/openai-alfozan-recording-raed-ventures.html) — *CNBC 4:18 PM CT*
-- [OpenAI sued by 8 states over ChatGPT safety concerns](https://www.cnbc.com/2026/10/14/openai-sued-by-8-states-over-chatgpt-safety-concerns-.html) — *CNBC 4:09 PM CT*
-- [Why Dell’s stock was one of the S&P 500’s biggest laggards on Wednesday](https://www.marketwatch.com/story/why-dells-stock-was-one-of-the-s-p-500s-biggest-laggards-on-wednesday-70ce279e?mod=mw_rss_topstories) — *MarketWatch 3:21 PM CT*
-- [Bank of America shares drop after third-quarter revenue miss and regulatory penalty](https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html) — *CNBC 3:20 PM CT*
-- [Dell stock plunges 11%, leading data center sell-off as fears mount about 'enterprise AI timing'](https://www.cnbc.com/2026/10/14/dell-stock-barclays-enterprise-ai.html) — *CNBC 3:19 PM CT*
+## MARKET ALERTS — 10 priority stories
+- [U.S. reportedly considers use of 'mother of all bombs' as Iran vows to fight on](https://www.cnbc.com/2026/10/15/us-iran-war-trump-hormuz.html) — *CNBC 9:51 AM CT*
+- [AWS, Anthropic race to deploy army of specialized engineers key to proving AI spending will pay off](https://www.cnbc.com/2026/10/15/aws-anthropic-racing-to-deploy-army-of-specialized-ai-engineers.html) — *CNBC 9:10 AM CT*
+- [U.S. Treasury dismisses IMF debt warning and 'messy' forecasting](https://www.cnbc.com/2026/10/15/zervos-imf-us-debt-warning.html) — *CNBC 8:42 AM CT*
+- [Ukraine to resume strikes on Russian refineries, shattering hopes of an 'energy ceasefire'](https://www.cnbc.com/2026/10/15/ukraine-russia-energy-ceasefire-zelenskyy.html) — *CNBC 5:13 AM CT*
+- [Equal-weight failed. Now tech stocks look shaky again. So what should you do about S&P 500 risk?](https://www.cnbc.com/2026/10/15/spx-sp500-tech-stocks-invest.html) — *CNBC 1:02 PM CT*
+- [‘I like the idea of a big return’: My financial adviser wants me to invest $350,000 in a UAE data center. Is this risky?](https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories) — *MarketWatch 12:15 PM CT*
+- [Did this year’s COLA beat inflation? Here’s how spending by American seniors stacks up so far in 2026.](https://www.marketwatch.com/story/did-this-years-cola-beat-inflation-heres-how-spending-by-american-seniors-stacks-up-so-far-in-2026-917c400c?mod=mw_rss_topstories) — *MarketWatch 12:07 PM CT*
+- [The COLA wars are coming for Social Security](https://www.marketwatch.com/story/the-cola-wars-are-coming-for-social-security-10c177f1?mod=mw_rss_topstories) — *MarketWatch 12:07 PM CT*
 
 
 ---
@@ -21,15 +21,15 @@
 ---
 ## Market Pulse
 
-### SPY  $769.6  -1.03%
+### SPY  $770.41  +0.43%
 
-### QQQ  $728.95  -1.97%
+### QQQ  $724.65  +0.32%
 
-### VIX  $16.87  +10.48%
+### VIX  $16.56  -1.72%
 
-### SMH  $564.74  -2.02%
+### SMH  $552.91  -0.29%
 
-### XLK  $190.43  -2.92%
+### XLK  $187.91  -0.18%
 
 ---
 ## AI / Semiconductor Sector
@@ -38,18 +38,18 @@
 
 ---
 ## Market Headlines  *(Reuters · MarketWatch · CNBC)*
-- [South Texas Latino voters who flipped for Trump in 2024 are up for grabs in 2026](https://www.cnbc.com/2026/10/14/texas-latino-voters-midterm-election-trump.html) — *CNBC 9:25 AM CT*
-- [Delta's business-class revamp: New seats, menus, plates and more Porsches](https://www.cnbc.com/2026/10/14/delta-one-revamp.html) — *CNBC 7:10 AM CT*
-- [Tech giants race to get AI gadgets on shelves for holiday rush](https://www.cnbc.com/2026/10/14/tech-giants-race-to-get-ai-gadgets-on-shelves-for-holiday-rush.html) — *CNBC 6:00 AM CT*
-- [Bank of America adds a profit miss to the misery of a $1.2 billion government fine](https://www.marketwatch.com/story/bank-of-america-adds-a-profit-miss-to-the-misery-of-a-1-2-billion-government-fine-d4420bfa?mod=mw_rss_topstories) — *MarketWatch 4:40 PM CT*
-- [Traders pile into 'bubble puts' on CoreWeave as neocloud stocks plunge](https://www.cnbc.com/2026/10/14/coreweave-put-options-ai-trade.html) — *CNBC 4:19 PM CT*
-- [CoreWeave’s AI bonds tumble, raising red flags for the wider market](https://www.marketwatch.com/story/coreweave-sparks-worry-about-broader-credit-market-stress-as-its-bonds-tumble-887458e4?mod=mw_rss_topstories) — *MarketWatch 4:18 PM CT*
-- [Trump to appeal order blocking White House from banning MS NOW, CNN and Politico](https://www.cnbc.com/2026/10/14/trump-appeals-white-house-ban-judge.html) — *CNBC 4:18 PM CT*
-- [BlackRock now manages assets equal to half the size of the U.S. economy after 15% growth](https://www.marketwatch.com/story/blackrock-now-has-assets-equal-to-half-the-size-of-the-u-s-economy-after-15-growth-c382b289?mod=mw_rss_topstories) — *MarketWatch 3:57 PM CT*
-- [CoreWeave shares tumble as bond yields near 15% on concern about AI borrowing binge](https://www.cnbc.com/2026/10/14/coreweave-stock-bond-yields-ai-debt.html) — *CNBC 3:46 PM CT*
-- [Meet the baby chasers — they’re transforming the housing market and solving the childcare crisis](https://www.marketwatch.com/story/meet-the-baby-chasers-theyre-transforming-the-housing-market-and-solving-the-childcare-crisis-574b5bcc?mod=mw_rss_topstories) — *MarketWatch 3:39 PM CT*
-- [Anduril employee tender offer would value the defense tech startup at $90 billion](https://www.cnbc.com/2026/10/14/anduril-tender-offer-valuation.html) — *CNBC 3:24 PM CT*
-- [Morgan Stanley tops estimates as equities trading revenue beats expectations by $909 million](https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html) — *CNBC 3:22 PM CT*
+- [Southwest is overhauling its frequent flyer program. Here's what's changing](https://www.cnbc.com/2026/10/15/southwest-rapid-rewards-tiers-a-list.html) — *CNBC 9:25 AM CT*
+- [Amazon launches new Bee 'personal AI' devices that listen to conversations](https://www.cnbc.com/2026/10/15/amazon-bee-frontier-eclipse-ai-devices.html) — *CNBC 8:50 AM CT*
+- [You can take it with you: Five tax tips before selling your business](https://www.cnbc.com/2026/10/15/you-can-take-it-with-you-five-tax-tips-for-selling-your-business.html) — *CNBC 8:24 AM CT*
+- [Nvidia CEO Jensen Huang urges U.S.-China dialogue on 'potentially dangerous' AI](https://www.cnbc.com/2026/10/15/jensen-huang-nvidia-china-ai.html) — *CNBC 7:17 AM CT*
+- [Memory stocks are getting hammered. China and a 2029 oversupply are the big worries](https://www.cnbc.com/2026/10/15/memory-stocks-micron-sk-hynix-samsung-china.html) — *CNBC 7:15 AM CT*
+- [Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge](https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html) — *CNBC 7:11 AM CT*
+- [Cboe to expand options trading hours for major stocks and ETFs](https://www.cnbc.com/2026/10/15/cboe-stock-etf-options-extended-hours.html) — *CNBC 7:01 AM CT*
+- [What to know about Starshield, SpaceX's military-focused Starlink service](https://www.cnbc.com/2026/10/15/what-is-starshield-spacex-starlink-military.html) — *CNBC 6:54 AM CT*
+- [How lower fuel economy targets could boost pickups and V-8 engines](https://www.cnbc.com/2026/10/15/cafe-fuel-economy-v8-trucks.html) — *CNBC 6:30 AM CT*
+- [U.S. sues California in fight over checking citizenship of mail voters](https://www.cnbc.com/2026/10/15/california-mail-ballots-voting-lawsuit.html) — *CNBC 12:55 PM CT*
+- [Anduril CEO defends Trump administration contracts: 'We've done incredibly well under Biden'](https://www.cnbc.com/2026/10/15/anduril-ceo-contracts-palmer-luckey-ethics.html) — *CNBC 12:54 PM CT*
+- [Who gets to have 'good debt'? A sociologist, theologian, philosopher and other experts weigh in](https://www.cnbc.com/2026/10/15/good-debt-access.html) — *CNBC 12:54 PM CT*
 
 ---
-*Generated 2026-10-14 16:52 CT | last 24h | sources: yfinance + Reuters/MarketWatch/CNBC*
+*Generated 2026-10-15 13:04 CT | last 24h | sources: yfinance + Reuters/MarketWatch/CNBC*
