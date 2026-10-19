@@ -1,16 +1,16 @@
-# Market News — Friday October 16 2026 — 03:37 PM CT
+# Market News — Monday October 19 2026 — 02:41 PM CT
 
-**SPY** $763.25  -0.92%  |  **VIX** 19.99  |  **Regime** OK  |  **Portfolio P&L** +$0  |  **Positions** 0
+**SPY** $768.22  +0.91%  |  **VIX** 18.11  |  **Regime** OK  |  **Portfolio P&L** +$0  |  **Positions** 0
 
-## MARKET ALERTS — 12 priority stories
-- [Here's how the CoreWeave sell-off is affecting OpenAI vs. Anthropic valuations](https://www.cnbc.com/2026/10/16/coreweave-openai-anthropic-perps.html) — *CNBC 8:43 AM CT*
-- [Fed's Warsh withholds rate signal, praises recent global tightening](https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html) — *CNBC 7:36 AM CT*
-- [Trump says he won't use nuclear weapons or send ground troops to Iran](https://www.cnbc.com/2026/10/16/us-iran-war-trump-hormuz.html) — *CNBC 4:46 AM CT*
-- [Brent oil touches $110 as Iran escalates Hormuz attacks, Ukraine vows to hit Russian refineries](https://www.cnbc.com/2026/10/16/oil-price-today-iran-strait-hormuz-ukraine-russia.html) — *CNBC 3:02 PM CT*
-- [Your Social Security check will rise an average of $75 a month — will it be able to keep up with inflation?](https://www.marketwatch.com/story/social-securitys-cola-will-be-3-6-in-2027-as-inflation-persists-f7c9dff2?mod=mw_rss_topstories) — *MarketWatch 2:45 PM CT*
-- [Did this year’s COLA beat inflation? Here’s how spending by American seniors stacks up so far in 2026.](https://www.marketwatch.com/story/did-this-years-cola-beat-inflation-heres-how-spending-by-american-seniors-stacks-up-so-far-in-2026-917c400c?mod=mw_rss_topstories) — *MarketWatch 2:45 PM CT*
-- [The COLA wars are coming for Social Security](https://www.marketwatch.com/story/the-cola-wars-are-coming-for-social-security-10c177f1?mod=mw_rss_topstories) — *MarketWatch 2:45 PM CT*
-- [AI investors have woken up to the bond market’s warning signs](https://www.marketwatch.com/story/ai-investors-have-woken-up-to-the-bond-markets-warning-signs-6f604c61?mod=mw_rss_topstories) — *MarketWatch 1:52 PM CT*
+## MARKET ALERTS — 9 priority stories
+- [Google says it can build data centers the right way. Some experts and residents are skeptical](https://www.cnbc.com/2026/10/19/how-data-centers-are-reshaping-americas-aging-grid-pine-island-minnesota-google.html) — *CNBC 8:36 AM CT*
+- [Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments](https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html) — *CNBC 7:34 AM CT*
+- [Anthropic commits 5% of shares to new public benefit fund that could address AI job disruption](https://www.cnbc.com/2026/10/18/anthropic-ai-public-benefit-fund.html) — *CNBC 7:33 AM CT*
+- [Putin reportedly proposes three-way summit with Trump and Xi on Ukraine war — without Zelenskyy](https://www.cnbc.com/2026/10/19/putin-trump-xi-ukraine-war-energy.html) — *CNBC 5:36 AM CT*
+- [OpenAI bugging suspect Alfozan ordered held without bond](https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html) — *CNBC 2:40 PM CT*
+- [Saudi Arabia postpones big investor conference to 2027 as Iran-backed Houthis escalate attacks on kingdom](https://www.cnbc.com/2026/10/19/saudi-arabia-postpones-fii-investor-conference-to-2027.html) — *CNBC 2:37 PM CT*
+- [Why Elon Musk, Anthropic and other AI titans are giving away shares](https://www.marketwatch.com/story/why-elon-musk-anthropic-and-other-ai-titans-are-giving-away-shares-a6709d24?mod=mw_rss_topstories) — *MarketWatch 2:30 PM CT*
+- [Japanese Prime Minister Takaichi rejects criticism around weak yen and high interest rates](https://www.cnbc.com/2026/10/19/takaichi-weak-yen-jgb-yields.html) — *CNBC 12:29 AM CT*
 
 
 ---
@@ -21,15 +21,15 @@
 ---
 ## Market Pulse
 
-### SPY  $763.25  -0.92%
+### SPY  $768.22  +0.91%
 
-### QQQ  $709.8  -2.01%
+### QQQ  $720.78  +1.82%
 
-### VIX  $19.99  +21.45%
+### VIX  $18.11  -9.36%
 
-### SMH  $539.79  -2.73%
+### SMH  $552.73  +2.07%
 
-### XLK  $183.47  -2.51%
+### XLK  $186.67  +1.76%
 
 ---
 ## AI / Semiconductor Sector
@@ -38,18 +38,18 @@
 
 ---
 ## Market Headlines  *(Reuters · MarketWatch · CNBC)*
-- [E.l.f. Beauty CFO Mandy Fields on consumers, pricing and building a foundation in cosmetics](https://www.cnbc.com/2026/10/16/elf-beauty-cfo-mandy-fields-tariffs-marketing-makeup.html) — *CNBC 9:30 AM CT*
-- [Blue Origin plans $330 million Florida expansion to ramp New Glenn launches](https://www.cnbc.com/2026/10/16/blue-origin-new-glenn-florida-expansion.html) — *CNBC 9:26 AM CT*
-- [Elon Musk cash infusion helps GOP Senate super PAC raise record $273 million](https://www.cnbc.com/2026/10/15/elon-musk-senate-leadership-fund-fundraising.html) — *CNBC 7:17 AM CT*
-- [I watched Nvidia's Jensen Huang work the room in London. He brought big checks — and a blunt message](https://www.cnbc.com/2026/10/16/nvidia-jensen-huang-london.html) — *CNBC 6:33 AM CT*
-- [KFC to switch to Coca-Cola beverages in U.S. restaurants for the first time in decades](https://www.cnbc.com/2026/10/15/kfc-coca-cola-pepsi-switch.html) — *CNBC 6:02 AM CT*
-- [Nike's India campus is a long-term growth bet amid turnaround](https://www.cnbc.com/2026/10/16/nike-india-campus-china-sales.html) — *CNBC 6:00 AM CT*
-- [Norway's $2 trillion wealth fund was frozen out of major defense companies. That may be about to change](https://www.cnbc.com/2026/10/16/norway-sovereign-wealth-fund-defense-investment.html) — *CNBC 5:56 AM CT*
-- [Trump says White House didn't order Starlink restrictions in Ukraine](https://www.cnbc.com/2026/10/16/trump-denies-musk-claim-he-ordered-starlink-restrictions-in-ukraine.html) — *CNBC 3:28 PM CT*
-- [EchoStar’s stock looks like a stealthy way to ride the SpaceX wave, J.P. Morgan says](https://www.marketwatch.com/story/echostars-stock-looks-like-a-stealthy-way-to-ride-the-spacex-wave-j-p-morgan-says-c4effa5d?mod=mw_rss_topstories) — *MarketWatch 3:05 PM CT*
-- [Katie Zacharia out as Trump's White House press secretary](https://www.cnbc.com/2026/10/16/trump-katie-zacharia-white-house.html) — *CNBC 2:47 PM CT*
-- [Debt is eating up a bigger chunk of your raise, research shows](https://www.cnbc.com/2026/10/16/debt-payments-rise-more-than-income.html) — *CNBC 2:47 PM CT*
-- [Are we spending our retirement money in the right order? Our plan is: Social Security, annuities, cash — then IRA.](https://www.marketwatch.com/story/are-we-spending-our-retirement-money-in-the-right-order-our-plan-is-social-security-annuities-cash-then-ira-02cec336?mod=mw_rss_topstories) — *MarketWatch 2:46 PM CT*
+- [NYSE becomes latest exchange to extend options hours as appetite for around-the-clock trading grows](https://www.cnbc.com/2026/10/19/nyse-extends-options-trading-hours.html) — *CNBC 8:46 AM CT*
+- [French unrest compounds debt crisis fears. Paris-listed stocks, bonds and the euro fall](https://www.cnbc.com/2026/10/19/france-protests-bond-yields-markets.html) — *CNBC 7:59 AM CT*
+- [Boomers are buying into the promise of monthly income from options ETFs, but there's a tax catch](https://www.cnbc.com/2026/10/18/retirement-income-funds-taxes.html) — *CNBC 7:58 AM CT*
+- [India’s finance minister says market liquidity makes it easier for investors to exit](https://www.cnbc.com/2026/10/18/india-ai-nifty50-sensex-investors.html) — *CNBC 3:23 AM CT*
+- [In pictures: More than 500,000 took to the streets as France protests erupted into violence](https://www.cnbc.com/2026/10/19/france-protests-paris-violence-pictures.html) — *CNBC 3:10 AM CT*
+- [China's CXMT shares fall nearly 8% as investors look past chipmaker's profit turnaround](https://www.cnbc.com/2026/10/19/china-cxmt-profit-outlook-shares.html) — *CNBC 2:48 AM CT*
+- [CoreWeave’s selloff is a lesson in ‘Finance 101’ — and Wall Street says the stock can recover](https://www.marketwatch.com/story/coreweaves-selloff-is-a-lesson-in-finance-101-and-wall-street-says-the-stock-can-recover-23ca5377?mod=mw_rss_topstories) — *MarketWatch 2:17 PM CT*
+- [Crushed tech stocks bounce — plus, new doctor survey keeps us positive on Lilly](https://www.cnbc.com/investingclub/2026/10/19/crushed-tech-stocks-bounce-new-doctor-survey-keeps-us-positive-on-lilly.html) — *CNBC 2:13 PM CT*
+- [Women may be at greater risk of AI job losses. Telephone switch operators and PCs show why](https://www.cnbc.com/2026/10/19/ai-job-losses-women-automation-risk.html) — *CNBC 1:36 PM CT*
+- [One of this year’s most important relationships in global financial markets is falling apart](https://www.marketwatch.com/story/one-of-this-years-most-important-relationships-in-global-financial-markets-is-falling-apart-2cf58121?mod=mw_rss_topstories) — *MarketWatch 12:43 PM CT*
+- [When should you dump your target-date funds?](https://www.marketwatch.com/story/when-should-you-dump-your-target-date-funds-18082148?mod=mw_rss_topstories) — *MarketWatch 12:31 PM CT*
+- [‘My husband suffered a massive stroke at 53’: I’m 64 and will rent for the rest of my life — but I’m still hopeful](https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories) — *MarketWatch 12:30 PM CT*
 
 ---
-*Generated 2026-10-16 15:37 CT | last 24h | sources: yfinance + Reuters/MarketWatch/CNBC*
+*Generated 2026-10-19 14:41 CT | last 24h | sources: yfinance + Reuters/MarketWatch/CNBC*
