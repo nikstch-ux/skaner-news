@@ -1,16 +1,15 @@
-# Market News — Monday October 19 2026 — 02:41 PM CT
+# Market News — Tuesday October 20 2026 — 01:22 PM CT
 
-**SPY** $768.22  +0.91%  |  **VIX** 18.11  |  **Regime** OK  |  **Portfolio P&L** +$0  |  **Positions** 0
+**SPY** $769.43  +0.25%  |  **VIX** 17.4  |  **Regime** OK  |  **Portfolio P&L** +$0  |  **Positions** 0
 
-## MARKET ALERTS — 9 priority stories
-- [Google says it can build data centers the right way. Some experts and residents are skeptical](https://www.cnbc.com/2026/10/19/how-data-centers-are-reshaping-americas-aging-grid-pine-island-minnesota-google.html) — *CNBC 8:36 AM CT*
-- [Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments](https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html) — *CNBC 7:34 AM CT*
-- [Anthropic commits 5% of shares to new public benefit fund that could address AI job disruption](https://www.cnbc.com/2026/10/18/anthropic-ai-public-benefit-fund.html) — *CNBC 7:33 AM CT*
-- [Putin reportedly proposes three-way summit with Trump and Xi on Ukraine war — without Zelenskyy](https://www.cnbc.com/2026/10/19/putin-trump-xi-ukraine-war-energy.html) — *CNBC 5:36 AM CT*
-- [OpenAI bugging suspect Alfozan ordered held without bond](https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html) — *CNBC 2:40 PM CT*
-- [Saudi Arabia postpones big investor conference to 2027 as Iran-backed Houthis escalate attacks on kingdom](https://www.cnbc.com/2026/10/19/saudi-arabia-postpones-fii-investor-conference-to-2027.html) — *CNBC 2:37 PM CT*
-- [Why Elon Musk, Anthropic and other AI titans are giving away shares](https://www.marketwatch.com/story/why-elon-musk-anthropic-and-other-ai-titans-are-giving-away-shares-a6709d24?mod=mw_rss_topstories) — *MarketWatch 2:30 PM CT*
-- [Japanese Prime Minister Takaichi rejects criticism around weak yen and high interest rates](https://www.cnbc.com/2026/10/19/takaichi-weak-yen-jgb-yields.html) — *CNBC 12:29 AM CT*
+## MARKET ALERTS — 7 priority stories
+- [Anthropic in talks with neocloud Nscale over second multibillion-dollar deal, source tells CNBC](https://www.cnbc.com/2026/10/20/anthropic-nscale-data-center-deal.html) — *CNBC 9:12 AM CT*
+- [Former OpenAI exec has quietly built $1.5 billion startup, betting AI can revive U.S. manufacturing](https://www.cnbc.com/2026/10/20/ex-openai-executive-builds-1point5-billion-ai-manufacturing-startup-arda.html) — *CNBC 8:03 AM CT*
+- [Investors look to earnings to reset the bull market. The key level to watch on the S&P 500](https://www.cnbc.com/2026/10/20/santoli-key-sp-500-level-to-watch.html) — *CNBC 7:52 AM CT*
+- [Draymond Green says he's 'not Steph Curry,' wants to play another year even if he leaves Golden State Warriors](https://www.cnbc.com/2026/10/20/draymond-green-says-hell-play-in-2027-with-or-without-the-warriors.html) — *CNBC 7:00 AM CT*
+- [Housing is flashing warning signs just as the Fed weighs more interest rate hikes](https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html) — *CNBC 1:03 PM CT*
+- [Data center stocks remain under pressure after Korea IPO plunges 30%](https://www.cnbc.com/2026/10/20/data-center-stocks-slide-as-korea-ipo-plunges-30percent-pressuring-tech-sentiment.html) — *CNBC 10:45 AM CT*
+- [OpenAI bugging suspect Alfozan held without bail after Saudi government offers to pay](https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html) — *CNBC 10:15 AM CT*
 
 
 ---
@@ -21,15 +20,15 @@
 ---
 ## Market Pulse
 
-### SPY  $768.22  +0.91%
+### SPY  $769.43  +0.25%
 
-### QQQ  $720.78  +1.82%
+### QQQ  $719.18  +0.04%
 
-### VIX  $18.11  -9.36%
+### VIX  $17.4  -5.59%
 
-### SMH  $552.73  +2.07%
+### SMH  $549.41  +0.16%
 
-### XLK  $186.67  +1.76%
+### XLK  $186.07  -0.06%
 
 ---
 ## AI / Semiconductor Sector
@@ -38,18 +37,18 @@
 
 ---
 ## Market Headlines  *(Reuters · MarketWatch · CNBC)*
-- [NYSE becomes latest exchange to extend options hours as appetite for around-the-clock trading grows](https://www.cnbc.com/2026/10/19/nyse-extends-options-trading-hours.html) — *CNBC 8:46 AM CT*
-- [French unrest compounds debt crisis fears. Paris-listed stocks, bonds and the euro fall](https://www.cnbc.com/2026/10/19/france-protests-bond-yields-markets.html) — *CNBC 7:59 AM CT*
-- [Boomers are buying into the promise of monthly income from options ETFs, but there's a tax catch](https://www.cnbc.com/2026/10/18/retirement-income-funds-taxes.html) — *CNBC 7:58 AM CT*
-- [India’s finance minister says market liquidity makes it easier for investors to exit](https://www.cnbc.com/2026/10/18/india-ai-nifty50-sensex-investors.html) — *CNBC 3:23 AM CT*
-- [In pictures: More than 500,000 took to the streets as France protests erupted into violence](https://www.cnbc.com/2026/10/19/france-protests-paris-violence-pictures.html) — *CNBC 3:10 AM CT*
-- [China's CXMT shares fall nearly 8% as investors look past chipmaker's profit turnaround](https://www.cnbc.com/2026/10/19/china-cxmt-profit-outlook-shares.html) — *CNBC 2:48 AM CT*
-- [CoreWeave’s selloff is a lesson in ‘Finance 101’ — and Wall Street says the stock can recover](https://www.marketwatch.com/story/coreweaves-selloff-is-a-lesson-in-finance-101-and-wall-street-says-the-stock-can-recover-23ca5377?mod=mw_rss_topstories) — *MarketWatch 2:17 PM CT*
-- [Crushed tech stocks bounce — plus, new doctor survey keeps us positive on Lilly](https://www.cnbc.com/investingclub/2026/10/19/crushed-tech-stocks-bounce-new-doctor-survey-keeps-us-positive-on-lilly.html) — *CNBC 2:13 PM CT*
-- [Women may be at greater risk of AI job losses. Telephone switch operators and PCs show why](https://www.cnbc.com/2026/10/19/ai-job-losses-women-automation-risk.html) — *CNBC 1:36 PM CT*
-- [One of this year’s most important relationships in global financial markets is falling apart](https://www.marketwatch.com/story/one-of-this-years-most-important-relationships-in-global-financial-markets-is-falling-apart-2cf58121?mod=mw_rss_topstories) — *MarketWatch 12:43 PM CT*
-- [When should you dump your target-date funds?](https://www.marketwatch.com/story/when-should-you-dump-your-target-date-funds-18082148?mod=mw_rss_topstories) — *MarketWatch 12:31 PM CT*
-- [‘My husband suffered a massive stroke at 53’: I’m 64 and will rent for the rest of my life — but I’m still hopeful](https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories) — *MarketWatch 12:30 PM CT*
+- [Salesforce announces $5.66 billion deal for Braze, sending BRZE stock soaring 50%](https://www.cnbc.com/2026/10/20/salesforce-braze-acquisition-deal.html) — *CNBC 9:09 AM CT*
+- [JD Vance refrains from endorsing Israeli leader Netanyahu as Trump offers praise](https://www.cnbc.com/2026/10/20/vance-israel-netanyahu-midterms-election-.html) — *CNBC 8:53 PM CT*
+- [Apple shares aren't cheap. Here's how to get long for less](https://www.cnbc.com/2026/10/20/apple-shares-arent-cheap-heres-how-to-get-long-for-less.html) — *CNBC 8:43 AM CT*
+- [UK to deploy fighter jets to defend Saudi cities from Houthi attacks](https://www.cnbc.com/2026/10/20/uk-fighter-jets-saudi-houthi-attacks-iran.html) — *CNBC 7:58 AM CT*
+- [Best Buy launches new gaming hub ahead of 'Zelda' and 'Grand Theft Auto VI'](https://www.cnbc.com/2026/10/20/best-buy-gamers-beta-ign.html) — *CNBC 7:45 AM CT*
+- [Apple adds U.S. titanium supplier for iPhone Duo as supply stays tight](https://www.cnbc.com/2026/10/20/apple-adds-us-titanium-supplier-for-iphone-duo.html) — *CNBC 7:29 AM CT*
+- [Zelenskyy to meet with U.S. envoy as tensions with Trump mount](https://www.cnbc.com/2026/10/20/zelenskyy-witkoff-trump-ukraine-russia.html) — *CNBC 5:30 AM CT*
+- [Walmart launches joint membership with Sam's Club as it leans into delivery, gas discounts](https://www.cnbc.com/2026/10/20/walmart-sams-club-plus-membership.html) — *CNBC 5:00 AM CT*
+- [Apple announces product launch event for Oct. 28. Analysts expect touchscreen laptop](https://www.cnbc.com/2026/10/19/apple-product-launch-event-oct-28-analysts-expect-touchscreen-laptop.html) — *CNBC 2:46 PM CT*
+- [What’s making Europe so angry? The frustration behind the protests](https://www.cnbc.com/2026/10/20/france-protests-europe-cost-living-violence.html) — *CNBC 2:19 AM CT*
+- [Here’s what matters most to Tesla investors heading into earnings](https://www.marketwatch.com/story/heres-what-matters-most-to-tesla-investors-heading-into-earnings-6b9e5d27?mod=mw_rss_topstories) — *MarketWatch 1:15 PM CT*
+- [Traders are betting Netflix's stock drama may be coming to an end](https://www.cnbc.com/2026/10/20/traders-are-betting-netflixs-stock-drama-may-be-coming-to-an-end.html) — *CNBC 1:10 PM CT*
 
 ---
-*Generated 2026-10-19 14:41 CT | last 24h | sources: yfinance + Reuters/MarketWatch/CNBC*
+*Generated 2026-10-20 13:22 CT | last 24h | sources: yfinance + Reuters/MarketWatch/CNBC*
