@@ -1,14 +1,13 @@
-# Market News — Thursday October 22 2026 — 04:50 PM CT
+# Market News — Friday October 23 2026 — 01:09 PM CT
 
-**SPY** $763.96  -0.71%  |  **VIX** 19.03  |  **Regime** OK  |  **Portfolio P&L** +$0  |  **Positions** 0
+**SPY** $760.81  -0.43%  |  **VIX** 20.03  |  **Regime** CAUTION ⚠  |  **Portfolio P&L** +$0  |  **Positions** 0
 
-## MARKET ALERTS — 6 priority stories
-- [American Express brings Airbnb bookings and rewards to Amex Travel platform](https://www.cnbc.com/2026/10/22/american-express-airbnb-travel-platform.html) — *CNBC 7:00 AM CT*
-- [Oil prices approach Iran-war highs as soaring tanker rates trigger a second energy squeeze](https://www.marketwatch.com/story/oil-prices-approach-iran-war-highs-as-soaring-tanker-rates-trigger-a-second-energy-squeeze-2d726982?mod=mw_rss_topstories) — *MarketWatch 3:46 PM CT*
-- [OpenAI nears up to $30 billion funding round at $1.25 trillion valuation led by UAE investors](https://www.cnbc.com/2026/10/22/openai-funding-round-uae-investors.html) — *CNBC 3:41 PM CT*
-- [Brent crude tops $113, highest level since May, after Trump hints at action on Iran](https://www.cnbc.com/2026/10/22/oil-prices-today-wti-brent-saudi-arabia.html) — *CNBC 2:19 PM CT*
-- [Bill Ackman says 2027 will be an amazing year for stocks as wars, inflation ease](https://www.cnbc.com/2026/10/22/bill-ackman-talks-meta-and-markets-with-cnbc.html) — *CNBC 12:53 PM CT*
-- [Third-party evaluators found vulnerabilities in OpenAI monitoring system during test pilot](https://www.cnbc.com/2026/10/22/metr-redwood-research-open-ai-test.html) — *CNBC 12:37 PM CT*
+## MARKET ALERTS — 5 priority stories
+- [Higher interest rates have made family offices pickier about investing in real estate](https://www.cnbc.com/2026/10/23/high-interest-rates-raise-the-bar-for-real-estate-deals.html) — *CNBC 7:15 AM CT*
+- [Russia and Ukraine trade fresh strikes despite renewed push for U.S.-brokered peace talks](https://www.cnbc.com/2026/10/23/russia-ukraine-strikes-peace-talks.html) — *CNBC 6:16 AM CT*
+- [Qatar deal to buy U.S. natural gas shows how Iran war has redrawn global energy markets](https://www.cnbc.com/2026/10/23/cheniere-qatar-energy-lng-natural-gas-iran-war-strait-hormuz.html) — *CNBC 12:25 PM CT*
+- [What we want to see when this data center stock reports earnings next week](https://www.cnbc.com/investingclub/2026/10/23/what-we-want-to-see-when-this-data-center-stock-reports-earnings-next-week.html) — *CNBC 11:15 AM CT*
+- [My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?](https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories) — *MarketWatch 10:31 AM CT*
 
 
 ---
@@ -19,15 +18,15 @@
 ---
 ## Market Pulse
 
-### SPY  $763.96  -0.71%
+### SPY  $760.81  -0.43%
 
-### QQQ  $704.47  -2.08%
+### QQQ  $705.86  +0.36%
 
-### VIX  $19.03  +14.09%
+### VIX  $20.03  +5.20%
 
-### SMH  $523.35  -4.38%
+### SMH  $528.28  +1.55%
 
-### XLK  $182.34  -2.33%
+### XLK  $183.5  +0.92%
 
 ---
 ## AI / Semiconductor Sector
@@ -36,18 +35,18 @@
 
 ---
 ## Market Headlines  *(Reuters · MarketWatch · CNBC)*
-- [Blackstone's Jon Gray says CoreWeave can 'find a way through' financing pressure](https://www.cnbc.com/2026/10/22/blackstone-jon-gray-coreweave-financing.html) — *CNBC 9:11 AM CT*
-- [Trump's approval rating on economy hits all-time low as midterm looms: CNBC survey](https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html) — *CNBC 8:18 AM CT*
-- [Nvidia's Jensen Huang says he sees no sign of a 2029 memory glut: 'You can always use more'](https://www.cnbc.com/2026/10/22/jensen-huang-nvidia-memory-selloff-shortage.html) — *CNBC 8:12 AM CT*
-- [Nvidia CEO Jensen Huang says neocloud demand is 'off the charts' but capital is scarce](https://www.cnbc.com/2026/10/22/nvidia-jensen-huang-neocloud-demand-capital.html) — *CNBC 5:49 AM CT*
-- [Treasury yields see extreme plunge. Why investors are ducking for cover.](https://www.marketwatch.com/story/treasury-yields-see-extreme-plunge-why-investors-are-ducking-for-cover-60044c66?mod=mw_rss_topstories) — *MarketWatch 4:32 PM CT*
-- [Americans are having fewer babies — and pampering them with luxury diapers](https://www.marketwatch.com/story/americans-are-having-fewer-babies-and-pampering-them-with-luxury-diapers-a84222cd?mod=mw_rss_topstories) — *MarketWatch 4:28 PM CT*
-- [3 big reasons Micron and other chip stocks fell hard on Thursday](https://www.marketwatch.com/story/two-big-reasons-micron-and-other-chip-stocks-are-falling-on-thursday-312f1fb2?mod=mw_rss_topstories) — *MarketWatch 4:19 PM CT*
-- [Trump asked Musk to lift Starlink slowdown, WSJ reports](https://www.cnbc.com/2026/10/22/trump-musk-starlink-ukraine.html) — *CNBC 4:02 PM CT*
-- [Meta’s deal to keep Zuckerberg in California adds fuel to wealth tax debate ahead of election](https://www.cnbc.com/2026/10/22/meta-mark-zuckerberg-california-billionaire-tax.html) — *CNBC 3:47 PM CT*
-- [Disney’s multiplatform Super Bowl plan frustrates ABC affiliates](https://www.cnbc.com/2026/10/22/disneys-multiplatform-super-bowl-plan-frustrates-abc-affiliates.html) — *CNBC 3:44 PM CT*
-- [Trump defends Ramaswamy ad with Acton's estranged mom after bipartisan criticism](https://www.cnbc.com/2026/10/22/trump-ramaswamy-ad-acton-mother-ad.html) — *CNBC 3:26 PM CT*
-- [Lawsuit accuses Trump of illegally profiting off foreign crypto deals](https://www.cnbc.com/2026/10/22/trump-world-liberty-crypto-lawsuit-uae.html) — *CNBC 3:15 PM CT*
+- [This hot AI-fueled stock has been in a rut. It just beat earnings expectations by 36%.](https://www.marketwatch.com/story/this-hot-ai-fueled-stock-has-been-in-a-rut-it-just-beat-earnings-expectations-by-36-4a4188cb?mod=mw_rss_topstories) — *MarketWatch 9:40 AM CT*
+- [Moderna shares plunge after cancer vaccine data leaks — despite positive results](https://www.cnbc.com/2026/10/22/moderna-stock-cancer-vaccine-data-leak.html) — *CNBC 9:36 AM CT*
+- [Young Americans are giving up on cars. It’s a path to financial freedom for some.](https://www.marketwatch.com/story/young-americans-are-giving-up-their-cars-its-a-path-to-financial-freedom-for-some-3cce491c?mod=mw_rss_topstories) — *MarketWatch 9:29 AM CT*
+- [Surging economy gets off to a good start in the fourth quarter — but there’s one big problem](https://www.marketwatch.com/story/surging-economy-gets-off-to-a-good-start-in-the-fourth-quarter-but-theres-one-big-problem-5657f399?mod=mw_rss_topstories) — *MarketWatch 9:23 AM CT*
+- [‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my life. Is that so bad?](https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories) — *MarketWatch 9:15 AM CT*
+- [‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?](https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories) — *MarketWatch 9:00 AM CT*
+- [Restaurant earnings will test whether owning more brands pays off](https://www.cnbc.com/2026/10/23/darden-brinker-qsr-stocks-restaurant-earnings.html) — *CNBC 8:55 AM CT*
+- [Brent crude oil tops $116, a six-month high, as tensions swell in the Middle East](https://www.cnbc.com/2026/10/23/oil-price-brent-wti-iran-war-saudi-arabia.html) — *CNBC 8:50 AM CT*
+- [Family offices likely to add risk, debt and alternatives under the next generation](https://www.cnbc.com/2026/10/23/next-generation-family-offices-likely-to-add-risk-debt-alternatives.html) — *CNBC 8:16 AM CT*
+- [SpaceX records $561 million investment gain from stake in Elon Musk's Boring Co.](https://www.cnbc.com/2026/10/22/spacex-records-561-million-investment-gain-from-stake-in-boring-co.html) — *CNBC 7:46 PM CT*
+- [On the ground at Nvidia's AI showpiece: Jensen-mania, robot ducks and neocloud distress](https://www.cnbc.com/2026/10/23/jensen-huang-gtc-robot-ducks-neocloud-distress.html) — *CNBC 7:08 AM CT*
+- [France is flashing euro crisis signals. This time, the fault lines are different](https://www.cnbc.com/2026/10/23/france-debt-euro-zone-contagion.html) — *CNBC 6:12 AM CT*
 
 ---
-*Generated 2026-10-22 16:50 CT | last 24h | sources: yfinance + Reuters/MarketWatch/CNBC*
+*Generated 2026-10-23 13:09 CT | last 24h | sources: yfinance + Reuters/MarketWatch/CNBC*
