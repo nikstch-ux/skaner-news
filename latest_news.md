@@ -1,14 +1,15 @@
-# Market News — Friday October 23 2026 — 04:34 PM CT
+# Market News — Monday October 26 2026 — 02:46 PM CT
 
-**SPY** $759.97  -0.54%  |  **VIX** 19.45  |  **Regime** OK  |  **Portfolio P&L** +$0  |  **Positions** 0
+**SPY** $765.61  +0.59%  |  **VIX** 18.38  |  **Regime** OK  |  **Portfolio P&L** +$0  |  **Positions** 0
 
-## MARKET ALERTS — 6 priority stories
-- [Higher interest rates have made family offices pickier about investing in real estate](https://www.cnbc.com/2026/10/23/high-interest-rates-raise-the-bar-for-real-estate-deals.html) — *CNBC 7:15 AM CT*
-- [Russia and Ukraine trade fresh strikes despite renewed push for U.S.-brokered peace talks](https://www.cnbc.com/2026/10/23/russia-ukraine-strikes-peace-talks.html) — *CNBC 6:16 AM CT*
-- [Oil markets are on edge ahead of the weekend, as midterm elections near and fresh U.S. strikes on Iran are predicted](https://www.marketwatch.com/story/oil-markets-are-on-edge-ahead-of-the-weekend-as-midterm-elections-near-and-fresh-u-s-strikes-on-iran-are-predicted-8c27e634?mod=mw_rss_topstories) — *MarketWatch 3:19 PM CT*
-- [My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?](https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories) — *MarketWatch 3:00 PM CT*
-- [Qatar deal to buy U.S. natural gas shows how Iran war has redrawn global energy markets](https://www.cnbc.com/2026/10/23/cheniere-qatar-energy-lng-natural-gas-iran-war-strait-hormuz.html) — *CNBC 2:19 PM CT*
-- [CrowdStrike CEO's alarming prediction — plus, the sell-off spreads beyond tech](https://www.cnbc.com/investingclub/2026/10/23/crowdstrikes-alarming-prediction-plus-sell-off-spreads-beyond-tech.html) — *CNBC 1:49 PM CT*
+## MARKET ALERTS — 7 priority stories
+- [Trump says he'll soon decide whether to ‘make a deal’ with Iran or ‘finish it off'](https://www.cnbc.com/2026/10/26/us-iran-war-hormuz.html) — *CNBC 9:36 AM CT*
+- [Marc Lore’s Wonder bets on Texas, automation and user-built restaurants as it mulls IPO](https://www.cnbc.com/2026/10/25/wonder-ipo-texas-automation.html) — *CNBC 7:49 AM CT*
+- [How war, security and coalition math are shaping the Israeli election](https://www.cnbc.com/2026/10/26/israel-election-netanyahu-iran-gaza-palestine.html) — *CNBC 4:46 AM CT*
+- [Federal Reserve is likely to hold interest rates steady in October. Here's what that means for consumers](https://www.cnbc.com/2026/10/26/fed-decision-expectations-october-meeting.html) — *CNBC 1:51 PM CT*
+- [Oil ticks lower as Saudi defense minister meets with Iran's president in Tehran to de-escalate](https://www.cnbc.com/2026/10/26/oil-prices-today-wti-brent.html) — *CNBC 1:50 PM CT*
+- [Prediction market traders say an Anthropic IPO is near-certain this year after company filed with SEC](https://www.cnbc.com/2026/10/26/prediction-markets-think-anthropic-ipo-near-certain-in-2026.html) — *CNBC 11:51 AM CT*
+- [Fanatics teams up with OpenAI for new AI-powered shopping suggestion feature](https://www.cnbc.com/2026/10/26/fanatics-openai-codex-sports-merchandise-shopping.html) — *CNBC 10:05 AM CT*
 
 
 ---
@@ -19,15 +20,15 @@
 ---
 ## Market Pulse
 
-### SPY  $759.97  -0.54%
+### SPY  $765.61  +0.59%
 
-### QQQ  $704.4  +0.16%
+### QQQ  $713.5  +1.22%
 
-### VIX  $19.45  +2.15%
+### VIX  $18.38  -5.50%
 
-### SMH  $527.2  +1.34%
+### SMH  $544.27  +3.32%
 
-### XLK  $183.23  +0.77%
+### XLK  $186.83  +1.80%
 
 ---
 ## AI / Semiconductor Sector
@@ -36,18 +37,18 @@
 
 ---
 ## Market Headlines  *(Reuters · MarketWatch · CNBC)*
-- [Restaurant earnings will test whether owning more brands pays off](https://www.cnbc.com/2026/10/23/darden-brinker-qsr-stocks-restaurant-earnings.html) — *CNBC 8:55 AM CT*
-- [Family offices likely to add risk, debt and alternatives under the next generation](https://www.cnbc.com/2026/10/23/next-generation-family-offices-likely-to-add-risk-debt-alternatives.html) — *CNBC 8:16 AM CT*
-- [On the ground at Nvidia's AI showpiece: Jensen-mania, robot ducks and neocloud distress](https://www.cnbc.com/2026/10/23/jensen-huang-gtc-robot-ducks-neocloud-distress.html) — *CNBC 7:08 AM CT*
-- [France is flashing euro crisis signals. This time, the fault lines are different](https://www.cnbc.com/2026/10/23/france-debt-euro-zone-contagion.html) — *CNBC 6:12 AM CT*
-- [With earnings in rearview mirror, SpaceX-Tesla merger chatter takes center stage](https://www.cnbc.com/2026/10/23/spacex-tesla-merger-chatter-takes-center-stage-after-earnings.html) — *CNBC 6:00 AM CT*
-- [Democratic socialist set to become D.C. mayor — and face Trump's pushback](https://www.cnbc.com/2026/10/23/janeese-lewis-george-democratic-socialist-washington-dc-mayor.html) — *CNBC 5:30 AM CT*
-- [Meta’s deal to keep Zuckerberg in California adds fuel to wealth tax debate ahead of election](https://www.cnbc.com/2026/10/22/meta-mark-zuckerberg-california-billionaire-tax.html) — *CNBC 5:21 PM CT*
-- [Trump dropping some Canada tariffs but 'replacing' them with other products](https://www.cnbc.com/2026/10/23/trump-tariffs-canada-susan-collins.html) — *CNBC 4:26 PM CT*
-- [This hot AI-fueled stock has been in a rut. It just beat earnings expectations by 36%.](https://www.marketwatch.com/story/this-hot-ai-fueled-stock-has-been-in-a-rut-it-just-beat-earnings-expectations-by-36-4a4188cb?mod=mw_rss_topstories) — *MarketWatch 4:13 PM CT*
-- [The mobile ambitions of SpaceX are hitting telecom stocks again. Here’s what the latest developments mean.](https://www.marketwatch.com/story/the-mobile-ambitions-of-spacex-see-telecom-stocks-get-hit-again-what-the-latest-developments-mean-9a4159b5?mod=mw_rss_topstories) — *MarketWatch 4:11 PM CT*
-- [The real test for Moderna’s cancer vaccine isn’t about beating Keytruda. It’s keeping cancer from coming back in the long term.](https://www.marketwatch.com/story/the-real-test-for-modernas-cancer-vaccine-isnt-about-beating-keytruda-its-keeping-cancer-from-coming-back-in-the-long-term-da9af99f?mod=mw_rss_topstories) — *MarketWatch 4:06 PM CT*
-- [In hunt for Starlink alternative, Ukraine partners with Nokia and satellite maker ICEYE](https://www.cnbc.com/2026/10/23/ukraine-partners-with-nokia-and-iceye-for-starlink-alternative.html) — *CNBC 3:52 PM CT*
+- [Brazilian stocks rocked as Lula wins presidential election, Bolsonaro reportedly refuses to concede](https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html) — *CNBC 9:09 AM CT*
+- [Meta announces $95 billion stock offering to fund AI expansion](https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html) — *CNBC 9:05 AM CT*
+- [Mortgage rates above 7% are the 'new normal'—here's why](https://www.cnbc.com/make-it/2026/10/26/mortgage-rates-above-7percent-are-the-new-normalheres-why.html) — *CNBC 9:00 AM CT*
+- [Can GOP Rep. Brian Fitzpatrick, a moderate who's bucked Trump, keep his Pennsylvania swing seat?](https://www.cnbc.com/2026/10/26/brian-fitzpatrick-bob-harvie-pennsylvania-senate-election.html) — *CNBC 7:33 AM CT*
+- [Caregiving for adult relatives can cost thousands. AARP survey finds support could matter to midterm voters](https://www.cnbc.com/2026/10/26/family-caregiving-costs-2026-midterm-elections.html) — *CNBC 7:15 AM CT*
+- [Cracking AI trade has Wall Street looking for a hedge. An ex-Citadel quant may have the answer](https://www.cnbc.com/2026/10/26/gpu-futures-ai-hedge-hyperbolic.html) — *CNBC 7:08 AM CT*
+- [The house, the kids’ college and the raise: Where people in their 30s and 40s go wrong](https://www.marketwatch.com/story/the-house-the-kids-college-and-the-raise-where-people-in-their-30s-and-40s-go-wrong-69ec6c90?mod=mw_rss_topstories) — *MarketWatch 2:42 PM CT*
+- [My wife has only $80,000 saved for retirement. I have $2.2 million. Am I wrong to be shocked?](https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories) — *MarketWatch 2:30 PM CT*
+- [‘You need only watch episodes of Judge Judy’: I’m in my 70s. Why do people keep making the same avoidable financial mistakes?](https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories) — *MarketWatch 2:30 PM CT*
+- [McDonald’s new bet on chicken hits a snag as franchisees say the birds are too big](https://www.marketwatch.com/story/mcdonalds-new-bet-on-chicken-hits-a-snag-as-franchisees-say-the-birds-are-too-big-c3e8dd77?mod=mw_rss_topstories) — *MarketWatch 2:17 PM CT*
+- [Trump DOJ unlawfully fired Epstein prosecutor Maurene Comey, judge rules](https://www.cnbc.com/2026/10/26/maurene-comey-firing-unlawful-trump.html) — *CNBC 1:52 PM CT*
+- [J&J's potential 'game-changer' drug — plus, what Microsoft's mass buyouts mean](https://www.cnbc.com/investingclub/2026/10/26/jjs-potential-game-changer-drug-plus-what-microsofts-buyouts-mean.html) — *CNBC 1:45 PM CT*
 
 ---
-*Generated 2026-10-23 16:34 CT | last 24h | sources: yfinance + Reuters/MarketWatch/CNBC*
+*Generated 2026-10-26 14:46 CT | last 24h | sources: yfinance + Reuters/MarketWatch/CNBC*
