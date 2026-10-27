@@ -1,16 +1,16 @@
-# Market News — Tuesday October 27 2026 — 02:15 PM CT
+# Market News — Tuesday October 27 2026 — 06:03 PM CT
 
-**SPY** $770.2  +0.50%  |  **VIX** 17.67  |  **Regime** OK  |  **Portfolio P&L** +$0  |  **Positions** 0
+**SPY** $769.66  +0.43%  |  **VIX** 17.52  |  **Regime** OK  |  **Portfolio P&L** +$0  |  **Positions** 0
 
 ## MARKET ALERTS — 8 priority stories
-- [Israel election puts Netanyahu’s wartime leadership on the line as Trump urges voters to return him to power](https://www.cnbc.com/2026/10/26/israel-election-netanyahu-iran-gaza-palestine.html) — *CNBC 7:28 AM CT*
-- [Melania Trump-brokered local ceasefire begins as Russia continues attacks on Ukraine](https://www.cnbc.com/2026/10/27/russia-ukraine-zelenskyy-trump-putin-ceasefire.html) — *CNBC 6:18 AM CT*
+- [Chart: Anthropic's cash pile towers over nearly every U.S. company](https://www.cnbc.com/2026/10/27/anthropic-cash-investments-ipo.html) — *CNBC 6:03 PM CT*
+- [Jim Cramer warns investors not to get fooled by the latest AI stock rally](https://www.cnbc.com/2026/10/27/jim-cramer-ai-trade-financing-risks.html) — *CNBC 5:24 PM CT*
+- [Trump administration may let more Russian diesel onto market, energy secretary tells CNBC](https://www.cnbc.com/2026/10/27/trump-putin-zelenskyy-russia-ukraine-diesel.html) — *CNBC 5:18 PM CT*
+- [CoreWeave and other AI stocks rise as Anthropic restores the market’s faith in sustained spending](https://www.marketwatch.com/story/coreweave-and-other-ai-stocks-rise-as-anthropic-restores-the-markets-faith-in-sustained-spending-c71d7186?mod=mw_rss_topstories) — *MarketWatch 4:41 PM CT*
+- [Anthropic's IPO is risky business](https://www.cnbc.com/2026/10/27/anthropic-five-surprising-risks-s1.html) — *CNBC 4:17 PM CT*
 - [Margin debt growth slows sharply as stock market warning signs build](https://www.cnbc.com/2026/10/27/margin-debt-growth-cools-after-2026-surge-may-signal-market-top.html) — *CNBC 1:53 PM CT*
 - [Honda warns 50% Canada auto tariffs would be catastrophic for industry](https://www.cnbc.com/2026/10/27/honda-warns-50percent-canada-auto-tariffs-would-be-catastrophic.html) — *CNBC 12:53 PM CT*
 - [Anthropic's IPO could be 'speculative fiction' or a 'generational moment' — investors are split](https://www.cnbc.com/2026/10/27/-anthropic-ipo-investors-growth-losses-s-1.html) — *CNBC 12:26 PM CT*
-- [When will Anthropic go public? Here’s what to know about the IPO timeline.](https://www.marketwatch.com/story/when-will-anthropic-go-public-heres-what-to-know-about-the-ipo-timeline-431eca78?mod=mw_rss_topstories) — *MarketWatch 11:38 AM CT*
-- [Ripple strikes deal with Robinhood to expand its RLUSD digital dollar](https://www.cnbc.com/2026/10/27/ripple-strikes-deal-with-robinhood-to-expand-its-rlusd-digital-dollar.html) — *CNBC 11:35 AM CT*
-- [Fed expected to hold rates steady, but Warsh may point way to more hikes](https://www.cnbc.com/2026/10/27/federal-reserve-rates-kevin-warsh.html) — *CNBC 10:52 AM CT*
 
 
 ---
@@ -21,15 +21,15 @@
 ---
 ## Market Pulse
 
-### SPY  $770.2  +0.50%
+### SPY  $769.66  +0.43%
 
-### QQQ  $721.79  +1.03%
+### QQQ  $721.25  +0.95%
 
-### VIX  $17.67  -3.92%
+### VIX  $17.52  -4.73%
 
-### SMH  $557.32  +2.29%
+### SMH  $557.98  +2.41%
 
-### XLK  $189.53  +1.36%
+### XLK  $189.49  +1.34%
 
 ---
 ## AI / Semiconductor Sector
@@ -40,16 +40,16 @@
 ## Market Headlines  *(Reuters · MarketWatch · CNBC)*
 - [A rising wealth tide lifts all yachts](https://www.cnbc.com/2026/10/27/a-rising-wealth-tide-lifts-all-yachts.html) — *CNBC 9:29 AM CT*
 - [Nvidia, AMD to invest $4 billion in Meta as tech giants deepen AI partnership](https://www.cnbc.com/2026/10/27/nvidia-invest-meta.html) — *CNBC 9:19 AM CT*
-- [A 'canary in the coal mine': Measles resurgence exposes weaknesses in U.S. public health, experts say](https://www.cnbc.com/2026/10/27/us-measles-public-health.html) — *CNBC 9:07 AM CT*
-- [Santoli: We are nearing a now-or-never moment for the AI trade to rebound](https://www.cnbc.com/2026/10/27/santoli-now-or-never-for-ai-trade.html) — *CNBC 7:33 AM CT*
 - [Frozen housing market sends remodelers mixed messages](https://www.cnbc.com/2026/10/27/frozen-housing-market-sends-remodelers-mixed-messages.html) — *CNBC 7:20 AM CT*
-- [Inherited IRAs can boost wealth — and trigger a tax bill. Here's how to reduce it](https://www.cnbc.com/2026/10/27/inherited-ira-taxes-10-year-rule-roth-conversions.html) — *CNBC 7:15 AM CT*
-- [GM will switch to Nasdaq from the NYSE on Nov. 17](https://www.cnbc.com/2026/10/27/gm-nasdaq-nyse-stock-listing.html) — *CNBC 5:49 AM CT*
-- [Porsche profit rebounds as luxury carmaker reduces exposure to China](https://www.cnbc.com/2026/10/27/porsche-china-profit-recovery.html) — *CNBC 5:08 AM CT*
-- [Silicon Valley AI political groups turn on each other in the 2026 election](https://www.cnbc.com/2026/10/27/ai-political-spending-silicon-valley-election.html) — *CNBC 5:00 AM CT*
-- [Boeing stock sinks 10% as company says it won't significantly ramp up 737 Max production until late 2027](https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html) — *CNBC 2:10 PM CT*
-- [My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?](https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories) — *MarketWatch 2:00 PM CT*
-- [Amazon's anti-tokenmaxxing memo says engineers should be pickier about using AI](https://www.cnbc.com/2026/10/27/amazon-ai-coding-tokenmaxxing.html) — *CNBC 1:57 PM CT*
+- [Grand jury rejects DOJ bid to indict ex-Trump WH aide Cassidy Hutchinson: Reports](https://www.cnbc.com/2026/10/27/cassidy-hutchinson-doj-grand-jury-trump.html) — *CNBC 6:02 PM CT*
+- [Retail traders buy the dip on chip stocks — but Robinhood gets burned by the crypto market](https://www.marketwatch.com/story/retail-traders-buy-the-dip-on-chip-stocks-but-robinhood-gets-burned-by-the-crypto-market-33cea913?mod=mw_rss_topstories) — *MarketWatch 5:51 PM CT*
+- [Speaker Mike Johnson calls election-transfer concerns ‘absurd’](https://www.cnbc.com/2026/10/27/speaker-johnson-peaceful-transfer-midterms.html) — *CNBC 5:35 PM CT*
+- [‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?](https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories) — *MarketWatch 5:18 PM CT*
+- [AI debt fears ease ahead of Oracle, Alphabet and Amazon updates. Here's what to watch.](https://www.cnbc.com/2026/10/27/ai-debt-hyperscaler-earnings.html) — *CNBC 4:58 PM CT*
+- [As Trump touts energy companies’ fortunes, U.S. consumers face the most expensive year for gas prices ever](https://www.marketwatch.com/story/as-trump-touts-energy-companies-fortunes-u-s-consumers-face-the-most-expensive-year-for-gas-prices-ever-c467268c?mod=mw_rss_topstories) — *MarketWatch 4:29 PM CT*
+- [The rest of the market is leaving Big Tech behind after a historic comeback](https://www.marketwatch.com/story/the-rest-of-the-market-is-leaving-big-tech-behind-after-a-historic-comeback-324e9fb2?mod=mw_rss_topstories) — *MarketWatch 4:28 PM CT*
+- [Polymarket faces renewed CFTC probe over U.S. access to offshore platform](https://www.cnbc.com/2026/10/27/cftc-probes-polymarket-over-2022-settlement.html) — *CNBC 4:24 PM CT*
+- [Walmart says AI training is boosting confidence with the technology among its 2.1 million associates](https://www.cnbc.com/2026/10/27/walmart-ai-training-workers.html) — *CNBC 4:15 PM CT*
 
 ---
-*Generated 2026-10-27 14:15 CT | last 24h | sources: yfinance + Reuters/MarketWatch/CNBC*
+*Generated 2026-10-27 18:03 CT | last 24h | sources: yfinance + Reuters/MarketWatch/CNBC*
