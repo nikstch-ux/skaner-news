@@ -1,15 +1,16 @@
-# Market News — Monday October 26 2026 — 02:46 PM CT
+# Market News — Tuesday October 27 2026 — 02:15 PM CT
 
-**SPY** $765.61  +0.59%  |  **VIX** 18.38  |  **Regime** OK  |  **Portfolio P&L** +$0  |  **Positions** 0
+**SPY** $770.2  +0.50%  |  **VIX** 17.67  |  **Regime** OK  |  **Portfolio P&L** +$0  |  **Positions** 0
 
-## MARKET ALERTS — 7 priority stories
-- [Trump says he'll soon decide whether to ‘make a deal’ with Iran or ‘finish it off'](https://www.cnbc.com/2026/10/26/us-iran-war-hormuz.html) — *CNBC 9:36 AM CT*
-- [Marc Lore’s Wonder bets on Texas, automation and user-built restaurants as it mulls IPO](https://www.cnbc.com/2026/10/25/wonder-ipo-texas-automation.html) — *CNBC 7:49 AM CT*
-- [How war, security and coalition math are shaping the Israeli election](https://www.cnbc.com/2026/10/26/israel-election-netanyahu-iran-gaza-palestine.html) — *CNBC 4:46 AM CT*
-- [Federal Reserve is likely to hold interest rates steady in October. Here's what that means for consumers](https://www.cnbc.com/2026/10/26/fed-decision-expectations-october-meeting.html) — *CNBC 1:51 PM CT*
-- [Oil ticks lower as Saudi defense minister meets with Iran's president in Tehran to de-escalate](https://www.cnbc.com/2026/10/26/oil-prices-today-wti-brent.html) — *CNBC 1:50 PM CT*
-- [Prediction market traders say an Anthropic IPO is near-certain this year after company filed with SEC](https://www.cnbc.com/2026/10/26/prediction-markets-think-anthropic-ipo-near-certain-in-2026.html) — *CNBC 11:51 AM CT*
-- [Fanatics teams up with OpenAI for new AI-powered shopping suggestion feature](https://www.cnbc.com/2026/10/26/fanatics-openai-codex-sports-merchandise-shopping.html) — *CNBC 10:05 AM CT*
+## MARKET ALERTS — 8 priority stories
+- [Israel election puts Netanyahu’s wartime leadership on the line as Trump urges voters to return him to power](https://www.cnbc.com/2026/10/26/israel-election-netanyahu-iran-gaza-palestine.html) — *CNBC 7:28 AM CT*
+- [Melania Trump-brokered local ceasefire begins as Russia continues attacks on Ukraine](https://www.cnbc.com/2026/10/27/russia-ukraine-zelenskyy-trump-putin-ceasefire.html) — *CNBC 6:18 AM CT*
+- [Margin debt growth slows sharply as stock market warning signs build](https://www.cnbc.com/2026/10/27/margin-debt-growth-cools-after-2026-surge-may-signal-market-top.html) — *CNBC 1:53 PM CT*
+- [Honda warns 50% Canada auto tariffs would be catastrophic for industry](https://www.cnbc.com/2026/10/27/honda-warns-50percent-canada-auto-tariffs-would-be-catastrophic.html) — *CNBC 12:53 PM CT*
+- [Anthropic's IPO could be 'speculative fiction' or a 'generational moment' — investors are split](https://www.cnbc.com/2026/10/27/-anthropic-ipo-investors-growth-losses-s-1.html) — *CNBC 12:26 PM CT*
+- [When will Anthropic go public? Here’s what to know about the IPO timeline.](https://www.marketwatch.com/story/when-will-anthropic-go-public-heres-what-to-know-about-the-ipo-timeline-431eca78?mod=mw_rss_topstories) — *MarketWatch 11:38 AM CT*
+- [Ripple strikes deal with Robinhood to expand its RLUSD digital dollar](https://www.cnbc.com/2026/10/27/ripple-strikes-deal-with-robinhood-to-expand-its-rlusd-digital-dollar.html) — *CNBC 11:35 AM CT*
+- [Fed expected to hold rates steady, but Warsh may point way to more hikes](https://www.cnbc.com/2026/10/27/federal-reserve-rates-kevin-warsh.html) — *CNBC 10:52 AM CT*
 
 
 ---
@@ -20,15 +21,15 @@
 ---
 ## Market Pulse
 
-### SPY  $765.61  +0.59%
+### SPY  $770.2  +0.50%
 
-### QQQ  $713.5  +1.22%
+### QQQ  $721.79  +1.03%
 
-### VIX  $18.38  -5.50%
+### VIX  $17.67  -3.92%
 
-### SMH  $544.27  +3.32%
+### SMH  $557.32  +2.29%
 
-### XLK  $186.83  +1.80%
+### XLK  $189.53  +1.36%
 
 ---
 ## AI / Semiconductor Sector
@@ -37,18 +38,18 @@
 
 ---
 ## Market Headlines  *(Reuters · MarketWatch · CNBC)*
-- [Brazilian stocks rocked as Lula wins presidential election, Bolsonaro reportedly refuses to concede](https://www.cnbc.com/2026/10/26/brazil-lula-win-presidential-election-runoff-vote.html) — *CNBC 9:09 AM CT*
-- [Meta announces $95 billion stock offering to fund AI expansion](https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html) — *CNBC 9:05 AM CT*
-- [Mortgage rates above 7% are the 'new normal'—here's why](https://www.cnbc.com/make-it/2026/10/26/mortgage-rates-above-7percent-are-the-new-normalheres-why.html) — *CNBC 9:00 AM CT*
-- [Can GOP Rep. Brian Fitzpatrick, a moderate who's bucked Trump, keep his Pennsylvania swing seat?](https://www.cnbc.com/2026/10/26/brian-fitzpatrick-bob-harvie-pennsylvania-senate-election.html) — *CNBC 7:33 AM CT*
-- [Caregiving for adult relatives can cost thousands. AARP survey finds support could matter to midterm voters](https://www.cnbc.com/2026/10/26/family-caregiving-costs-2026-midterm-elections.html) — *CNBC 7:15 AM CT*
-- [Cracking AI trade has Wall Street looking for a hedge. An ex-Citadel quant may have the answer](https://www.cnbc.com/2026/10/26/gpu-futures-ai-hedge-hyperbolic.html) — *CNBC 7:08 AM CT*
-- [The house, the kids’ college and the raise: Where people in their 30s and 40s go wrong](https://www.marketwatch.com/story/the-house-the-kids-college-and-the-raise-where-people-in-their-30s-and-40s-go-wrong-69ec6c90?mod=mw_rss_topstories) — *MarketWatch 2:42 PM CT*
-- [My wife has only $80,000 saved for retirement. I have $2.2 million. Am I wrong to be shocked?](https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories) — *MarketWatch 2:30 PM CT*
-- [‘You need only watch episodes of Judge Judy’: I’m in my 70s. Why do people keep making the same avoidable financial mistakes?](https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories) — *MarketWatch 2:30 PM CT*
-- [McDonald’s new bet on chicken hits a snag as franchisees say the birds are too big](https://www.marketwatch.com/story/mcdonalds-new-bet-on-chicken-hits-a-snag-as-franchisees-say-the-birds-are-too-big-c3e8dd77?mod=mw_rss_topstories) — *MarketWatch 2:17 PM CT*
-- [Trump DOJ unlawfully fired Epstein prosecutor Maurene Comey, judge rules](https://www.cnbc.com/2026/10/26/maurene-comey-firing-unlawful-trump.html) — *CNBC 1:52 PM CT*
-- [J&J's potential 'game-changer' drug — plus, what Microsoft's mass buyouts mean](https://www.cnbc.com/investingclub/2026/10/26/jjs-potential-game-changer-drug-plus-what-microsofts-buyouts-mean.html) — *CNBC 1:45 PM CT*
+- [A rising wealth tide lifts all yachts](https://www.cnbc.com/2026/10/27/a-rising-wealth-tide-lifts-all-yachts.html) — *CNBC 9:29 AM CT*
+- [Nvidia, AMD to invest $4 billion in Meta as tech giants deepen AI partnership](https://www.cnbc.com/2026/10/27/nvidia-invest-meta.html) — *CNBC 9:19 AM CT*
+- [A 'canary in the coal mine': Measles resurgence exposes weaknesses in U.S. public health, experts say](https://www.cnbc.com/2026/10/27/us-measles-public-health.html) — *CNBC 9:07 AM CT*
+- [Santoli: We are nearing a now-or-never moment for the AI trade to rebound](https://www.cnbc.com/2026/10/27/santoli-now-or-never-for-ai-trade.html) — *CNBC 7:33 AM CT*
+- [Frozen housing market sends remodelers mixed messages](https://www.cnbc.com/2026/10/27/frozen-housing-market-sends-remodelers-mixed-messages.html) — *CNBC 7:20 AM CT*
+- [Inherited IRAs can boost wealth — and trigger a tax bill. Here's how to reduce it](https://www.cnbc.com/2026/10/27/inherited-ira-taxes-10-year-rule-roth-conversions.html) — *CNBC 7:15 AM CT*
+- [GM will switch to Nasdaq from the NYSE on Nov. 17](https://www.cnbc.com/2026/10/27/gm-nasdaq-nyse-stock-listing.html) — *CNBC 5:49 AM CT*
+- [Porsche profit rebounds as luxury carmaker reduces exposure to China](https://www.cnbc.com/2026/10/27/porsche-china-profit-recovery.html) — *CNBC 5:08 AM CT*
+- [Silicon Valley AI political groups turn on each other in the 2026 election](https://www.cnbc.com/2026/10/27/ai-political-spending-silicon-valley-election.html) — *CNBC 5:00 AM CT*
+- [Boeing stock sinks 10% as company says it won't significantly ramp up 737 Max production until late 2027](https://www.cnbc.com/2026/10/27/-boeing-ba-q3-2026-earnings.html) — *CNBC 2:10 PM CT*
+- [My wife cried when I found out she had only $80,000 in her 401(k). I have $2.2 million. Am I wrong to be shocked?](https://www.marketwatch.com/story/my-wife-has-only-80-000-saved-for-retirement-i-have-2-2-million-am-i-wrong-to-be-shocked-3e27b490?mod=mw_rss_topstories) — *MarketWatch 2:00 PM CT*
+- [Amazon's anti-tokenmaxxing memo says engineers should be pickier about using AI](https://www.cnbc.com/2026/10/27/amazon-ai-coding-tokenmaxxing.html) — *CNBC 1:57 PM CT*
 
 ---
-*Generated 2026-10-26 14:46 CT | last 24h | sources: yfinance + Reuters/MarketWatch/CNBC*
+*Generated 2026-10-27 14:15 CT | last 24h | sources: yfinance + Reuters/MarketWatch/CNBC*
