@@ -1,16 +1,13 @@
-# Market News — Tuesday October 27 2026 — 06:03 PM CT
+# Market News — Wednesday October 28 2026 — 02:22 PM CT
 
-**SPY** $769.66  +0.43%  |  **VIX** 17.52  |  **Regime** OK  |  **Portfolio P&L** +$0  |  **Positions** 0
+**SPY** $771.11  +0.15%  |  **VIX** 17.16  |  **Regime** OK  |  **Portfolio P&L** +$0  |  **Positions** 0
 
-## MARKET ALERTS — 8 priority stories
-- [Chart: Anthropic's cash pile towers over nearly every U.S. company](https://www.cnbc.com/2026/10/27/anthropic-cash-investments-ipo.html) — *CNBC 6:03 PM CT*
-- [Jim Cramer warns investors not to get fooled by the latest AI stock rally](https://www.cnbc.com/2026/10/27/jim-cramer-ai-trade-financing-risks.html) — *CNBC 5:24 PM CT*
-- [Trump administration may let more Russian diesel onto market, energy secretary tells CNBC](https://www.cnbc.com/2026/10/27/trump-putin-zelenskyy-russia-ukraine-diesel.html) — *CNBC 5:18 PM CT*
-- [CoreWeave and other AI stocks rise as Anthropic restores the market’s faith in sustained spending](https://www.marketwatch.com/story/coreweave-and-other-ai-stocks-rise-as-anthropic-restores-the-markets-faith-in-sustained-spending-c71d7186?mod=mw_rss_topstories) — *MarketWatch 4:41 PM CT*
-- [Anthropic's IPO is risky business](https://www.cnbc.com/2026/10/27/anthropic-five-surprising-risks-s1.html) — *CNBC 4:17 PM CT*
-- [Margin debt growth slows sharply as stock market warning signs build](https://www.cnbc.com/2026/10/27/margin-debt-growth-cools-after-2026-surge-may-signal-market-top.html) — *CNBC 1:53 PM CT*
-- [Honda warns 50% Canada auto tariffs would be catastrophic for industry](https://www.cnbc.com/2026/10/27/honda-warns-50percent-canada-auto-tariffs-would-be-catastrophic.html) — *CNBC 12:53 PM CT*
-- [Anthropic's IPO could be 'speculative fiction' or a 'generational moment' — investors are split](https://www.cnbc.com/2026/10/27/-anthropic-ipo-investors-growth-losses-s-1.html) — *CNBC 12:26 PM CT*
+## MARKET ALERTS — 5 priority stories
+- [Google alters its cloud playbook, enlisting partners to sell more AI chips](https://www.cnbc.com/2026/10/28/google-alters-cloud-playbook-turning-to-partners-to-sell-more-ai-chips.html) — *CNBC 8:52 AM CT*
+- [Trump says Iran war will end 'when I want it to' as costs reportedly balloon to $47 billion](https://www.cnbc.com/2026/10/28/us-iran-war-trump-hormuz-costs-centcom.html) — *CNBC 7:25 AM CT*
+- [Anthropic IPO filing warns some risks may be uninsurable. AI coverage will be issue for every company](https://www.cnbc.com/2026/10/28/anthropic-ipo-ai-risks-insurance.html) — *CNBC 1:32 PM CT*
+- [Bullish on Anthropic but don’t want to wait until the IPO? Here’s how you can invest today.](https://www.marketwatch.com/story/bullish-on-anthropic-but-dont-want-to-wait-until-the-ipo-heres-how-you-can-invest-today-c5cb329e?mod=mw_rss_topstories) — *MarketWatch 11:13 AM CT*
+- [UK brings forward defense spending target, pledging billions to Ukraine](https://www.cnbc.com/2026/10/28/uk-defense-spending-ukraine-aid.html) — *CNBC 10:53 AM CT*
 
 
 ---
@@ -21,15 +18,15 @@
 ---
 ## Market Pulse
 
-### SPY  $769.66  +0.43%
+### SPY  $771.11  +0.15%
 
-### QQQ  $721.25  +0.95%
+### QQQ  $723.26  +0.14%
 
-### VIX  $17.52  -4.73%
+### VIX  $17.16  -2.00%
 
-### SMH  $557.98  +2.41%
+### SMH  $566.18  +1.30%
 
-### XLK  $189.49  +1.34%
+### XLK  $190.57  +0.51%
 
 ---
 ## AI / Semiconductor Sector
@@ -38,18 +35,18 @@
 
 ---
 ## Market Headlines  *(Reuters · MarketWatch · CNBC)*
-- [A rising wealth tide lifts all yachts](https://www.cnbc.com/2026/10/27/a-rising-wealth-tide-lifts-all-yachts.html) — *CNBC 9:29 AM CT*
-- [Nvidia, AMD to invest $4 billion in Meta as tech giants deepen AI partnership](https://www.cnbc.com/2026/10/27/nvidia-invest-meta.html) — *CNBC 9:19 AM CT*
-- [Frozen housing market sends remodelers mixed messages](https://www.cnbc.com/2026/10/27/frozen-housing-market-sends-remodelers-mixed-messages.html) — *CNBC 7:20 AM CT*
-- [Grand jury rejects DOJ bid to indict ex-Trump WH aide Cassidy Hutchinson: Reports](https://www.cnbc.com/2026/10/27/cassidy-hutchinson-doj-grand-jury-trump.html) — *CNBC 6:02 PM CT*
-- [Retail traders buy the dip on chip stocks — but Robinhood gets burned by the crypto market](https://www.marketwatch.com/story/retail-traders-buy-the-dip-on-chip-stocks-but-robinhood-gets-burned-by-the-crypto-market-33cea913?mod=mw_rss_topstories) — *MarketWatch 5:51 PM CT*
-- [Speaker Mike Johnson calls election-transfer concerns ‘absurd’](https://www.cnbc.com/2026/10/27/speaker-johnson-peaceful-transfer-midterms.html) — *CNBC 5:35 PM CT*
-- [‘She’s living the dream’: My stepmother said I can buy my childhood home for $850,000. Is she taking advantage of me?](https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories) — *MarketWatch 5:18 PM CT*
-- [AI debt fears ease ahead of Oracle, Alphabet and Amazon updates. Here's what to watch.](https://www.cnbc.com/2026/10/27/ai-debt-hyperscaler-earnings.html) — *CNBC 4:58 PM CT*
-- [As Trump touts energy companies’ fortunes, U.S. consumers face the most expensive year for gas prices ever](https://www.marketwatch.com/story/as-trump-touts-energy-companies-fortunes-u-s-consumers-face-the-most-expensive-year-for-gas-prices-ever-c467268c?mod=mw_rss_topstories) — *MarketWatch 4:29 PM CT*
-- [The rest of the market is leaving Big Tech behind after a historic comeback](https://www.marketwatch.com/story/the-rest-of-the-market-is-leaving-big-tech-behind-after-a-historic-comeback-324e9fb2?mod=mw_rss_topstories) — *MarketWatch 4:28 PM CT*
-- [Polymarket faces renewed CFTC probe over U.S. access to offshore platform](https://www.cnbc.com/2026/10/27/cftc-probes-polymarket-over-2022-settlement.html) — *CNBC 4:24 PM CT*
-- [Walmart says AI training is boosting confidence with the technology among its 2.1 million associates](https://www.cnbc.com/2026/10/27/walmart-ai-training-workers.html) — *CNBC 4:15 PM CT*
+- [Robinhood shares fall as crypto slump weighs on profits, offsetting gains in new businesses](https://www.cnbc.com/2026/10/27/robinhood-hood-q3-2026-earnings.html) — *CNBC 9:50 AM CT*
+- [Wendy's shares jump 15% as Nelson Peltz's Trian offers $1.4 billion to buy burger chain](https://www.cnbc.com/2026/10/28/nelson-peltz-trian-wendys-1point4-billion.html) — *CNBC 9:35 AM CT*
+- [DraftKings CEO Jason Robins says parents should talk with kids about responsible gambling](https://www.cnbc.com/2026/10/28/draftkings-ceo-jason-robins-parents-kids-should-talk-about-gambling.html) — *CNBC 9:35 AM CT*
+- [Stellantis stock rises 12% as automaker's turnaround plan, cost cuts gain traction](https://www.cnbc.com/2026/10/28/stellantis-45-billion-cash-drain-turnaround.html) — *CNBC 8:48 AM CT*
+- [Why China is desperate to ship cars outside of the country](https://www.cnbc.com/2026/10/28/china-car-exports.html) — *CNBC 8:17 AM CT*
+- [The 'Magnificent Seven' is no more. Time to pick winners and losers as group's correlation breaks down](https://www.cnbc.com/2026/10/28/magnificent-seven-stocks-correlation-breakdown.html) — *CNBC 8:09 AM CT*
+- [Luxury round-the-world cruise ends abruptly as fuel costs skyrocket](https://www.cnbc.com/2026/10/28/villa-vie-odyssey-fuel-costs.html) — *CNBC 6:39 AM CT*
+- [Mortgage rates fell for the second straight week, but more borrowers still sought savings in riskier loans](https://www.cnbc.com/2026/10/28/mortgage-rates-fell-for-the-second-straight-week.html) — *CNBC 6:33 AM CT*
+- [Flavor Flav, Hillary Clinton weigh in as WNBA takes flak for weekday lunchtime finals game](https://www.cnbc.com/2026/10/28/wnba-atlanta-dream-golden-state-valkyries-flavor-flav-hillary-clinton-.html) — *CNBC 2:58 AM CT*
+- [Oracle stock pops 12% as long-term revenue forecast and clarity on financing ease debt concerns](https://www.cnbc.com/2026/10/28/oracle-forecast-growth-2030.html) — *CNBC 2:20 PM CT*
+- [Microsoft will post earnings after the bell amid job cuts and new cash-flow test](https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html) — *CNBC 2:19 PM CT*
+- [Bond investor Jeff Gundlach on Fed's rate pause: 'What are you waiting for?'](https://www.cnbc.com/2026/10/28/bond-investor-jeff-gundlach-talks-feds-rate-pause-with-cnbc.html) — *CNBC 2:18 PM CT*
 
 ---
-*Generated 2026-10-27 18:03 CT | last 24h | sources: yfinance + Reuters/MarketWatch/CNBC*
+*Generated 2026-10-28 14:22 CT | last 24h | sources: yfinance + Reuters/MarketWatch/CNBC*
