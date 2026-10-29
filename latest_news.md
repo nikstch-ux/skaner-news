@@ -1,15 +1,16 @@
-# Market News — Wednesday October 28 2026 — 06:24 PM CT
+# Market News — Thursday October 29 2026 — 02:26 PM CT
 
-**SPY** $772.31  +0.31%  |  **VIX** 16.91  |  **Regime** OK  |  **Portfolio P&L** +$0  |  **Positions** 0
+**SPY** $768.1  -0.15%  |  **VIX** 16.83  |  **Regime** OK  |  **Portfolio P&L** +$0  |  **Positions** 0
 
-## MARKET ALERTS — 7 priority stories
-- [ServiceNow’s stock slides as earnings miss overshadows a raised AI outlook](https://www.marketwatch.com/story/servicenows-stock-slides-as-earnings-miss-clouds-a-raised-ai-outlook-96e48385?mod=mw_rss_topstories) — *MarketWatch 6:02 PM CT*
-- [Chipotle now has more demand from lower-income diners than higher-income ones](https://www.marketwatch.com/story/chipotle-expects-modestly-higher-sales-this-year-as-drive-thru-chipotlanes-come-to-more-stores-4f255bbc?mod=mw_rss_topstories) — *MarketWatch 5:25 PM CT*
-- [Chipotle shares rise 7% after CEO says same-store sales growth will continue](https://www.cnbc.com/2026/10/28/chipotle-mexican-grill-cmg-q3-2026-earnings.html) — *CNBC 5:12 PM CT*
-- [Here are five key takeaways from the Fed rate decision and Warsh news conference](https://www.cnbc.com/2026/10/28/fed-rate-decision-warsh-takeaways.html) — *CNBC 4:31 PM CT*
-- [Why did the Fed hold off on raising interest rates? Warsh says it’s because an ‘information-rich’ period is coming.](https://www.marketwatch.com/story/why-did-the-fed-hold-off-on-raising-interest-rates-warsh-says-its-because-an-information-rich-period-is-coming-098ced8d?mod=mw_rss_topstories) — *MarketWatch 4:27 PM CT*
-- [Fed holds rates steady despite concerns over inflation](https://www.cnbc.com/2026/10/28/fed-interest-rate-decision-october-2026.html) — *CNBC 2:43 PM CT*
-- [Fed chairman talks tough on inflation — plus, what's behind Micron's big rally](https://www.cnbc.com/investingclub/2026/10/28/fed-chairman-talks-tough-on-inflation-plus-whats-behind-microns-big-rally.html) — *CNBC 2:17 PM CT*
+## MARKET ALERTS — 9 priority stories
+- [European Central Bank keeps key interest rate on hold at 2.5%](https://www.cnbc.com/2026/10/29/european-central-bank-interest-rates.html) — *CNBC 9:48 AM CT*
+- [Hegseth reportedly fires U.S. top military planner as Trump downplays Iran peace talks](https://www.cnbc.com/2026/10/29/us-iran-war-trump-hormuz.html) — *CNBC 7:06 AM CT*
+- [Warren urges DOJ criminal probe of Bank of America over anti-money-laundering violations](https://www.cnbc.com/2026/10/29/warren-bank-of-america-criminal-probe.html) — *CNBC 7:00 AM CT*
+- [Our church has a $1.5 million bequest earning 3.75% in a bank account. Is inflation eroding it?](https://www.marketwatch.com/story/there-may-be-better-investment-options-my-church-received-1-5-million-from-a-parishioner-is-3-75-interest-enough-5164d790?mod=mw_rss_topstories) — *MarketWatch 1:30 PM CT*
+- [Third-quarter U.S. GDP increases a better-than-expected 3.4% as September inflation accelerates](https://www.cnbc.com/2026/10/29/pce-inflation-report-september-2026-.html) — *CNBC 1:06 PM CT*
+- [Aon CEO warns AI data center insurance risks could threaten financing](https://www.cnbc.com/2026/10/29/aon-ai-data-center-insurance-financing.html) — *CNBC 12:22 PM CT*
+- [This credit card is the ‘best weapon’ to fight debt while interest rates keep climbing](https://www.marketwatch.com/story/this-credit-card-is-the-best-weapon-to-fight-debt-while-interest-rates-keep-climbing-8378fcf2?mod=mw_rss_topstories) — *MarketWatch 11:49 AM CT*
+- [Alphabet earnings miss reflects first real sign that AI is taking a bite out of search](https://www.cnbc.com/2026/10/29/alphabet-google-search-ai-earnings.html) — *CNBC 11:25 AM CT*
 
 
 ---
@@ -20,15 +21,15 @@
 ---
 ## Market Pulse
 
-### SPY  $772.31  +0.31%
+### SPY  $768.1  -0.15%
 
-### QQQ  $725.61  +0.46%
+### QQQ  $713.59  -0.61%
 
-### VIX  $16.91  -3.43%
+### VIX  $16.83  -0.36%
 
-### SMH  $567.67  +1.57%
+### SMH  $558.91  +0.12%
 
-### XLK  $191.0  +0.74%
+### XLK  $188.11  -0.43%
 
 ---
 ## AI / Semiconductor Sector
@@ -37,18 +38,18 @@
 
 ---
 ## Market Headlines  *(Reuters · MarketWatch · CNBC)*
-- [Wendy's shares jump 15% as Nelson Peltz's Trian offers $1.4 billion to buy burger chain](https://www.cnbc.com/2026/10/28/nelson-peltz-trian-wendys-1point4-billion.html) — *CNBC 9:35 AM CT*
-- [The 'Magnificent Seven' is no more. Time to pick winners and losers as group's correlation breaks down](https://www.cnbc.com/2026/10/28/magnificent-seven-stocks-correlation-breakdown.html) — *CNBC 8:09 AM CT*
-- [Luxury round-the-world cruise ends abruptly as fuel costs skyrocket](https://www.cnbc.com/2026/10/28/villa-vie-odyssey-fuel-costs.html) — *CNBC 6:39 AM CT*
-- [Fortinet’s stock is taking a dive after earnings. Here’s why.](https://www.marketwatch.com/story/fortinets-stock-is-taking-a-dive-after-earnings-heres-why-d407896e?mod=mw_rss_topstories) — *MarketWatch 6:18 PM CT*
-- [DoorDash's deal to buy Instacart coming as early as Thursday morning, sources tell CNBC](https://www.cnbc.com/2026/10/28/doordash-instacart-maplebear.html) — *CNBC 6:17 PM CT*
-- [Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment.](https://www.marketwatch.com/story/is-it-curtains-for-cola-saving-social-security-could-mean-changing-the-cost-of-living-adjustment-867c6bd8?mod=mw_rss_topstories) — *MarketWatch 5:41 PM CT*
-- [Hands-on with Apple's first touchscreen laptop: Touch is totally optional](https://www.cnbc.com/2026/10/28/apple-touchscreen-macbook-pro-hands-on.html) — *CNBC 5:38 PM CT*
-- [Microsoft stock jumps 4% as cloud growth drives earnings and revenue beat](https://www.cnbc.com/2026/10/28/microsoft-msft-q1-earnings-report-2027.html) — *CNBC 5:34 PM CT*
-- [FedEx beats expectations, raises outlook in first report since calendar adjustment](https://www.cnbc.com/2026/10/28/fedex-fdx-sept-2026-earnings.html) — *CNBC 5:27 PM CT*
-- [Lumentum’s stock pops as investors cheer a possible sale to Marvell](https://www.marketwatch.com/story/lumentums-stock-pops-as-investors-cheer-a-possible-sale-to-marvell-07c1d0e8?mod=mw_rss_topstories) — *MarketWatch 5:08 PM CT*
-- [Alphabet sinks 10% as it holds 2026 capex unchanged, expects significant increase in 2027](https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html) — *CNBC 5:07 PM CT*
-- [Apple brings touch to the Mac, reversing years-old stance on touchscreen laptop](https://www.cnbc.com/2026/10/28/apple-mac-touchscreen-launch.html) — *CNBC 5:04 PM CT*
+- [The politics of President Lagarde's European Central Bank early exit  — and who could replace her](https://www.cnbc.com/2026/10/29/lagarde-ecb-stand-down.html) — *CNBC 9:53 AM CT*
+- [Restaurant Brands reports mixed results as Burger King's U.S. turnaround shows signs of success](https://www.cnbc.com/2026/10/29/restaurant-brands-international-qsr-q3-2026-earnings.html) — *CNBC 9:51 AM CT*
+- [Steve Eisman gets more conservative with portfolio as AI trade nears 'tipping point'](https://www.cnbc.com/2026/10/29/steve-eisman-gets-more-conservative-with-portfolio-as-ai-trade-nears-tipping-point.html) — *CNBC 9:15 AM CT*
+- [Open enrollment is a chance to get this ‘sneaky-good’ investment account that can be ‘better than a Roth’](https://www.cnbc.com/make-it/2026/10/29/hsa-retirement-investing.html) — *CNBC 9:00 AM CT*
+- [Kalshi valuation jumps to $40 billion in latest funding round](https://www.cnbc.com/2026/10/29/kalshi-40-billion-valuation-funding-round.html) — *CNBC 7:05 AM CT*
+- [Merck tops quarterly estimates, hikes profit outlook as new Keytruda form shows strength](https://www.cnbc.com/2026/10/29/merck-mrk-earnings-q3-2026.html) — *CNBC 6:24 AM CT*
+- [It's a 'socialist' bank — and North Dakota Republicans love it](https://www.cnbc.com/2026/10/29/bank-north-dakota-socialism-election.html) — *CNBC 5:00 AM CT*
+- [Nvidia responds to report Jensen Huang was target of Chinese asset, says diversion allegations were 'investigated and debunked'](https://www.cnbc.com/2026/10/29/nvidia-jensen-huang-chinese-intelligence-asset.html) — *CNBC 2:16 PM CT*
+- [Some Polymarket user funds stolen by hackers, exchange referring matter to U.K. authorities](https://www.cnbc.com/2026/10/29/polymarket-reports-outage-on-international-exchange-halts-trading.html) — *CNBC 2:16 PM CT*
+- [‘The $100 level is ours for awhile’: Oil won’t be getting cheap anytime soon, no matter what happens in the Gulf](https://www.marketwatch.com/story/the-100-level-is-ours-for-awhile-oil-wont-be-getting-cheap-anytime-soon-no-matter-what-happens-in-the-gulf-99d628bf?mod=mw_rss_topstories) — *MarketWatch 2:12 PM CT*
+- [We’re downgrading Alphabet after its rough quarter. Here’s where we’d buy again](https://www.cnbc.com/investingclub/2026/10/29/were-downgrading-alphabet-after-a-rough-quarter-where-wed-buy-again.html) — *CNBC 2:12 PM CT*
+- [Alphabet’s stock just triggered a ‘death cross.’ Could the worst of the selloff be over?](https://www.marketwatch.com/story/alphabets-stock-just-triggered-a-death-cross-could-the-worst-of-the-selloff-be-over-9f70d765?mod=mw_rss_topstories) — *MarketWatch 2:09 PM CT*
 
 ---
-*Generated 2026-10-28 18:24 CT | last 24h | sources: yfinance + Reuters/MarketWatch/CNBC*
+*Generated 2026-10-29 14:26 CT | last 24h | sources: yfinance + Reuters/MarketWatch/CNBC*
