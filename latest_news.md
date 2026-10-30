@@ -1,16 +1,16 @@
-# Market News — Friday October 30 2026 — 02:00 PM CT
+# Market News — Friday October 30 2026 — 06:06 PM CT
 
-**SPY** $751.59  -1.72%  |  **VIX** 22.58  |  **Regime** CAUTION ⚠  |  **Portfolio P&L** +$0  |  **Positions** 0
+**SPY** $755.72  -1.18%  |  **VIX** 19.42  |  **Regime** OK  |  **Portfolio P&L** +$0  |  **Positions** 0
 
-## MARKET ALERTS — 8 priority stories
-- [The big questions remaining after Anthropic’s blockbuster IPO prospectus](https://www.cnbc.com/2026/10/30/anthropic-ipo-s1-revenue-compute.html) — *CNBC 7:27 AM CT*
+## MARKET ALERTS — 9 priority stories
 - [Russian strikes plunge Ukrainian city into blackout as Zelenskyy warns of more missile attacks](https://www.cnbc.com/2026/10/30/russia-ukraine-putin-zelenskyy-energy-strikes.html) — *CNBC 6:29 AM CT*
-- [Rivian third-quarter earnings beat estimates as software revenue, R2 deliveries rise](https://www.cnbc.com/2026/10/29/rivian-rivn-earnings-q3-2026.html) — *CNBC 4:52 PM CT*
+- [Meta outlook revised downward by S&P on cash flow and capex concerns](https://www.cnbc.com/2026/10/30/meta-outlook-to-revised-to-negative-by-sp-after-cash-flow-negative.html) — *CNBC 5:42 PM CT*
+- [This cybersecurity stock will be the next to join the S&P 500](https://www.marketwatch.com/story/this-cybersecurity-stock-will-be-the-next-to-join-the-s-p-500-dc976803?mod=mw_rss_topstories) — *MarketWatch 5:20 PM CT*
+- [Why gold plunged to its lowest price in a year despite renewed Iran jitters](https://www.marketwatch.com/story/why-gold-plunged-to-its-lowest-price-in-a-year-despite-renewed-iran-jitters-365be0e2?mod=mw_rss_topstories) — *MarketWatch 4:30 PM CT*
+- [Warsh wants the Fed to say less. Two officials are pushing for more transparency.](https://www.marketwatch.com/story/the-fed-held-interest-rates-steady-but-these-officials-see-more-hikes-coming-soon-2098bbd8?mod=mw_rss_topstories) — *MarketWatch 4:23 PM CT*
+- [Microsoft is winning the cloud wars and becoming Wall Street’s new golden child](https://www.marketwatch.com/story/microsoft-is-winning-the-cloud-wars-and-becoming-wall-streets-new-golden-child-62eecbbd?mod=mw_rss_topstories) — *MarketWatch 3:29 PM CT*
 - [Iran claims four tankers struck mines in Hormuz as strike fears grow after U.S. midterms](https://www.cnbc.com/2026/10/30/iran-trump-hormuz-oil-middle-east-.html) — *CNBC 2:12 AM CT*
 - [Tankers defy sharp escalation of Iranian attacks to keep crude oil flowing through Strait of Hormuz](https://www.cnbc.com/2026/10/30/tanker-attack-strait-hormuz-iran-war-oil.html) — *CNBC 1:28 PM CT*
-- [Microsoft is winning the cloud wars and becoming Wall Street’s new golden child](https://www.marketwatch.com/story/microsoft-is-winning-the-cloud-wars-and-becoming-wall-streets-new-golden-child-62eecbbd?mod=mw_rss_topstories) — *MarketWatch 1:09 PM CT*
-- [American workers are finding their take-home pay isn’t keeping up with inflation, with their wallets ‘stretched thinner and thinner’](https://www.marketwatch.com/story/american-workers-are-finding-their-take-home-pay-isnt-keeping-up-with-inflation-with-their-wallets-stretching-thinner-and-thinner-6a1af690?mod=mw_rss_topstories) — *MarketWatch 12:44 PM CT*
-- [Chevron and Exxon hit all-time highs as refining profits soar in reaction to Iran and Ukraine wars](https://www.cnbc.com/2026/10/30/chevron-exxon-cvx-xom-earnings-q3-2026.html) — *CNBC 11:44 AM CT*
 
 
 ---
@@ -21,15 +21,15 @@
 ---
 ## Market Pulse
 
-### SPY  $751.59  -1.72%
+### SPY  $755.72  -1.18%
 
-### QQQ  $685.02  -2.74%
+### QQQ  $690.49  -1.96%
 
-### VIX  $22.58  +31.20%
+### VIX  $19.42  +12.84%
 
-### SMH  $514.32  -5.12%
+### SMH  $522.49  -3.62%
 
-### XLK  $177.48  -3.85%
+### XLK  $179.51  -2.75%
 
 ---
 ## AI / Semiconductor Sector
@@ -38,18 +38,18 @@
 
 ---
 ## Market Headlines  *(Reuters · MarketWatch · CNBC)*
-- [Starbucks sales miss expectations, but its U.S. turnaround is gaining steam](https://www.cnbc.com/2026/10/29/starbucks-sbux-q4-2026-earnings.html) — *CNBC 8:29 AM CT*
 - [Tech giants need legacy businesses to keep growing as they pour trillions into the AI buildout](https://www.cnbc.com/2026/10/30/tech-giants-alphabet-meta-microsoft-amazon-ai-buildouts.html) — *CNBC 6:00 AM CT*
+- [Alaska Senate election: DOJ wants to 'segregate' all ballots for 2nd Sullivan candidate](https://www.cnbc.com/2026/10/30/alaska-senate-election-doj-lawsuit-sullivan-peltola.html) — *CNBC 5:57 PM CT*
+- [Jim Cramer says it's time to look beyond tech. Here are 4 consumer stocks he likes](https://www.cnbc.com/2026/10/30/jim-cramer-consumer-staples-stocks.html) — *CNBC 5:52 PM CT*
 - [Gen Z is ditching bars for run clubs — and finding more than friends along the way](https://www.cnbc.com/2026/10/30/gen-z-diplo-run-club.html) — *CNBC 5:32 AM CT*
-- [Foxconn hopes to own 50% of the global AI server market within a couple years](https://www.cnbc.com/2026/10/30/hon-hai-technology-group-foxconn-ai-server-young-liu-.html) — *CNBC 2:43 AM CT*
-- ['Bad time to troll': Binance co-founder Zhao asks Musk for support after hack](https://www.cnbc.com/2026/10/30/binance-hack-elon-musk-tesla-spacex.html) — *CNBC 1:59 PM CT*
-- [Is your crypto safe? What Binance’s $6.3 billion hack means for bitcoin investors.](https://www.marketwatch.com/story/heres-when-binance-plans-to-reopen-after-whats-believed-to-be-the-largest-ever-6-3-billion-hack-d3cb8154?mod=mw_rss_topstories) — *MarketWatch 1:50 PM CT*
-- [Cheaper cars are selling considerably faster than at the beginning of the year](https://www.cnbc.com/2026/10/30/cheap-cars-selling-fast.html) — *CNBC 1:45 PM CT*
-- [Reid Hoffman gives millions to Dems in late spending spree as Epstein fight spills into election](https://www.cnbc.com/2026/10/30/reid-hoffman-democrats-epstein-midterms-2026.html) — *CNBC 1:32 PM CT*
-- [My father has Alzheimer’s and his caregiver is using his debit card for DoorDash. Do I intervene?](https://www.marketwatch.com/story/theres-a-lot-of-hurt-between-us-my-fathers-caregiver-is-using-his-debit-card-for-doordash-orders-what-can-i-do-714de7a5?mod=mw_rss_topstories) — *MarketWatch 1:30 PM CT*
-- [Alaska Senate: Judge fast tracks new bids to dismiss DOJ lawsuit over 2nd Sullivan candidacy](https://www.cnbc.com/2026/10/30/alaska-senate-election-doj-lawsuit-sullivan-peltola.html) — *CNBC 1:20 PM CT*
-- [Fed officials are already saying they’ll need to get back to hiking rates](https://www.cnbc.com/2026/10/30/musalem-fed-monetary-policy-tightening.html) — *CNBC 1:18 PM CT*
-- [Wall Street braces for Democratic gains as 2026 midterm election nears](https://www.cnbc.com/2026/10/30/2026-midterm-election-wall-street-prepares-for-democratic-gains.html) — *CNBC 1:13 PM CT*
+- [Cramer’s week ahead: Expect more volatility as tech earnings, midterms loom](https://www.cnbc.com/2026/10/30/jim-cramer-week-ahead-apple-amd-jobs-report.html) — *CNBC 5:17 PM CT*
+- [Gamble on democracy: Inside suspicious election-contracts trading on prediction markets](https://www.cnbc.com/2026/10/30/gamble-on-democracy-inside-suspicious-election-contracts-trading-on-prediction-markets-.html) — *CNBC 5:00 PM CT*
+- [Fed officials are already saying they’ll need to get back to hiking rates](https://www.cnbc.com/2026/10/30/musalem-fed-monetary-policy-tightening.html) — *CNBC 4:53 PM CT*
+- [Binance loses $6.3 billion in crypto heist—what happens to your money when an exchange gets hacked](https://www.cnbc.com/make-it/2026/10/30/binance-crypto-hack-customer-funds.html) — *CNBC 4:45 PM CT*
+- [$6.3 billion Binance hack is largest crypto theft on record](https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html) — *CNBC 4:21 PM CT*
+- [In a wild October for markets, these stocks were the biggest winners and losers](https://www.marketwatch.com/story/in-a-wild-october-for-markets-these-stocks-were-the-biggest-winners-and-losers-3736f043?mod=mw_rss_topstories) — *MarketWatch 3:52 PM CT*
+- [Why Intel’s stock saw its worst day in decades — and a $140 billion wipeout](https://www.marketwatch.com/story/why-intels-stock-is-sinking-toward-its-worst-drop-in-two-years-492d71a7?mod=mw_rss_topstories) — *MarketWatch 3:48 PM CT*
+- [Reddit’s stock logs its biggest one-day drop ever. It’s not the last of the bad news, analysts say.](https://www.marketwatch.com/story/reddit-shares-on-track-for-largest-ever-one-day-drop-and-analysts-say-the-bad-news-hasnt-ended-25d46284?mod=mw_rss_topstories) — *MarketWatch 3:42 PM CT*
 
 ---
-*Generated 2026-10-30 14:00 CT | last 24h | sources: yfinance + Reuters/MarketWatch/CNBC*
+*Generated 2026-10-30 18:06 CT | last 24h | sources: yfinance + Reuters/MarketWatch/CNBC*
