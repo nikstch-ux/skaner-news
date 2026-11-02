@@ -1,16 +1,14 @@
-# Market News — Friday October 30 2026 — 06:06 PM CT
+# Market News — Monday November 02 2026 — 04:37 PM CT
 
-**SPY** $755.72  -1.18%  |  **VIX** 19.42  |  **Regime** OK  |  **Portfolio P&L** +$0  |  **Positions** 0
+**SPY** $752.1  -0.66%  |  **VIX** 21.15  |  **Regime** CAUTION ⚠  |  **Portfolio P&L** +$0  |  **Positions** 0
 
-## MARKET ALERTS — 9 priority stories
-- [Russian strikes plunge Ukrainian city into blackout as Zelenskyy warns of more missile attacks](https://www.cnbc.com/2026/10/30/russia-ukraine-putin-zelenskyy-energy-strikes.html) — *CNBC 6:29 AM CT*
-- [Meta outlook revised downward by S&P on cash flow and capex concerns](https://www.cnbc.com/2026/10/30/meta-outlook-to-revised-to-negative-by-sp-after-cash-flow-negative.html) — *CNBC 5:42 PM CT*
-- [This cybersecurity stock will be the next to join the S&P 500](https://www.marketwatch.com/story/this-cybersecurity-stock-will-be-the-next-to-join-the-s-p-500-dc976803?mod=mw_rss_topstories) — *MarketWatch 5:20 PM CT*
-- [Why gold plunged to its lowest price in a year despite renewed Iran jitters](https://www.marketwatch.com/story/why-gold-plunged-to-its-lowest-price-in-a-year-despite-renewed-iran-jitters-365be0e2?mod=mw_rss_topstories) — *MarketWatch 4:30 PM CT*
-- [Warsh wants the Fed to say less. Two officials are pushing for more transparency.](https://www.marketwatch.com/story/the-fed-held-interest-rates-steady-but-these-officials-see-more-hikes-coming-soon-2098bbd8?mod=mw_rss_topstories) — *MarketWatch 4:23 PM CT*
-- [Microsoft is winning the cloud wars and becoming Wall Street’s new golden child](https://www.marketwatch.com/story/microsoft-is-winning-the-cloud-wars-and-becoming-wall-streets-new-golden-child-62eecbbd?mod=mw_rss_topstories) — *MarketWatch 3:29 PM CT*
-- [Iran claims four tankers struck mines in Hormuz as strike fears grow after U.S. midterms](https://www.cnbc.com/2026/10/30/iran-trump-hormuz-oil-middle-east-.html) — *CNBC 2:12 AM CT*
-- [Tankers defy sharp escalation of Iranian attacks to keep crude oil flowing through Strait of Hormuz](https://www.cnbc.com/2026/10/30/tanker-attack-strait-hormuz-iran-war-oil.html) — *CNBC 1:28 PM CT*
+## MARKET ALERTS — 6 priority stories
+- [Fake nuclear warnings in Ukraine as Moscow, Kyiv report separate cyberattacks on emergency apps](https://www.cnbc.com/2026/11/02/russia-ukraine-cyberattack-zelenskyy-putin.html) — *CNBC 9:28 AM CT*
+- [Rubio says Trump wants to end Iran war 'peacefully' even as both sides prepare for strikes](https://www.cnbc.com/2026/11/02/us-iran-war-trump-hormuz-rubio.html) — *CNBC 8:39 PM CT*
+- [Crude oil prices sell off more than 7% on Iran peace talk hopes ahead of U.S. midterms](https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html) — *CNBC 2:19 PM CT*
+- [Stock market after midterm elections: What S&P 500 history shows](https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html) — *CNBC 11:57 AM CT*
+- [Anthropic reports $17 billion in Q3 revenue, purchase commitments of $895.4 billion in revised S-1](https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html) — *CNBC 11:52 AM CT*
+- [CrowdStrike lands an upgrade, and Jim Cramer's advice on Apple ahead of earnings](https://www.cnbc.com/investingclub/2026/11/02/crowdstrike-lands-an-upgrade-and-jim-cramers-advice-on-apple-ahead-of-earnings.html) — *CNBC 11:04 AM CT*
 
 
 ---
@@ -21,15 +19,15 @@
 ---
 ## Market Pulse
 
-### SPY  $755.72  -1.18%
+### SPY  $752.1  -0.66%
 
-### QQQ  $690.49  -1.96%
+### QQQ  $681.09  -1.68%
 
-### VIX  $19.42  +12.84%
+### VIX  $21.15  +8.80%
 
-### SMH  $522.49  -3.62%
+### SMH  $508.31  -3.49%
 
-### XLK  $179.51  -2.75%
+### XLK  $174.22  -3.29%
 
 ---
 ## AI / Semiconductor Sector
@@ -38,18 +36,18 @@
 
 ---
 ## Market Headlines  *(Reuters · MarketWatch · CNBC)*
-- [Tech giants need legacy businesses to keep growing as they pour trillions into the AI buildout](https://www.cnbc.com/2026/10/30/tech-giants-alphabet-meta-microsoft-amazon-ai-buildouts.html) — *CNBC 6:00 AM CT*
-- [Alaska Senate election: DOJ wants to 'segregate' all ballots for 2nd Sullivan candidate](https://www.cnbc.com/2026/10/30/alaska-senate-election-doj-lawsuit-sullivan-peltola.html) — *CNBC 5:57 PM CT*
-- [Jim Cramer says it's time to look beyond tech. Here are 4 consumer stocks he likes](https://www.cnbc.com/2026/10/30/jim-cramer-consumer-staples-stocks.html) — *CNBC 5:52 PM CT*
-- [Gen Z is ditching bars for run clubs — and finding more than friends along the way](https://www.cnbc.com/2026/10/30/gen-z-diplo-run-club.html) — *CNBC 5:32 AM CT*
-- [Cramer’s week ahead: Expect more volatility as tech earnings, midterms loom](https://www.cnbc.com/2026/10/30/jim-cramer-week-ahead-apple-amd-jobs-report.html) — *CNBC 5:17 PM CT*
-- [Gamble on democracy: Inside suspicious election-contracts trading on prediction markets](https://www.cnbc.com/2026/10/30/gamble-on-democracy-inside-suspicious-election-contracts-trading-on-prediction-markets-.html) — *CNBC 5:00 PM CT*
-- [Fed officials are already saying they’ll need to get back to hiking rates](https://www.cnbc.com/2026/10/30/musalem-fed-monetary-policy-tightening.html) — *CNBC 4:53 PM CT*
-- [Binance loses $6.3 billion in crypto heist—what happens to your money when an exchange gets hacked](https://www.cnbc.com/make-it/2026/10/30/binance-crypto-hack-customer-funds.html) — *CNBC 4:45 PM CT*
-- [$6.3 billion Binance hack is largest crypto theft on record](https://www.cnbc.com/2026/10/29/circle-tether-freeze-funds-impacted-by-potential-binance-security-issue.html) — *CNBC 4:21 PM CT*
-- [In a wild October for markets, these stocks were the biggest winners and losers](https://www.marketwatch.com/story/in-a-wild-october-for-markets-these-stocks-were-the-biggest-winners-and-losers-3736f043?mod=mw_rss_topstories) — *MarketWatch 3:52 PM CT*
-- [Why Intel’s stock saw its worst day in decades — and a $140 billion wipeout](https://www.marketwatch.com/story/why-intels-stock-is-sinking-toward-its-worst-drop-in-two-years-492d71a7?mod=mw_rss_topstories) — *MarketWatch 3:48 PM CT*
-- [Reddit’s stock logs its biggest one-day drop ever. It’s not the last of the bad news, analysts say.](https://www.marketwatch.com/story/reddit-shares-on-track-for-largest-ever-one-day-drop-and-analysts-say-the-bad-news-hasnt-ended-25d46284?mod=mw_rss_topstories) — *MarketWatch 3:42 PM CT*
+- [Wall Street's Fear Index is doing something strange. Here's what it means for stocks](https://www.cnbc.com/2026/11/02/wall-streets-fear-index-is-doing-something-strange-heres-what-it-means-for-stocks.html) — *CNBC 9:30 AM CT*
+- [Connecticut Sen. Chris Murphy hospitalized after stroke, office says](https://www.cnbc.com/2026/11/01/chris-murphy-stroke-senate-hospital.html) — *CNBC 8:14 AM CT*
+- [Palantir reports booming U.S. commercial revenue growth, topping government for first time](https://www.cnbc.com/2026/11/02/palantir-pltr-earnings-q3-2026.html) — *CNBC 4:22 PM CT*
+- [Traders rushing into a leveraged ETF to make a bullish bet on the Nasdaq-100 just got burned](https://www.marketwatch.com/story/traders-rushing-into-a-leveraged-etf-to-make-a-bullish-bet-on-the-nasdaq-100-just-got-burned-d6775191?mod=mw_rss_topstories) — *MarketWatch 4:03 PM CT*
+- [Wall Street’s most hated stocks are faring far better than its favorites](https://www.marketwatch.com/story/wall-streets-most-hated-stocks-are-faring-far-better-than-its-favorites-4c1d6c68?mod=mw_rss_topstories) — *MarketWatch 3:45 PM CT*
+- [Want to help your adult kids and grandkids? Give them money while you’re still alive.](https://www.marketwatch.com/story/if-you-really-want-to-help-your-adult-kids-and-grandkids-give-them-money-while-youre-still-alive-bef6b056?mod=mw_rss_topstories) — *MarketWatch 3:35 PM CT*
+- [Kimberly-Clark closes its acquisition of Tylenol maker Kenvue. What to expect next](https://www.cnbc.com/investingclub/2026/11/02/kimberly-clark-closes-its-acquisition-of-tylenol-maker-kenvue-what-to-expect-next.html) — *CNBC 3:35 PM CT*
+- [‘She’s a Type A personality’: My stepmother wants me to repay my late father’s $40,000 wedding gift. Should I oblige?](https://www.marketwatch.com/story/shes-a-type-a-personality-my-stepmother-wants-me-to-repay-my-late-fathers-40-000-wedding-gift-should-i-oblige-51fc64f7?mod=mw_rss_topstories) — *MarketWatch 3:30 PM CT*
+- [The stock market has gone nowhere for the past 5 months. It’s now looking like a bargain.](https://www.marketwatch.com/story/the-stock-market-has-gone-nowhere-for-the-past-5-months-its-now-looking-like-a-bargain-150914c2?mod=mw_rss_topstories) — *MarketWatch 3:29 PM CT*
+- [Trump focuses on Reflecting Pool in final public speech before midterms](https://www.cnbc.com/2026/11/02/trump-midterm-election-speech-reflecting-pool.html) — *CNBC 3:15 PM CT*
+- [Texas governor race tightens in prediction markets, but Abbott remains favored](https://www.cnbc.com/2026/11/02/texas-governor-prediction-markets-abbott-hinojosa.html) — *CNBC 3:13 PM CT*
+- [Apollo launches $11 billion private credit platform, backed by Abu Dhabi](https://www.cnbc.com/2026/11/02/apollo-private-credit-abu-dhabi.html) — *CNBC 3:11 AM CT*
 
 ---
-*Generated 2026-10-30 18:06 CT | last 24h | sources: yfinance + Reuters/MarketWatch/CNBC*
+*Generated 2026-11-02 16:37 CT | last 24h | sources: yfinance + Reuters/MarketWatch/CNBC*
