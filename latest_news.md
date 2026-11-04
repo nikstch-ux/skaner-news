@@ -1,15 +1,16 @@
-# Market News — Tuesday November 03 2026 — 02:25 PM CT
+# Market News — Wednesday November 04 2026 — 02:41 PM CT
 
-**SPY** $754.68  +0.22%  |  **VIX** 20.85  |  **Regime** CAUTION ⚠  |  **Portfolio P&L** +$0  |  **Positions** 0
+**SPY** $767.6  +1.67%  |  **VIX** 16.78  |  **Regime** OK  |  **Portfolio P&L** +$0  |  **Positions** 0
 
-## MARKET ALERTS — 7 priority stories
-- [Versant earnings beat expectations as digital platforms drive growth](https://www.cnbc.com/2026/11/03/versant-vsnt-q3-2026-earnings.html) — *CNBC 8:17 AM CT*
-- [CrowdStrike launches AI kill switch that it says can stop internal agents that go rogue](https://www.cnbc.com/2026/11/03/crowdstrike-ai-kill-switch-rogue-agents.html) — *CNBC 2:25 PM CT*
-- [Apple warns of risks related to AI agents behaving in 'unintended or unpredictable' ways](https://www.cnbc.com/2026/11/03/apple-warns-of-ai-agents-behave-in-unintended-or-unpredictable-ways.html) — *CNBC 2:10 PM CT*
-- [Crude oil prices fall for second day as market hopes for diplomatic resolution to Iran war](https://www.cnbc.com/2026/11/03/oil-prices-climb-after-us-reportedly-strikes-irans-qeshm-island.html) — *CNBC 2:02 PM CT*
-- [Ferrari raises 2026 guidance after Q3 earnings beat](https://www.cnbc.com/2026/11/03/ferrari-race-earnings-q3-2026.html) — *CNBC 12:52 PM CT*
-- [Russia confirms new Ukraine peace talks as Melania Trump prepares to host ceasefire meeting](https://www.cnbc.com/2026/11/03/russia-ukraine-peace-talks-abu-dhabi-trump-putin-xi.html) — *CNBC 12:25 PM CT*
-- [Bill Ackman warns of 'casino' stock market as speculative trading grows](https://www.cnbc.com/2026/11/03/bill-ackman-casino-stock-market.html) — *CNBC 10:23 AM CT*
+## MARKET ALERTS — 9 priority stories
+- [Prologis CEO says warehouse demands are shifting fast. Here's how he's keeping up](https://www.cnbc.com/2026/11/04/prologis-ceo-says-warehouse-demands-are-shifting-how-hes-keeping-up.html) — *CNBC 9:22 AM CT*
+- [AI data center stocks and Musk's SpaceX decline as Texas governor result raises risks of a slowdown](https://www.cnbc.com/2026/11/04/ai-stocks-texas-governor-data-centers.html) — *CNBC 8:43 AM CT*
+- [Americans have said 'NO TO WAR,' Iran speaker says as Democrats take Congress](https://www.cnbc.com/2026/11/04/us-midterm-elections-iran-war-speaker.html) — *CNBC 7:43 AM CT*
+- [What Trump losing power over Congress means for Iran, Ukraine and foreign policy](https://www.cnbc.com/2026/11/04/democrats-congress-trump-foreign-policy.html) — *CNBC 6:07 AM CT*
+- [Oil prices are in freefall now that the Democratic sweep is ‘rewriting the Iran playbook’](https://www.marketwatch.com/story/oil-prices-are-in-freefall-now-that-the-democratic-sweep-is-rewriting-the-iran-playbook-aa437b85?mod=mw_rss_topstories) — *MarketWatch 2:28 PM CT*
+- [The midterm election results are redrawing the map for AI data centers](https://www.marketwatch.com/story/the-midterm-election-results-are-redrawing-the-map-for-ai-data-centers-8625dc0c?mod=mw_rss_topstories) — *MarketWatch 2:21 PM CT*
+- [As Vistra and other energy stocks slide, some analysts warn of an ‘excessive knee-jerk’ reaction](https://www.marketwatch.com/story/as-vistra-and-other-energy-stocks-slide-some-analysts-warn-of-an-excessive-knee-jerk-reaction-aece0737?mod=mw_rss_topstories) — *MarketWatch 2:17 PM CT*
+- [Voters rebuff data centers in every ballot measure except one during the 2026 midterms](https://www.cnbc.com/2026/11/04/data-center-ballot-measures-2026-midterm.html) — *CNBC 1:51 PM CT*
 
 
 ---
@@ -20,71 +21,72 @@
 ---
 ## Market Pulse
 
-### SPY  $754.68  +0.22%
-- [Investors Are Beginning to Say That Meta Is The Best Buy And Hold Stock Through 2030](https://247wallst.com/investing/2026/11/03/investors-are-beginning-to-say-that-meta-is-the-best-buy-and-hold-stock-through-2030/) — *24/7 Wall St. 11:45 AM CT*
-- [Palantir’s Bookings Worry Is Dragging Down These Widely Held ETFs](https://247wallst.com/investing/etf/2026/11/03/palantirs-bookings-worry-is-dragging-down-these-widely-held-etfs/) — *24/7 Wall St. 10:33 AM CT*
-- [‘Great For Our Farmers, Great For Our Country’: Trump Says ‘Concept of a Deal’ Reached With Canada](https://finance.yahoo.com/economy/policy/articles/great-farmers-great-country-trump-163005769.html) — *Benzinga 10:30 AM CT*
+### SPY  $767.6  +1.67%
+- [Job Openings Are Rising, but Hiring Is the Slowest Since 2013. But How?](https://247wallst.com/investing/2026/11/04/job-openings-are-rising-but-hiring-is-the-slowest-since-2013-but-how/) — *24/7 Wall St. 12:08 PM CT*
+- [Counterparty Concentration and Depreciation Define CoreWeave Now](https://247wallst.com/investing/2026/11/04/counterparty-concentration-and-depreciation-define-coreweave-now/) — *24/7 Wall St. 9:45 AM CT*
+- [Midterm Elections Are Over. Here’s What History Says About the Next 12 Months](https://247wallst.com/investing/2026/11/04/midterm-elections-are-over-heres-what-history-says-about-the-next-12-months/) — *24/7 Wall St. 8:47 AM CT*
 
-### QQQ  $685.69  +0.40%
-- [Exchange-Traded Funds Higher, US Equities Mixed After Midday](https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-higher-us-181052694.html) — *MT Newswires 12:10 PM CT*
-- [Coinbase Stock Rallies Again. Here’s How Much Crypto Risk Is Hiding in Your ETFs](https://247wallst.com/investing/etf/2026/11/03/coinbase-stock-rallies-again-heres-how-much-crypto-risk-is-hiding-in-your-etfs/) — *24/7 Wall St. 10:43 AM CT*
-- [AI spending boom could exceed $10 trillion, raising fears of financial fallout](https://finance.yahoo.com/technology/ai/articles/ai-spending-boom-could-exceed-164317229.html) — *Investing.com 10:43 AM CT*
+### QQQ  $692.15  +0.91%
+- [Dow Surges After Democrats Sweep Midterm Elections](https://finance.yahoo.com/markets/stocks/articles/dow-surges-democrats-sweep-midterm-195252465.html) — *GuruFocus.com 1:52 PM CT*
+- [Own an AI or Tech ETF? Arista’s Big Quarter Just Paid Off](https://247wallst.com/investing/etf/2026/11/04/own-an-ai-or-tech-etf-aristas-big-quarter-just-paid-off/) — *24/7 Wall St. 1:33 PM CT*
+- [Exchange-Traded Funds Higher as US Equities Advance After Midday](https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-higher-us-180914189.html) — *MT Newswires 12:09 PM CT*
 
-### VIX  $20.85  -1.51%
-- [Market Fear Gauge Nears 5-Month High as Wall Street Braces for Big Midterm Moves](https://www.barrons.com/livecoverage/stock-market-news-today-110326/card/market-fear-gauge-nears-5-month-high-as-wall-street-braces-for-big-midterm-moves-cJeHuBPO224b1xsfnFVE?siteid=yhoof2&yptr=yahoo) — *Barrons.com 5:50 AM CT*
+### VIX  $16.78  -19.37%
+- [How the VIX Tends to Perform After Overtaking 20](https://finance.yahoo.com/markets/options/articles/vix-tends-perform-overtaking-20-132602540.html) — *Schaeffer's Investment Research 7:26 AM CT*
+- [Democrats Win Congress As America's Data Center Backlash Hits The Ballot Box](https://www.bisnow.com/news/national/economy/the-results-are-in-what-we-know-so-far-about-cres-midterms-shake-out) — *Bisnow 7:30 PM CT*
 
-### SMH  $518.42  +1.16%
-- [South Korea Doubles AI Chip Budget: 4 ETFs to Ride the Wave](https://finance.yahoo.com/technology/ai/articles/south-korea-doubles-ai-chip-131800666.html) — *Zacks 7:18 AM CT*
-- [Tech Jumps Over Apple Q3 Report on Wall Street Pre-Bell; Asia, Europe Off](https://finance.yahoo.com/markets/stocks/articles/tech-jumps-over-apple-q3-110938128.html) — *MT Newswires 5:09 AM CT*
-- [S&P 500, Nasdaq Drop As Capex Concerns Grip Tech Investors, Outweighing US-Iran Diplomacy Hope —  ORCL, META, PLTR, AAPL In Focus](https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-drop-as-capex-concerns-grip-tech-investors-outweighing-us-iran-diplomacy-hope/cNGQZKqR9PD) — *Stocktwits 6:22 PM CT*
+### SMH  $501.35  -3.98%
+- [Stocks shrugged off the blue wave overnight — history says don't trust the bounce yet](https://finance.yahoo.com/markets/article/stocks-shrugged-off-the-blue-wave-overnight--history-says-dont-trust-the-bounce-yet-153846605.html) — *Yahoo Finance 9:38 AM CT*
+- [US Elections, Tech Optimism Lift Wall Street Pre-Bell; Asia Mixed, Europe Up](https://finance.yahoo.com/markets/stocks/articles/us-elections-tech-optimism-lift-111414286.html) — *MT Newswires 5:14 AM CT*
+- [S&P 500, Nasdaq Recover From AI Rout On US Midterm Election Day —  META, AAPL, AMD, SKHY In Focus](https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-recover-from-ai-rout-on-us-midterm-election-day-meta-aapl-amd-skhy-in-focus/cNGXlSbR9dS) — *Stocktwits 5:29 PM CT*
 
-### XLK  $176.55  +1.15%
-- [Sector Update: Tech Stocks Rise Tuesday Afternoon](https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-rise-tuesday-182519139.html) — *MT Newswires 12:25 PM CT*
-- [Do Wall Street Analysts Like Hewlett Packard Enterprise Stock?](https://www.barchart.com/story/news/8610417/do-wall-street-analysts-like-hewlett-packard-enterprise-stock) — *Barchart 4:57 AM CT*
-- [Sector Update: Tech Stocks Fall Late Afternoon](https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-fall-afternoon-205134097.html) — *MT Newswires 2:51 PM CT*
+### XLK  $176.47  -0.73%
+- [Sector Update: Tech Stocks Mixed Wednesday Afternoon](https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-mixed-wednesday-182712833.html) — *MT Newswires 12:27 PM CT*
+- [Stock Market News for Nov 4, 2026](https://finance.yahoo.com/markets/stocks/articles/stock-market-news-nov-4-132500586.html) — *Zacks 7:25 AM CT*
+- [Are Wall Street Analysts Bullish on HP Inc. Stock?](https://www.barchart.com/story/news/8644181/are-wall-street-analysts-bullish-on-hp-inc-stock) — *Barchart 6:54 AM CT*
 
 ---
 ## AI / Semiconductor Sector
 
-### NVDA  $206.92  +1.60%
-- [Micron, Nvidia, and AMD lead chip stocks' rebound](https://finance.yahoo.com/markets/article/micron-nvidia-amd-lead-chip-stocks-rebound-140538628.html) — *Yahoo Finance 8:05 AM CT*
-- [This AI Boom is not 1999 all over again — and here's why](https://finance.yahoo.com/video/this-ai-boom-is-not-1999-all-over-again--and-heres-why-151849805.html) — *Yahoo Finance Video 9:18 AM CT*
-- [Stock Market Today: Dow Dips, Palantir Fights Back; These Insurance Stocks Clear Entry Points (Live Coverage)](https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-election-day-apple-stock-palantir-stock/?src=A00220&yptr=yahoo) — *Investor's Business Daily 12:52 PM CT*
+### NVDA  $201.15  -3.34%
+- [Dow Heads for Best Post-Election Day Peformance in Decades](https://www.barrons.com/livecoverage/stock-market-news-today-110426/card/dow-skyrockets-1-500-points-in-best-day-since-trump-s-tariff-pause-VMSWQxf1stpK33dtSPtV?siteid=yhoof2&yptr=yahoo) — *Barrons.com 2:34 PM CT*
+- [5 Cheapest AI Data Center Stocks to Buy According to Billionaires](https://finance.yahoo.com/technology/ai/articles/5-cheapest-ai-data-center-203221920.html) — *Insider Monkey 2:32 PM CT*
+- [Shopify Could Be the Best Growth Stock to Buy With $1,000 in November](https://www.fool.com/investing/2026/11/04/shopify-could-be-the-best-growth-stock-to-buy-with/) — *Motley Fool 2:30 PM CT*
 
-### AMD  $487.05  +3.03%
-- [Stock market today: Dow slips, S&P 500, Nasdaq gain as chip stocks rebound ahead of AMD earnings](https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-3-dow-sp-500-nasdaq-midterms-amd-earnings-141143244.html) — *Yahoo Finance 3:08 AM CT*
-- [Apple stock falls, chip stocks rebound as oil extends decline: AlphaCheck](https://finance.yahoo.com/markets/article/apple-stock-falls-chip-stocks-rebound-as-oil-extends-decline-alphacheck-150120677.html) — *Yahoo Finance 9:01 AM CT*
-- [Earnings from AMD and Pfizer plus labor market data: What to Watch](https://finance.yahoo.com/video/earnings-amd-pfizer-plus-labor-130000986.html) — *Yahoo Finance Video 7:00 AM CT*
+### AMD  $481.38  -6.61%
+- [Market reaction to changes in Congress, AMD earnings, and where to find value in healthcare stocks](https://finance.yahoo.com/video/market-reaction-to-changes-in-congress-amd-earnings-and-where-to-find-value-in-healthcare-stocks-185012443.html) — *Yahoo Finance Video 12:50 PM CT*
+- [AMD: Why investors should take another look](https://finance.yahoo.com/video/amd-why-investors-should-take-another-look-153957725.html) — *Yahoo Finance Video 9:39 AM CT*
+- [Post-election gridlock might be a bullish sign for Apple,](https://finance.yahoo.com/video/post-election-gridlock-might-be-a-bullish-sign-for-apple-150824062.html) — *Yahoo Finance Video 9:08 AM CT*
 
-### TSM  $405.44  +1.11%
-- [Taiwan Semi or Broadcom: If I Could Only Own 1 for the Next 5 Years, It Would Be This](https://www.fool.com/investing/2026/11/03/taiwan-semi-or-broadcom-if-i-could-only-own-1-for/) — *Motley Fool 10:20 AM CT*
-- [Until Next Gen Computing Implodes I’ll Keep Buying Taiwan Semiconductor](https://247wallst.com/investing/2026/11/03/until-next-gen-computing-implodes-ill-keep-buying-taiwan-semiconductor/) — *24/7 Wall St. 9:45 AM CT*
-- [AMD Fell 16% in a Month Before Earnings. Forecasts Call for 501% Profit Growth in Four Years](https://247wallst.com/investing/2026/11/03/amd-fell-16-in-a-month-before-earnings-forecasts-call-for-501-profit-growth-in-four-years/) — *24/7 Wall St. 6:17 AM CT*
+### TSM  $394.83  -2.99%
+- [TSMC Stocks Move Lower as November Sales Data Face a $53.3 Billion Quarterly Hurdle](https://finance.yahoo.com/markets/stocks/articles/tsmc-stocks-move-lower-november-151537685.html) — *GuruFocus.com 9:15 AM CT*
+- [Better AI Semiconductor Monopoly Stock: Taiwan Semiconductor vs. ASML](https://www.fool.com/investing/2026/11/04/better-ai-semiconductor-monopoly-stock-taiwan-semi/) — *Motley Fool 9:15 AM CT*
+- [4 Semiconductor Stocks to Buy as Q3 Sales Soar on Robust AI Demand](https://finance.yahoo.com/technology/articles/4-semiconductor-stocks-buy-q3-134400671.html) — *Zacks 7:44 AM CT*
 
-### MRVL  $170.39  -2.07%
-- [Why Wall Street isn't exactly loving Marvell's $115B Lumentum deal](https://finance.yahoo.com/video/why-wall-street-isnt-exactly-loving-marvells-115b-lumentum-deal-145204052.html) — *Yahoo Finance Video 8:52 AM CT*
-- [AXT Dropped 14% in a Week After a Record Quarter. Wedbush Still Sees $93](https://www.tikr.com/blog/axt-dropped-14-in-a-week-after-a-record-quarter-wedbush-still-sees-93?ref=yahoofinance&tlnk=yf-261103-rhv3q6r8) — *TIKR 12:59 PM CT*
-- [Marvell’s Lumentum Buy Threatens Broadcom’s AI Optics Lead, Says TrendForce](https://stocktwits.com/news-articles/markets/equity/marvell-s-lumentum-buy-threatens-broadcom-s-ai-optics-lead-says-trend-force/cNGXQHiR9dW) — *Stocktwits 12:43 PM CT*
+### MRVL  $158.16  -8.11%
+- [Lumentum Sinks 10% With Marvell as Blue Wave Hits Data-Center Stocks: “Premium Can Quickly Go Negative”](https://www.tikr.com/blog/lumentum-sinks-10-with-marvell-as-blue-wave-hits-data-center-stocks-premium-can-quickly-go-negative?ref=yahoofinance&tlnk=yf-261104-h5m994wv) — *TIKR 1:06 PM CT*
+- [Astera Labs Plunges 27% in 3 Months: Buy, Sell, or Hold the Stock?](https://finance.yahoo.com/markets/stocks/articles/astera-labs-plunges-27-3-180300332.html) — *Zacks 12:03 PM CT*
+- [Credo Stock Dips 27% in the Past Month: What Should Investors Do Next?](https://finance.yahoo.com/markets/stocks/articles/credo-stock-dips-27-past-175000052.html) — *Zacks 11:50 AM CT*
 
-### AVGO  $332.36  +2.80%
-- [Tech Stocks Rise Despite Apple Slump](https://www.wsj.com/finance/investing/dow-futures-fall-treasurys-yields-rise-heading-into-midterms-d3a6a938?siteid=yhoof2&yptr=yahoo) — *The Wall Street Journal 1:38 PM CT*
-- [Why Broadcom (AVGO) Anchors Our 10 Best Tech Stocks for the Next 5 Years](https://finance.yahoo.com/markets/stocks/articles/why-broadcom-avgo-anchors-10-193327821.html) — *Insider Monkey 1:33 PM CT*
-- [Elite AI Stocks To Own In November 2026](https://finance.yahoo.com/technology/ai/articles/elite-ai-stocks-own-november-191440788.html) — *Simply Wall St. 1:14 PM CT*
+### AVGO  $324.71  -2.79%
+- [Is Broadcom Stock a Buy Now?](https://www.fool.com/investing/2026/11/04/is-broadcom-stock-a-buy-now/) — *Motley Fool 12:20 PM CT*
+- [Broadcom Stocks Decline 1.49% as $63 Billion AI Financing Carries Residual-Value Risk](https://finance.yahoo.com/technology/ai/articles/broadcom-stocks-decline-1-49-181830621.html) — *GuruFocus.com 12:18 PM CT*
+- [Butterfly Trade Helps Investors Find A Nugget In This Sagging Stock](https://www.investors.com/research/options/broadcom-avgo-stock-butterfly-spread-options/?src=A00220&yptr=yahoo) — *Investor's Business Daily 11:57 AM CT*
 
 ---
 ## Market Headlines  *(Reuters · MarketWatch · CNBC)*
-- [Las Vegas Raiders owner Mark Davis says he feels no pressure to rush backup QB Fernando Mendoza](https://www.cnbc.com/2026/11/03/las-vegas-raiders-owner-mark-davis-wont-rush-fernando-mendoza-.html) — *CNBC 9:02 AM CT*
-- [Apple stock sinks as global memory crisis hurts profits, giving Ternus his first big test](https://www.cnbc.com/2026/11/03/apple-earnings-john-ternus-faces-first-test-amid-high-memory-costs.html) — *CNBC 8:38 AM CT*
-- [Baked by Melissa enters Target with first at-home cupcake mix](https://www.cnbc.com/2026/11/03/baked-by-melissa-cupcake-kits-target.html) — *CNBC 7:40 AM CT*
-- [New national home listing database is taking on Compass in the battle for control of real estate information](https://www.cnbc.com/2026/11/03/national-home-listing-database-battles-compass-in-real-estate-info-war.html) — *CNBC 7:00 AM CT*
-- [Trump DOJ sends target letters to Democrats in Alaska Senate criminal probe: Reports](https://www.cnbc.com/2026/11/03/trump-doj-election-lawsuits-monitors-2026-midterms.html) — *CNBC 2:25 PM CT*
-- [Binance breach puts custody at center of crypto infrastructure trade](https://www.cnbc.com/2026/11/03/binance-breach-puts-custody-at-center-of-crypto-infrastructure-trade.html) — *CNBC 2:13 PM CT*
-- [Fannie Mae, Freddie Mac rally as Ackman presses for conservatorship exit](https://www.cnbc.com/2026/11/03/ackman-fannie-mae-freddie-mac-conservatorship.html) — *CNBC 2:10 PM CT*
-- [JetBlue raises bag fees for third time in a year as fuel costs bite](https://www.cnbc.com/2026/11/03/jetblue-checked-bag-fee.html) — *CNBC 2:07 PM CT*
-- [‘It’s good to be old’: I’ve been invited to a dozen free meals that turn into annuity sales pitches. Should I stop going?](https://www.marketwatch.com/story/its-good-to-be-old-ive-been-invited-to-a-dozen-free-meals-that-turn-into-annuity-sales-pitches-should-i-stop-going-63df67ca?mod=mw_rss_topstories) — *MarketWatch 2:00 PM CT*
-- [An overlooked energy source could solve AI’s power crunch — and these 2 stocks are prime plays](https://www.marketwatch.com/story/an-overlooked-energy-source-could-solve-ais-power-crunch-and-these-2-stocks-are-prime-plays-bc5d988a?mod=mw_rss_topstories) — *MarketWatch 1:57 PM CT*
-- [Sen. Chris Murphy still hospitalized after suffering a stroke over the weekend](https://www.cnbc.com/2026/11/03/chris-murphy-hospitalized-stroke.html) — *CNBC 1:36 PM CT*
-- [Election Day: Here is the No. 1 issue we're watching as a signal for stocks](https://www.cnbc.com/investingclub/2026/11/03/election-day-here-is-the-no-1-issue-were-watching-as-a-signal-for-stocks.html) — *CNBC 1:29 PM CT*
+- [Elon Musk’s record election bet backfired. The backlash may reach beyond one billionaire](https://www.cnbc.com/2026/11/04/elon-musk-midterms-ai-data-centers.html) — *CNBC 9:29 AM CT*
+- [Caitlin Clark signs as first-ever brand partner with Dick's and Foot Locker](https://www.cnbc.com/2026/11/04/caitlin-clark-signs-as-first-brand-partner-with-dicks-foot-locker-.html) — *CNBC 9:00 AM CT*
+- [Blood banks targeted in latest European fridge cyberattacks](https://www.cnbc.com/2026/11/04/blood-bank-fridges-cyberattacks.html) — *CNBC 8:15 AM CT*
+- [SpaceX signs deal with Qualcomm to provide network technology for U.S. mobile service](https://www.cnbc.com/2026/11/04/spacex-strikes-deal-with-qualcomm-for-mobile-network-infrastructure.html) — *CNBC 7:53 AM CT*
+- [Private companies added 86,000 jobs in October, slightly higher than expected, ADP says](https://www.cnbc.com/2026/11/04/private-companies-added-86000-jobs-in-october-slightly-higher-than-expected-adp-says.html) — *CNBC 7:49 AM CT*
+- [China expands overseas mining stakes, tightening grip on critical minerals](https://www.cnbc.com/2026/11/04/china-critical-minerals-rare-earths-trump-japan-export-control-.html) — *CNBC 7:00 AM CT*
+- [5 midterm election takeaways: Tech billionaires suffer as Democrats drub Republicans](https://www.cnbc.com/2026/11/04/midterm-election-blue-wave-trump-billionaires.html) — *CNBC 6:51 AM CT*
+- [Mortgage rates drop for the third straight week, but homebuyers are still leaving the market](https://www.cnbc.com/2026/11/04/mortgage-rates-dropped-homebuyers-still-leaving.html) — *CNBC 6:51 AM CT*
+- [Strand bookstore to pay nearly $1.5 million over Covid loan tied to Sen. Wyden's wife](https://www.cnbc.com/2026/11/03/strand-bookstore-ppp-loan-ron-wyden-wife-settlement.html) — *CNBC 5:28 PM CT*
+- [Novo shares jump as Wegovy pill sales impress, drugmaker hikes outlook](https://www.cnbc.com/2026/11/04/novo-q3-earnings-wegovy-sales.html) — *CNBC 4:40 AM CT*
+- [Analysis: The Democrats have one chance to extract concessions from Trump. Markets will hate it](https://www.cnbc.com/2026/11/04/democrats-trump-debt-ceiling-fight.html) — *CNBC 2:28 PM CT*
+- [What Republicans' huge loss means for Trump](https://www.cnbc.com/2026/11/04/trump-midterm-election-results-congress.html) — *CNBC 2:23 PM CT*
 
 ---
-*Generated 2026-11-03 14:25 CT | last 24h | sources: yfinance + Reuters/MarketWatch/CNBC*
+*Generated 2026-11-04 14:41 CT | last 24h | sources: yfinance + Reuters/MarketWatch/CNBC*
