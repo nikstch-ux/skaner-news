@@ -1,16 +1,16 @@
-# Market News — Friday November 13 2026 — 02:47 PM CT
+# Market News — Monday November 16 2026 — 05:14 PM CT
 
-**SPY** $752.88  -0.90%  |  **VIX** 19.16  |  **Regime** OK  |  **Portfolio P&L** +$0  |  **Positions** 0
+**SPY** $739.95  -1.27%  |  **VIX** 22.91  |  **Regime** CAUTION ⚠  |  **Portfolio P&L** +$0  |  **Positions** 0
 
-## MARKET ALERTS — 9 priority stories
-- [‘We will sue them’: Canada threatens Stellantis as Trump trade war reshapes Jeep production plans](https://www.cnbc.com/2026/11/13/canada-stellantis-auto-trump-tariffs-jeep.html) — *CNBC 8:24 AM CT*
-- [Chicago Fed's Goolsbee says central bank 'has definitely got work to do' on inflation](https://www.cnbc.com/2026/11/13/chicago-feds-goolsbee-says-central-bank-has-definitely-got-work-to-do-on-inflation.html) — *CNBC 8:22 AM CT*
-- [Russian crude production rebounds after Trump diesel deal, IEA says as oil markets return to surplus](https://www.cnbc.com/2026/11/13/russia-oil-exports-iea-diesel-deal.html) — *CNBC 6:05 AM CT*
-- [Supreme Court agrees to hear Robinhood challenge to IPO information omission lawsuit](https://www.cnbc.com/2026/11/13/robinhood-supreme-court-ipo-lawsuit.html) — *CNBC 2:00 PM CT*
-- [Goldman Sachs looks to cash in on Anthropic's IPO, twice. Here's how and who else wants to](https://www.cnbc.com/investingclub/2026/11/13/goldman-sachs-looks-to-cash-in-on-anthropics-ipo-twice-heres-how-and-who-else-wants-to.html) — *CNBC 1:45 PM CT*
-- [The scandal at Nvidia is exactly what’s wrong with the S&P 500](https://www.marketwatch.com/story/the-scandal-at-nvidia-is-exactly-whats-wrong-with-the-s-p-500-7307457e?mod=mw_rss_topstories) — *MarketWatch 1:19 PM CT*
-- [Washington’s efforts to block Beijing’s access to Nvidia chips could spark a ‘short-lived U.S.-China trade war’ that rattles markets](https://www.marketwatch.com/story/washingtons-efforts-to-block-beijings-access-to-nvidia-chips-could-spark-a-short-lived-u-s-china-trade-war-that-rattles-markets-83078d84?mod=mw_rss_topstories) — *MarketWatch 1:19 PM CT*
-- [OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases for users](https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html) — *CNBC 12:56 PM CT*
+## MARKET ALERTS — 11 priority stories
+- [Cantwell urges Lutnick to stop AI chip sales to China ahead of Xi meeting](https://www.cnbc.com/2026/11/16/cantwell-lutnick-ai-chip-china.html) — *CNBC 6:13 AM CT*
+- [Aschenbrenner’s Situational Awareness made AI bets again before October rout](https://www.cnbc.com/2026/11/16/situational-awareness-aschenbrenner-new-ai-bets.html) — *CNBC 5:05 PM CT*
+- [JPMorgan Chase says temporary software bug is affecting consumer banking](https://www.cnbc.com/2026/11/16/jpmorgan-chase-technical-issue.html) — *CNBC 4:14 PM CT*
+- [California sues OpenAI over Hugging Face, other AI model loss of control](https://www.cnbc.com/2026/11/16/openai-california-bonta-ai-lawsuit.html) — *CNBC 4:11 PM CT*
+- [OpenAI inks agreements with four independent evaluators to boost company's safety work](https://www.cnbc.com/2026/11/16/openai-independent-ai-safety-evaluators.html) — *CNBC 3:54 PM CT*
+- [Nvidia fallout: Commerce targets loophole for China's data center use](https://www.cnbc.com/2026/11/16/nvidia-commerce-china-lutnick.html) — *CNBC 3:51 PM CT*
+- [Chase says ‘software bug’ could be causing disruptions at major U.S. banks](https://www.marketwatch.com/story/customers-of-chase-bank-of-america-and-other-u-s-banks-report-service-outages-18fe23b8?mod=mw_rss_topstories) — *MarketWatch 3:49 PM CT*
+- [‘Standing on one leg’: IMF chief warns about global economy as AI circular financing hits $1 trillion](https://www.cnbc.com/2026/11/16/imf-georgieva-warning-ai-circular-financing.html) — *CNBC 3:14 AM CT*
 
 
 ---
@@ -21,72 +21,73 @@
 ---
 ## Market Pulse
 
-### SPY  $752.88  -0.90%
-- [Intel attracts $79 million in ETF buying despite warning](https://finance.yahoo.com/markets/stocks/articles/intel-attracts-79-million-etf-171801765.html) — *GuruFocus.com 11:18 AM CT*
-- [Kevin Warsh’s Fed Will Vote on Rates Only 7 Times in 2027](https://247wallst.com/investing/2026/11/13/kevin-warshs-fed-will-vote-on-rates-only-7-times-in-2027/) — *24/7 Wall St. 11:13 AM CT*
-- [The S&P 500 Has a “Pure Value” Version. RPV Gives Its Cheapest Stocks the Biggest Weights](https://247wallst.com/investing/etf/2026/11/13/the-sp-500-has-a-pure-value-version-rpv-gives-its-cheapest-stocks-the-biggest-weights/) — *24/7 Wall St. 11:03 AM CT*
+### SPY  $739.95  -1.27%
+- [NVIDIA After Jensen: What's Next for the AI Trade?](https://finance.yahoo.com/technology/ai/articles/nvidia-jensen-whats-next-ai-213900593.html) — *Zacks 3:39 PM CT*
+- [Stock Market Today: Nasdaq-100 Sinks 1% as Nvidia Faces Its First Earnings Without Jensen Huang](https://247wallst.com/investing/2026/11/16/stock-market-today-nasdaq-100-sinks-1-as-nvidia-faces-its-first-earnings-without-jensen-huang/) — *24/7 Wall St. 8:58 AM CT*
+- [Exchange-Traded Funds, Equity Futures Lower Pre-Bell Monday Amid Weakness in AI-Linked Stocks](https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-141346501.html) — *MT Newswires 8:13 AM CT*
 
-### QQQ  $679.16  -1.87%
-- [The Stock Market's Early Rally Fades as Wholesale Inflation Hits 6.5%](https://finance.yahoo.com/markets/stocks/articles/stock-markets-early-rally-fades-185155071.html) — *GuruFocus.com 12:51 PM CT*
-- [Exchange-Traded Funds Lower as US Equities Drop After Midday](https://finance.yahoo.com/markets/articles/exchange-traded-funds-lower-us-181215784.html) — *MT Newswires 12:12 PM CT*
-- [QQQ Is in a Correction (Down 10%). Should You Buy More of This Popular Tech ETF?](https://www.fool.com/investing/2026/11/13/qqq-is-in-a-correction-down-10-should-you-buy-more/) — *Motley Fool 8:01 AM CT*
+### QQQ  $661.75  -1.91%
+- [Exchange-Traded Funds Lower as US Equities Drop After Midday](https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-lower-us-181915979.html) — *MT Newswires 12:19 PM CT*
+- [QQQI Ex-Dividend Date Is Nov 18. Here’s The Math For A 32-Year-Old Who Wants $1,000 A Month](https://247wallst.com/personal-finance/2026/11/16/qqqi-ex-dividend-date-is-nov-18-heres-the-math-for-a-32-year-old-who-wants-1000-a-month/) — *24/7 Wall St. 10:23 AM CT*
+- [Invesco QQQ (QQQ) Adds Apple and Nvidia on Nov. 12](https://finance.yahoo.com/markets/stocks/articles/invesco-qqq-qqq-adds-apple-110402348.html) — *GuruFocus.com 5:04 AM CT*
 
-### VIX  $19.16  +2.51%
-- [Defensive ETFs Gain Attention as Market Uncertainty Rises](https://finance.yahoo.com/markets/stocks/articles/defensive-etfs-gain-attention-market-120000166.html) — *Zacks 6:00 AM CT*
-- [Now Comes the Hard Part for the Stock Market](https://www.barrons.com/articles/nvidia-jensen-huang-stock-market-ai-trade-outlook-25292506?siteid=yhoof2&yptr=yahoo) — *Barrons.com 4:53 PM CT*
+### VIX  $22.91  +18.83%
+- [Top-Ranked ETFs That Are Worth Adding to Your Investment Radar](https://finance.yahoo.com/markets/stocks/articles/top-ranked-etfs-worth-adding-150900061.html) — *Zacks 9:09 AM CT*
+- [Stock Market News for Nov 16, 2026](https://finance.yahoo.com/markets/stocks/articles/stock-market-news-nov-16-132700717.html) — *Zacks 7:27 AM CT*
+- [Wall Street’s Fear Gauge Flashes Amber With Big Risks Ahead](https://www.barrons.com/livecoverage/stock-market-news-today-111626/card/wall-street-s-fear-gauge-flashes-amber-with-big-risks-ahead-Nio1Z9N02HOJyBSaLPCh?siteid=yhoof2&yptr=yahoo) — *Barrons.com 5:57 AM CT*
 
-### SMH  $485.71  -4.16%
-- [Michael Burry Sends Stark Warning on Chip Stocks After Huang's exit](https://finance.yahoo.com/markets/stocks/articles/michael-burry-sends-stark-warning-114111188.html) — *GuruFocus.com 5:41 AM CT*
-- [Wall Street Steady Pre-Bell Amid Nvidia CEO Departure; Asia Off, Europe Up](https://finance.yahoo.com/markets/stocks/articles/wall-street-steady-pre-bell-111911196.html) — *MT Newswires 5:19 AM CT*
-- [Michael Burry Doubles Down On Nasdaq 100 Puts, Adds To Semiconductor Shorts As Nvidia Faces Scrutiny](https://stocktwits.com/news-articles/markets/equity/michael-burry-doubles-down-on-nasdaq-100-puts-adds-to-semiconductor-shorts-as-nvidia-faces-scrutiny/cNGCfLLR9O4) — *Stocktwits 5:53 PM CT*
+### SMH  $461.9  -3.73%
+- [Best semiconductor ETFs: SMH leads on cost, liquidity and momentum](https://finance.yahoo.com/markets/stocks/articles/best-semiconductor-etfs-smh-leads-210610694.html) — *Investing.com 3:06 PM CT*
+- [Why AMD Stock Was Sliding Today](https://www.fool.com/investing/2026/11/16/why-amd-stock-was-sliding-today/) — *Motley Fool 10:51 AM CT*
+- [Time to Buy the Dip in NVIDIA Despite Leadership Turmoil? ETFs in Focus](https://finance.yahoo.com/markets/stocks/articles/time-buy-dip-nvidia-despite-120000307.html) — *Zacks 6:00 AM CT*
 
-### XLK  $169.95  -2.80%
-- [Sector Update: Tech Stocks Fall Late Afternoon](https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-fall-afternoon-202854233.html) — *MT Newswires 2:28 PM CT*
-- [Sector Update: Tech Stocks Fall Friday Afternoon](https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-fall-friday-182755340.html) — *MT Newswires 12:27 PM CT*
-- [Where These 4 Sector ETFs Stand Heading Into Year-End](https://www.fool.com/investing/2026/11/13/where-these-4-sector-etfs-stand-heading-into-year/) — *Motley Fool 10:03 AM CT*
+### XLK  $164.76  -2.39%
+- [Sector Update: Tech Stocks Fall Late Afternoon](https://finance.yahoo.com/technology/ai/articles/sector-tech-stocks-fall-afternoon-204917523.html) — *MT Newswires 2:49 PM CT*
+- [Sector Update: Tech Stocks Fall Monday Afternoon](https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-fall-monday-182826905.html) — *MT Newswires 12:28 PM CT*
+- [Sector Update: Tech Stocks Fall Premarket Monday](https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-fall-premarket-141200546.html) — *MT Newswires 8:12 AM CT*
 
 ---
 ## AI / Semiconductor Sector
 
-### NVDA  $162.24  -3.45%
-- ['Nothing has changed': Why some Nvidia stock bulls aren't wavering after Jensen Huang ouster](https://finance.yahoo.com/technology/article/nothing-has-changed-why-some-nvidia-stock-bulls-arent-wavering-after-jensen-huang-ouster-204522204.html) — *Yahoo Finance 2:45 PM CT*
-- [Rene Haas, Ian Buck, Chris Malachowsky: Wall Street zeroes in on potential Nvidia CEO successors](https://finance.yahoo.com/markets/article/rene-haas-ian-buck-chris-malachowsky-wall-street-zeroes-in-on-potential-nvidia-ceo-successors-204105759.html) — *Yahoo Finance 2:41 PM CT*
-- [Cisco CEO on trusting Nvidia chips after Jensen Huang's exit: 'Absolutely'](https://finance.yahoo.com/video/cisco-ceo-on-trusting-nvidia-chips-after-jensen-huangs-exit-absolutely-201049124.html) — *Yahoo Finance Video 2:10 PM CT*
+### NVDA  $156.14  -2.95%
+- [Nvidia stock valuation looks 'draconian,' even without Jensen Huang: Analyst](https://finance.yahoo.com/markets/stocks/article/nvidia-stock-valuation-looks-draconian-even-without-jensen-huang-analyst-220000337.html) — *Yahoo Finance 4:00 PM CT*
+- [The S&P 500's shot at 4 straight double-digit years is in Nvidia's hands](https://finance.yahoo.com/markets/article/the-sp-500s-shot-at-4-straight-double-digit-years-is-in-nvidias-hands-191852498.html) — *Yahoo Finance 1:18 PM CT*
+- [The cost of ousting a founder: Is the 'bank of Nvidia' at risk?](https://finance.yahoo.com/video/the-cost-of-ousting-a-founder-is-the-bank-of-nvidia-at-risk-214610525.html) — *Yahoo Finance Video 3:46 PM CT*
 
-### AMD  $532.3  -8.87%
-- [AMD CEO Lisa SU on being named Yahoo Finance CEO of the Year](https://finance.yahoo.com/video/amd-ceo-lisa-su-on-being-named-yahoo-finance-ceo-of-the-year-153508730.html) — *Yahoo Finance Video 9:35 AM CT*
-- [Stock market today: Nasdaq leads Dow, S&P 500 lower as chip stock sell-off accelerates](https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html) — *Yahoo Finance 5:01 AM CT*
-- [Bank of America resets AMD stock price target as Nvidia CEO exits](https://www.thestreet.com/investing/stocks/bank-of-america-amd-price-target) — *TheStreet 2:13 PM CT*
+### AMD  $504.28  -3.39%
+- [AMD, Broadcom stocks sink on tighter US chip rules, CoreWeave and Nebius shares drop](https://finance.yahoo.com/markets/stocks/article/amd-broadcom-stocks-sink-on-tighter-us-chips-rules-coreweave-drops-143342994.html) — *Yahoo Finance 8:24 AM CT*
+- [AMD finalizes $8.2 billion World Labs acquisition, adds 'godmother of AI' as EVP and chief scientist](https://finance.yahoo.com/technology/article/amd-finalizes-82-billion-world-labs-acquisition-adds-godmother-of-ai-as-evp-and-chief-scientist-171451986.html) — *Yahoo Finance 11:14 AM CT*
+- [Dow Jones Futures: AMD, Nvidia, Micron Lead AI Trade Lower With Nvidia Earnings On Deck](https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-stock-nvda-nvidia-earnings-next/?src=A00220&yptr=yahoo) — *Investor's Business Daily 3:55 PM CT*
 
-### TSM  $399.35  -2.58%
-- [Taiwan Semiconductor Manufacturing (TSM) Takes A $1 Billion Step Further Into AI](https://finance.yahoo.com/technology/ai/articles/taiwan-semiconductor-manufacturing-tsm-takes-191146480.html) — *Simply Wall St. 1:11 PM CT*
-- [Samsung Electronics Stocks Move Lower as Nvidia CEO Exit Tests AI Memory Rally](https://finance.yahoo.com/markets/stocks/articles/samsung-electronics-stocks-move-lower-183110049.html) — *GuruFocus.com 12:31 PM CT*
-- [3 Water Utility Stocks for Steady Income. One Has Raised Dividends for 54 Years](https://247wallst.com/investing/2026/11/13/3-water-utility-stocks-for-steady-income-one-has-raised-dividends-for-54-years/) — *24/7 Wall St. 12:17 PM CT*
+### TSM  $373.45  -5.36%
+- [Huang’s ‘trillion-dollar dinners’ with Taiwan chip bosses were Nvidia’s secret weapon. Now he’s out. Can he be replaced?](https://finance.yahoo.com/technology/articles/huang-trillion-dollar-dinners-taiwan-230000506.html) — *Moneywise 5:00 PM CT*
+- [Top Analyst Reports for Taiwan Semiconductor, Johnson & Johnson and Palantir](https://finance.yahoo.com/markets/stocks/articles/top-analyst-reports-taiwan-semiconductor-205900812.html) — *Zacks 2:59 PM CT*
+- [TSMC Slumps Nearly 6% as Jensen Huang’s Exit and AI Debt Fears Rattle Investors Ahead of Nvidia Earnings](https://www.benzinga.com/markets/prediction-markets/26/11/63319299/tsmc-nvidia-financing?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral) — *Benzinga Prediction Markets 2:30 PM CT*
 
-### MRVL  $156.55  -6.98%
-- [Marvell Is Still Up 81% This Year. Can MRVL Stock Hit $300 by 2029?](https://247wallst.com/investing/2026/11/13/marvell-is-still-up-81-this-year-can-mrvl-stock-hit-300-by-2029/) — *24/7 Wall St. 11:54 AM CT*
-- [NVIDIA Is Now Down 30% in a Month: Bessent Asks Whether NVIDIA Knew Its Clients, Dan Ives Says Huang Was Worth $1 Trillion](https://247wallst.com/investing/2026/11/13/nvidia-is-now-down-30-in-a-month-bessent-asks-whether-nvidia-knew-its-clients-dan-ives-says-huang-was-worth-1-trillion/) — *24/7 Wall St. 11:03 AM CT*
-- [Marvell Stocks Fall 6.6% as Lumentum Deal Spread Widens to 18%](https://finance.yahoo.com/markets/stocks/articles/marvell-stocks-fall-6-6-164033741.html) — *GuruFocus.com 10:40 AM CT*
+### MRVL  $145.36  -5.11%
+- [5 Unstoppable Stocks to Buy According to Analysts](https://finance.yahoo.com/markets/stocks/articles/5-unstoppable-stocks-buy-according-220213130.html) — *Insider Monkey 4:02 PM CT*
+- [CoreWeave, Oracle and Nebius Plunge as Nvidia Fallout Rattles AI Stocks](https://finance.yahoo.com/technology/ai/articles/coreweave-oracle-nebius-plunge-nvidia-192652785.html) — *GuruFocus.com 1:26 PM CT*
+- [Marvell Technology (MRVL) Adds Three Directors After AI Memory Reveal At SC26](https://finance.yahoo.com/technology/ai/articles/marvell-technology-mrvl-adds-three-191207405.html) — *Simply Wall St. 1:12 PM CT*
 
-### AVGO  $345.68  -5.57%
-- [Investing.com’s stocks of the week](https://finance.yahoo.com/markets/stocks/articles/investing-com-stocks-week-193622777.html) — *Investing.com 1:36 PM CT*
-- [How Investors May Respond To Broadcom (AVGO) As Nvidia Rivals Gain Attention](https://finance.yahoo.com/markets/stocks/articles/investors-may-respond-broadcom-avgo-191037922.html) — *Simply Wall St. 1:10 PM CT*
-- [Why Broadcom Stock Dove Today](https://www.fool.com/investing/2026/11/13/why-broadcom-stock-dove-today/) — *Motley Fool 12:20 PM CT*
+### AVGO  $333.4  -2.37%
+- [AI Stocks Resume Their Slide](https://www.wsj.com/finance/stocks/ai-stocks-resume-their-slide-1094403c?siteid=yhoof2&yptr=yahoo) — *The Wall Street Journal 3:38 PM CT*
+- [Broadcom Stocks Slide 4.76% as Downgrade Keeps AI Financing Fears in Focus](https://finance.yahoo.com/markets/stocks/articles/broadcom-stocks-slide-4-76-181829964.html) — *GuruFocus.com 12:18 PM CT*
+- [Jensen Huang Reportedly Mulls Nvidia Comeback, But Not The Board](https://www.investors.com/news/technology/jensen-huang-considers-returning-to-nvidia-stock/?src=A00220&yptr=yahoo) — *Investor's Business Daily 12:08 PM CT*
 
 ---
 ## Market Headlines  *(Reuters · MarketWatch · CNBC)*
-- [Nvidia scandal draws in Commerce Secretary Lutnick, who reportedly agrees to testify about China chip sales](https://www.cnbc.com/2026/11/13/nvidia-scandal-lutnick-chip-sales.html) — *CNBC 9:49 AM CT*
-- [Wholesale prices rose 0.3% in October, putting annual rate at 6.5%, the highest in nearly four years](https://www.cnbc.com/2026/11/13/ppi-inflation-report-october-2026.html) — *CNBC 9:44 AM CT*
-- [What's ahead for AI financing after Nvidia CEO Jensen Huang departs](https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-resignation-ai-financing.html) — *CNBC 9:34 AM CT*
-- [NHL’s next TV deal will test the league’s strength while media companies prepare for NFL rights increase](https://www.cnbc.com/2026/11/13/nhls-next-media-deal-will-test-the-leagues-strength.html) — *CNBC 9:04 AM CT*
-- [Apple, Alphabet and Uber survived major founder transitions. Nvidia will be a harder test](https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-founder-ceo-transition.html) — *CNBC 9:03 AM CT*
-- [Jensen Huang scandal casts doubt on Nvidia’s AI dominance — how we got here](https://www.cnbc.com/2026/11/13/jensen-huang-scandal-casts-doubt-on-nvidias-ai-dominance-how-we-got-here.html) — *CNBC 8:01 AM CT*
-- [Trump says he wants to ‘get Cuba done’ before leaving office, would consider military force](https://www.cnbc.com/2026/11/13/trump-cuba-us-military-force-iran.html) — *CNBC 7:04 AM CT*
-- [CNBC's Official NHL Team Valuations 2026: How the 32 franchises stack up](https://www.cnbc.com/2026/11/13/cnbcs-official-nhl-team-valuations-2026-how-the-32-clubs-stack-up.html) — *CNBC 6:47 AM CT*
-- [U.S. seizes $1.2 billion in cryptocurrency stolen from Binance](https://www.cnbc.com/2026/11/13/us-seizes-binance-hack-crypto.html) — *CNBC 6:03 AM CT*
-- [From Jell-O to Philadelphia cream cheese, Kraft Heinz is putting a new spin on old favorites](https://www.cnbc.com/2026/11/12/kraft-heinz-bets-on-protein-foods-to-revive-sales.html) — *CNBC 5:41 PM CT*
-- [How to figure out a key question this open-enrollment season: Are you overpaying for health insurance?](https://www.marketwatch.com/story/am-i-overpaying-for-health-insurance-how-to-answer-the-key-question-this-open-enrollment-season-2d00ed55?mod=mw_rss_topstories) — *MarketWatch 2:45 PM CT*
-- [Hassett denies report he's leaving White House: 'Not true'](https://www.cnbc.com/2026/11/13/kevin-hassett-white-house-nec.html) — *CNBC 2:27 PM CT*
+- ['We slept here': Flight delays linger as airlines recover from ground stop, but schedule improves Monday](https://www.cnbc.com/2026/11/15/flight-delays-ground-faa-stop.html) — *CNBC 9:56 AM CT*
+- [Novo says Wegovy injection lowers BMI and obesity rates in children in trial](https://www.cnbc.com/2026/11/16/novo-wegovy-obesity-children-trial.html) — *CNBC 9:00 AM CT*
+- [A major NFT marketplace is shutting down—5 years after the boom, there's a lesson for investors](https://www.cnbc.com/make-it/2026/11/16/5-years-after-the-nft-boom-theres-a-lesson-for-investors-.html) — *CNBC 8:00 AM CT*
+- [Nvidia's Colette Kress confronts key questions in first earnings report since Jensen Huang’s exit](https://www.cnbc.com/2026/11/16/nvidia-earnings-jensen-huang-resignation.html) — *CNBC 7:42 AM CT*
+- [United Airlines suffers system outage amid lingering FAA ground-stop delays](https://www.marketwatch.com/story/united-airlines-suffers-system-outage-amid-lingering-faa-ground-stop-delays-5e33f94c?mod=mw_rss_topstories) — *MarketWatch 5:10 PM CT*
+- [United Airlines resolves system outage that affected departing flights](https://www.cnbc.com/2026/11/16/united-airlines-outage-faa.html) — *CNBC 5:08 PM CT*
+- [Do Amazon’s Black Friday deals really save you money? A new report claims they don’t.](https://www.marketwatch.com/story/do-amazons-black-friday-deals-really-save-you-money-03859cf3?mod=mw_rss_topstories) — *MarketWatch 5:04 PM CT*
+- [Berkshire Hathaway raised its stake in Delta in the third quarter. It also trimmed a key bank holding](https://www.cnbc.com/2026/11/16/berkshire-hathaway-raised-its-stake-in-delta-air-in-the-third-quarter.html) — *CNBC 5:01 PM CT*
+- [My husband is happily retired at 64 and thinks I should keep working. Is he being fair?](https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories) — *MarketWatch 5:00 PM CT*
+- [CNBC's The China Connection newsletter: As Nike and Lululemon struggle in China, Xiaohongshu is helping local brands take off](https://www.cnbc.com/2026/11/16/as-nike-lululemon-struggle-in-china-xiaohongshu-helps-local-brands.html) — *CNBC 5:00 PM CT*
+- [U.S. dollar’s AI-driven breakout could become a stock-market wrecking ball](https://www.marketwatch.com/story/u-s-dollars-ai-driven-breakout-could-become-a-stock-market-wrecking-ball-18199b95?mod=mw_rss_topstories) — *MarketWatch 4:46 PM CT*
+- [Trump’s accounts traded up to $97.5 million in Nvidia as Huang gained White House access](https://www.cnbc.com/2026/11/16/trump-nvidia-stock-trades-jensen-huang.html) — *CNBC 4:37 PM CT*
 
 ---
-*Generated 2026-11-13 14:47 CT | last 24h | sources: yfinance + Reuters/MarketWatch/CNBC*
+*Generated 2026-11-16 17:14 CT | last 24h | sources: yfinance + Reuters/MarketWatch/CNBC*
